@@ -11,4 +11,4 @@
 |------|------|---------|
 |------|------|---------|
 |------|------|---------|
-|Yago Milagres Passos|200049879|[@yagomassos](htts://github.com/yagompassos)|
+|Yago Milagres Passos|200049879|[@yagomassos](https://github.com/yagompassos)|
