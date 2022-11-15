@@ -1,1 +1,7 @@
 site_name: My Docs
+
+repo_name: 2022.2-Grupo6
+repo_url: https://github.com/Interacao-Humano-Computador/2022.2-Grupo6
+
+theme:
+  name: material
