@@ -14,26 +14,31 @@ de avaliação empregados incluem a avaliação heurística.
 ## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-<img src="./_media/bnb.png">
+<img src="_media/bnb.png">
 
 ### PCDF - Polícia Civil do Distrito Federal
-<img src="./_media/pcdf.jpg">
+<img src="_media/pcdf.jpg">
+
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
 O escopo da avaliação feita foi a área de Carteira de Identidade (https://www.pcdf.df.gov.br/servicos/carteira-de-identidade), que provém informações sobre o agendamento da mesma e possui a funcionalidade de realizar o agendamento em si.
 
 A avaliação visou detectar problemas na interação e interface que poderiam atrapalhar os usuários. O resultado foi a constatação de erros de severidade grave no design e na interface, que dificultam muito o que deveria ser algo simples.
 
+
 ### Cebraspe  
-<img src="./_media/cebraspe.png">
+<img src="_media/cebraspe.png">
+
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
 O site dessa instituição é https://www.cebraspe.org.br/, o qual é principalmente utilizado para se cadastrar em concursos publicos e o PAS assim como outros métodos para entrar na UnB. 
 
 O método de avaliação escolhido foi a avaliação heurística, seguindo o caminho de um aluno do ensino médio tentando se inscrever no PAS 
 Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse tem sua própria seção separado dos outros métodos que caso o usuário apenas clique na parte de "acesso á universidade" não irá ver, outro é que Olá parte de inscrição depois do login não separa entre os concursos o que pode ficar confuso para o usuário, também existe uma falta de opções de acessibilidade no site.
 
+
 ### Software Livre Brasil
-<img src="./_media/tvslb.png">
+<img src="_media/tvslb.png">
+
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
 que contém registros de eventos, vídeos de palestras, links que levam a comunidades e a membros do site, ao canal no YouTube e abas para registrar-se no domínio.
 
@@ -58,12 +63,3 @@ A PARTIR DAQUI, OUTRA ABA
 </p>
 
 
-
-### Resumo
-<p style="text-align: justify;">
-Nessa reunião estavam presentes:Guilherme,Jefferson,Lucas,Rodrigo e Yago. Essa reunião serviu para começar a discutir sobre o trabalho em sí foi dicutido sobre os sites escolhidos mas como nenhum mebro tinha começado a avaliação dos sites foi decidido deixar para decidir depois que cada um divesse feito sua avaliação, depois foi começado a separação de tarefas com base nos pontos que estavam no plano de ensino mais foi decidido deixar para colocar no grupo do whatsapp as tarefas e como issues no github para cada membro escolher.
-
-</p>
-
-## Conclusão
-Os integrantes dão por encerrada a reunião às 20:02 do dia 10/11/2022.
