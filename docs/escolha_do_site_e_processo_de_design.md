@@ -17,7 +17,7 @@ de avaliação empregados incluem a avaliação heurística.
 <img src="./_media/bnb.png">
 
 ### PCDF - Polícia Civil do Distrito Federal
-
+<img src="./_media/pcdf.jpg">
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
 O escopo da avaliação feita foi a área de Carteira de Identidade (https://www.pcdf.df.gov.br/servicos/carteira-de-identidade), que provém informações sobre o agendamento da mesma e possui a funcionalidade de realizar o agendamento em si.
@@ -25,7 +25,7 @@ O escopo da avaliação feita foi a área de Carteira de Identidade (https://www
 A avaliação visou detectar problemas na interação e interface que poderiam atrapalhar os usuários. O resultado foi a constatação de erros de severidade grave no design e na interface, que dificultam muito o que deveria ser algo simples.
 
 ### Cebraspe  
-![https://www.security.cespe.unb.br/DEPEN_15/LocalHorario/images/logo-cebraspe-Completa-cor-g.png](cebraspe.png)
+<img src="./_media/cebraspe.png">
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
 O site dessa instituição é https://www.cebraspe.org.br/, o qual é principalmente utilizado para se cadastrar em concursos publicos e o PAS assim como outros métodos para entrar na UnB. 
 
@@ -33,7 +33,7 @@ O método de avaliação escolhido foi a avaliação heurística, seguindo o cam
 Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse tem sua própria seção separado dos outros métodos que caso o usuário apenas clique na parte de "acesso á universidade" não irá ver, outro é que Olá parte de inscrição depois do login não separa entre os concursos o que pode ficar confuso para o usuário, também existe uma falta de opções de acessibilidade no site.
 
 ### Software Livre Brasil
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBt8BfwwSriNU_b4FZRjajzwdUDULq0y9PpFW2xhu6SCgCQrx7AWZxJZlnKaVXP3iey-o&usqp=CAU](slb.png)
+<img src="./_media/tvslb.png">
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
 que contém registros de eventos, vídeos de palestras, links que levam a comunidades e a membros do site, ao canal no YouTube e abas para registrar-se no domínio.
 
