@@ -8,13 +8,14 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
 
 |          Tarefa           | Data Limite |              Autor(er)               | Revisor(es) |
 | :-----------------------: | :---------: | :----------------------------------: | :---------: |
-| Cronograma das atividades |    23/11    | Gabriel Marcolino e Jefferson Franca |             |
-|  Ferramentas do projeto   |    23/11    |               Gabriel                |             |
-|    Introdução e Equipe    |    23/11    |              Jefferson               |             |
-| Lista de sites avaliados  |    23/11    |                                      |             |
-|  Planejamento do projeto  |    23/11    |                                      |             |
-|    Processo de design     |    23/11    |                                      |             |
-|      Site escolhido       |    23/11    |                                      |             |
+|      Atas das reuniões    |    23/11    |              Guilherme               |    Yago     |
+| Cronograma das atividades |    23/11    | Gabriel Marcolino e Jefferson Franca |   Rodrigo   |
+|  Ferramentas do projeto   |    23/11    |           Gabriel e Lucas            |  Jefferson  |
+|    Introdução e Equipe    |    23/11    |              Jefferson               |  Guilherme  |
+| Lista de sites avaliados  |    23/11    |               Rodrigo                |   Gabriel   |
+|  Planejamento do projeto  |    23/11    |         Todos os integrantes         |    Todos    |
+|    Processo de design     |    23/11    |                 Yago                 |    Lucas    |
+|      Site escolhido       |    23/11    |         Todos os integrantes         |    Todos    |
 
 ## Entrega 2 - (07/12)
 
