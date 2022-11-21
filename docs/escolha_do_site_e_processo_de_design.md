@@ -14,10 +14,10 @@ de avaliação empregados incluem a avaliação heurística.
 ## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-<img src="_media/bnb.png">
+![alt text](_media/bnb.png)
 
 ### PCDF - Polícia Civil do Distrito Federal
-<img src="_media/pcdf.jpg">
+![alt text](_media/pcdf.jpg)
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
@@ -27,7 +27,7 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 
 
 ### Cebraspe  
-<img src="_media/cebraspe.png">
+![alt text](_media/cebraspe.png)
 
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
 O site dessa instituição é https://www.cebraspe.org.br/, o qual é principalmente utilizado para se cadastrar em concursos publicos e o PAS assim como outros métodos para entrar na UnB. 
@@ -37,7 +37,7 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 
 
 ### Software Livre Brasil
-<img src="_media/tvslb.png">
+![alt text](_media/tvslb.png)
 
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
 que contém registros de eventos, vídeos de palestras, links que levam a comunidades e a membros do site, ao canal no YouTube e abas para registrar-se no domínio.
