@@ -14,7 +14,7 @@ de avaliação empregados incluem a avaliação heurística.
 ## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-<img src="docs/_media/Biblioteca_Nacional_de_Brasília_-_logo.png">
+<img src="../_media/Biblioteca_Nacional_de_Brasília_-_logo.png">
 
 ### PCDF - Polícia Civil do Distrito Federal
 
