@@ -14,10 +14,10 @@ de avaliação empregados incluem a avaliação heurística.
 ## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-![https://upload.wikimedia.org/wikipedia/commons/f/f1/Biblioteca_Nacional_de_Bras%C3%ADlia_-_logo.png](bnb.png)
+<img src="../_media/Biblioteca_Nacional_de_Brasília_-_logo.png">
 
 ### PCDF - Polícia Civil do Distrito Federal
-![https://pbs.twimg.com/profile_images/1394293677997150212/Jp_5VYPI_400x400.jpg](pcdf.png)
+
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
 O escopo da avaliação feita foi a área de Carteira de Identidade (https://www.pcdf.df.gov.br/servicos/carteira-de-identidade), que provém informações sobre o agendamento da mesma e possui a funcionalidade de realizar o agendamento em si.
