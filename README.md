@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 Bem-vindo(a)! Este é o repositório 2022.2-PCDF da matéria de Interação Humano-Computador (IHC), lecionada pelo professor André Barros de Sales na Universidade de Brasília (UnB), Campus do Gama (FGA).
 
-Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a análise completa de um site sob a perspectiva da matéria de IHC até o final do semestre. 
+Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a avaliação e documentação do agendamento de carteira de identidade online, no site da Polícia Civil do Distrito Federal (PCDF), sob a perspectiva da matéria de IHC, até o final do semestre 2022/2. 
 
 ## Equipe
 
