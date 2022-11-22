@@ -1,7 +1,14 @@
 site_name: IHC - Projeto de Avaliação da PCDF
 
-repo_name: 2022.2-Grupo6
-repo_url: https://github.com/Interacao-Humano-Computador/2022.2-Grupo6
+repo_name: 2022.2-PCDF
+repo_url: https://github.com/Interacao-Humano-Computador/2022.2-PCDF
 
 theme:
   name: material
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      - Escolha do site: escolha_do_site.md
+      - Cronograma: cronograma.md
+      - Processo de design: processo_de_design.md
