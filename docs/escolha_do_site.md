@@ -9,6 +9,11 @@ de avaliação empregados incluem a avaliação heurística.
 ### BNB - Biblioteca Nacional de Brasília
 ![alt text](_media/bnb.png)
 
+A Biblioteca Nacional de Brasília tem um grande acervo de livros para que o público possa utilizá-los, ela se encontra na cidade de Brasília, no Distrito Federal, próxima a Rodoviária do Plano Piloto e faz parte do Complexo Cultural da República João Herculino, localizado na Esplanada dos Ministérios.
+
+Além disso, ela conta com um site para que o público possa consultar o acervo de livros disponíveis e também fazer reservas dos livros. Foi feita a avaliação heurística do site, com o intuito de encontrar algo que ferisse alguma das heurísticas de Nielsen, assim foi avaliado o site  e encontrado alguns problemas de usabilidade.
+
+
 ### PCDF - Polícia Civil do Distrito Federal
 ![alt text](_media/pcdf.jpg)
 
