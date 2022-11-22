@@ -4,24 +4,13 @@
 Considerando a tarefa em mãos, para a fase inicial do planejamento, o grupo escolheu entre os sítios avaliados em seus respectivos trabalhos individuais. Os métodos
 de avaliação empregados incluem a avaliação heurística.
 
-## Sites Avaliados
+## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-
-<center>
-    ![Logo BNB](_media/bnb.png)
-</center>
-
-A Biblioteca Nacional de Brasília tem um grande acervo de livros para que o público possa utilizá-los, ela se encontra na cidade de Brasília, no Distrito Federal, próxima a Rodoviária do Plano Piloto e faz parte do Complexo Cultural da República João Herculino, localizado na Esplanada dos Ministérios.
-
-Além disso, ela conta com um site para que o público possa consultar o acervo de livros disponíveis e também fazer reservas dos livros. Foi feita a avaliação heurística do site, com o intuito de encontrar algo que ferisse alguma das heurísticas de Nielsen, assim foi avaliado o site  e encontrado alguns problemas de usabilidade.
-
+![alt text](_media/bnb.png)
 
 ### PCDF - Polícia Civil do Distrito Federal
-
-<center>
-    ![Logo PD-DF](_media/pcdf.jpg)
-</center>
+![alt text](_media/pcdf.jpg)
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
@@ -31,10 +20,7 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 
 
 ### Cebraspe  
-
-<center>
-    ![Logo Cebraspe](_media/cebraspe.png)
-</center>
+![alt text](_media/cebraspe.png)
 
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
 O site dessa instituição é https://www.cebraspe.org.br/, o qual é principalmente utilizado para se cadastrar em concursos publicos e o PAS assim como outros métodos para entrar na UnB. 
@@ -44,10 +30,7 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 
 
 ### Software Livre Brasil
-
-<center>
-    ![Logo Software Livre Brasil](_media/tvslb.png)
-</center>
+![alt text](_media/tvslb.png)
 
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
 que contém registros de eventos, vídeos de palestras, links que levam a comunidades e a membros do site, ao canal no YouTube e abas para registrar-se no domínio.
@@ -56,16 +39,18 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 
 
 ## Site Escolhido
-
 O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da PCDF (Polícia Civil do Distrito Federal). Visando o objetivo da matéria de IHC, e considerando o quanto que cada site seguia as heurísticas de Nielsen, esse é o site com a magnitude de erro mais grave encontrado pelo grupo que atendia às condições necessárias do projeto.
 
 A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para serviços relacionados a carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, e erros mais impactantes a serem corrigidos. Outro importante motivo de escolha foi exatamente por ser um serviço intencionado para diversos tipos de usuários, o que tornará a coleta de dados muito mais frutífera, ajudando no crescimento e desenvolvimento do projeto.
 
+## Referências
+
+1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+
 ## Histórico de Versão
 
-|    Data    | Versão |                        Descrição                        |     Autor(es)      | Revisor(es) |
-| :--------: | :----: | :-----------------------------------------------------: | :----------------: | :---------: |
-| 20/11/2022 |  0.1   |     Acompanhamento do processo de escolha do grupo.     | Rodrigo de Andrade |             |
-| 22/11/2022 |  0.2   | Adicionando informações sobre a BNB e alinhando imagens | Gabriel Marcolino  |             |
+|  Data  | Versão | Descrição | Autor | Revisor |
+| :----: | :----: | :-------: | :---: | :--------:|
+| 20.11.2022 | 0.1 | Acompanhamento do processo de escolha do grupo. | Rodrigo de Andrade |  | 
 
 

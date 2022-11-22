@@ -8,7 +8,7 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
 
 |          Tarefa           | Data Limite |              Autor(er)               | Revisor(es) |
 | :-----------------------: | :---------: | :----------------------------------: | :---------: |
-|     Atas das reuniões     |    23/11    |              Guilherme               |    Yago     |
+|      Atas das reuniões    |    23/11    |              Guilherme               |    Yago     |
 | Cronograma das atividades |    23/11    | Gabriel Marcolino e Jefferson Franca |   Rodrigo   |
 |  Ferramentas do projeto   |    23/11    |           Gabriel e Lucas            |  Jefferson  |
 |    Introdução e Equipe    |    23/11    |              Jefferson               |  Guilherme  |
@@ -88,9 +88,10 @@ Para poder decidir qual o melhor horário das reuniões semanais que teremos dur
 
 Com base no resultado da planilha, foi de comum acordo entre os membros da equipe que teremos reuniões semanais, as terças-feiras, para podermos discutir o projeto.  
 
-![Planilha com os horários livres em comum da equipe](_media/timeline/planilha.jpeg)
-
 Figura 1: Horários disponíveis para o grupo se reunir
+
+![alt text](_media/timeline/planilha.jpeg)
+
 Fonte: Autoria própria
 
 ## Referências
@@ -99,7 +100,6 @@ Fonte: Autoria própria
 
 ## Histórico de Versão
 
-|    Data    | Versão |                     Descrição                      |                                               Auto(es)                                               |
-| :--------: | :----: | :------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| 19/11/2022 |  0.1   |                Criação do documento                | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |
-| 22/11/2022 |  0.2   | Atualizando a imagem do cronograma dos integrantes |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         |
+|    Data    | Versão |      Descrição       |                                               Auto(es)                                               |
+| :--------: | :----: | :------------------: | :--------------------------------------------------------------------------------------------------: |
+| 19/11/2022 |  0.1   | Criação do documento | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |
