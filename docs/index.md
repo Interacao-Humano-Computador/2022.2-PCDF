@@ -1,4 +1,4 @@
-# Início
+<h1 align="center">Início</h1>
 
 ## Sobre o Projeto
 Bem-vindo(a)! Este é o site do repositório 2022.2-Grupo6 da matéria de Interação Humano-Computador (IHC), lecionada pelo professor André Barros de Sales na Universidade de Brasília (UnB), Campus do Gama (FGA).
