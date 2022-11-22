@@ -1,11 +1,4 @@
-# Escolha do Site 
-
-
-### Histórico de Versão
-
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 20.11.2022 | 0.1 | Acompanhamento do processo de escolha do grupo. | Rodrigo de Andrade |  | 
+<h1 align="center">Escolha do Site</h1>
 
 ## Introdução
 Considerando a tarefa em mãos, para a fase inicial do planejamento, o grupo escolheu entre os sítios avaliados em seus respectivos trabalhos individuais. Os métodos
@@ -48,7 +41,12 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 ## Site Escolhido
 O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da PCDF (Polícia Civil do Distrito Federal). Visando o objetivo da matéria de IHC, e considerando o quanto que cada site seguia as heurísticas de Nielsen, esse é o site com a magnitude de erro mais grave encontrado pelo grupo que atendia às condições necessárias do projeto.
 
-A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para uma carteira de identidade, trará perspectivas de interesse a serem estudadas. Considerando também a natureza do serviço, uma ampla gama de usuários estará disponível, o que permitirá futuras abordagens e entrevistas com os usuários para uma coleta de dados maior e mais variada, permitindo o desenvolvimento e crescimento do projeto.
+A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para uma criação de uma carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, parte por ser um serviço intencionado para qualquer tipo de usuário, o que permitirá uma ampla criação de personas para tornar o estudo do sítio mais frutífero.
 
+### Histórico de Versão
+
+|  Data  | Versão | Descrição | Autor | Revisor |
+| :----: | :----: | :-------: | :---: | :--------:|
+| 20.11.2022 | 0.1 | Acompanhamento do processo de escolha do grupo. | Rodrigo de Andrade |  | 
 
 
