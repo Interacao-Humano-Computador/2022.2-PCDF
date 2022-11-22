@@ -11,7 +11,7 @@ Escolher um processo de design adequado à experiência do grupo e que mais acom
 
 A Engenharia de Usabilidade de Mayhew é um processo de design compreensivo e detalhado, detalhando três fases do desenvolvimento do projeto, sendo essas a análise de requisitos, a fase de design e a instalação. O motivo da escolha deste processo em particular veio através de aulas onde foi altamente recomendado, considerando a esxperiência do grupo com o desenvolvimento de projetos desse estilo. Um ciclo mais direto ao ponto, como O Ciclo de Vida Simples, acaba por tirar muitos detalhes e considera que o avaliador já está acostumado com todas as atividades, necessitando apenas de uma referência em vez de um guia.
 
-### Histórico de Versão
+## Histórico de Versão
 
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :--------:|

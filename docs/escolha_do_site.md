@@ -41,9 +41,9 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 ## Site Escolhido
 O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da PCDF (Polícia Civil do Distrito Federal). Visando o objetivo da matéria de IHC, e considerando o quanto que cada site seguia as heurísticas de Nielsen, esse é o site com a magnitude de erro mais grave encontrado pelo grupo que atendia às condições necessárias do projeto.
 
-A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para uma criação de uma carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, parte por ser um serviço intencionado para qualquer tipo de usuário, o que permitirá uma ampla criação de personas para tornar o estudo do sítio mais frutífero.
+A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para serviços relacionados a carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, e erros mais impactantes a serem corrigidos. Outro importante motivo de escolha foi exatamente por ser um serviço intencionado para diversos tipos de usuários, o que tornará a coleta de dados muito mais frutífera, ajudando no crescimento e desenvolvimento do projeto.
 
-### Histórico de Versão
+## Histórico de Versão
 
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :--------:|
