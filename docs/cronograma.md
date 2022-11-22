@@ -91,7 +91,7 @@ Com base no resultado da planilha, foi de comum acordo entre os membros da equip
 Figura 1: Horários disponíveis para o grupo se reunir
 
 [![Planilha com os horários livres em comum dq equipe](images/timeline/planilha.jpeg)](images/timeline/planilha.jpeg)
-![alt text](_media/timeline/planilha)
+![alt text](_media/timeline/planilha.jpeg)
 
 Fonte: Autoria própria
 
