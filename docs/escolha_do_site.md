@@ -7,10 +7,20 @@ de avaliação empregados incluem a avaliação heurística.
 ## Sites Avaliados Pelos Membros do Grupo
 
 ### BNB - Biblioteca Nacional de Brasília
-![alt text](_media/bnb.png)
+
+<center>
+    ![Logo BNB](_media/bnb.png)
+</center>
+
+A Biblioteca Nacional de Brasília tem um grande acervo de livros para que o público possa utilizá-los, ela se encontra na cidade de Brasília, no Distrito Federal, próxima a Rodoviária do Plano Piloto e faz parte do Complexo Cultural da República João Herculino, localizado na Esplanada dos Ministérios.
+Além disso, ela conta com um site para que o público possa consultar o acervo de livros disponíveis e também fazer reservas dos livros. Foi feita a avaliação heurística do site, com o intuito de encontrar algo que ferisse alguma das heurísticas de Nielsen, assim foi avaliado o site  e encontrado alguns problemas de usabilidade.
+
 
 ### PCDF - Polícia Civil do Distrito Federal
-![alt text](_media/pcdf.jpg)
+
+<center>
+    ![Logo PC-DF](_media/pcdf.jpg)
+</center>
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
@@ -20,7 +30,10 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 
 
 ### Cebraspe  
-![alt text](_media/cebraspe.png)
+
+<center>
+    ![Logo Cebraspe](_media/cebraspe.png)
+</center>
 
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
 O site dessa instituição é https://www.cebraspe.org.br/, o qual é principalmente utilizado para se cadastrar em concursos publicos e o PAS assim como outros métodos para entrar na UnB. 
@@ -30,7 +43,10 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 
 
 ### Software Livre Brasil
-![alt text](_media/tvslb.png)
+
+<center>
+    ![Logo Software Livre Brasil](_media/tvslb.png)
+</center>
 
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
 que contém registros de eventos, vídeos de palestras, links que levam a comunidades e a membros do site, ao canal no YouTube e abas para registrar-se no domínio.
@@ -49,8 +65,10 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 ## Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 20.11.2022 | 0.1 | Acompanhamento do processo de escolha do grupo. | Rodrigo de Andrade |  | 
+|    Data    | Versão |                          Descrição                          |       Autor        | Revisor |
+| :--------: | :----: | :---------------------------------------------------------: | :----------------: | :-----: |
+| 20/11/2022 |  0.1   |       Acompanhamento do processo de escolha do grupo.       | Rodrigo de Andrade |         |
+| 22/11/2022 |  0.2   | Adicionando informações sobre a BNB e centralizando imagens | Gabriel Marcolino  |         |
+
 
 
