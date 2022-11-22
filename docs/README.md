@@ -1,5 +1,10 @@
-## Equipe
+<h1 align="center">PCDF</h1>
 
+Bem-vindo(a)! Este é o repositório 2022.2-Grupo6 da matéria de Interação Humano-Computador (IHC), lecionada pelo professor André Barros de Sales na Universidade de Brasília (UnB), Campus do Gama (FGA).
+
+Possui o objetivo de analisar o site da PCDF, aplicando os conhecimentos adquiridos em sala de aula com o intuito de encontrar melhorias na interação com o site.
+
+## Equipe
 
 | Foto | Nome | GitHub |
 | ---- | ---- | ------ |
