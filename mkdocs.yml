@@ -5,6 +5,27 @@ repo_url: https://github.com/Interacao-Humano-Computador/2022.2-PCDF
 
 theme:
   name: material
+  logo: assets/icons/logo-pcdf.png
+  features:
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Início: index.md
