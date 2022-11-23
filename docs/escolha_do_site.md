@@ -53,6 +53,15 @@ que contém registros de eventos, vídeos de palestras, links que levam a comuni
 
 Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heurística. A maioria das heurísticas propostas por Nielsen foram seguidas, com notáveis exceções sendo o aspecto visual do site, o qual pode mudar completamente dependendo da aba atual, incluindo a tipologia e elementos gráficos inconsistentes, além de uma falta de informação no momento do registro de usuário, junto com uma formatação rígida da resposta, que havia levado a uma segunda tentativa de registro desnecessária.
 
+### Alistamento Militar Online
+
+<center>
+    ![Logo Alistamento Militar Online](images/alistamentoMilSiteLogo.png)
+</center>
+
+O site do Alistamento Militar Online tem o intuito de auxiliar os jovens brasileiros que completaram 18 anos, a se associar à junta militar. Com certeza foi utilizada pela maior parte dos integrantes da turma de IHC e se mostrou um site interessante a ser avaliado tendo em vista sua importância social. 
+
+A avaliação heurística para esse site denunciou diversas incongruências estéticas no decorrer da utilização da plataforma. Embora os problemas não tem alto nivel de severidade, pode-se notar diferenças bruscas no aspecto visual, quando se varia as abas. Além disso percebe-se falhas na formatação flexível da página, tornando evidente elementos desalinhados, descentralizados e containers que, quando dinamizados, não seguem uma proporção alinhada. 
 
 ## Site Escolhido
 O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da PCDF (Polícia Civil do Distrito Federal). Visando o objetivo da matéria de IHC, e considerando o quanto que cada site seguia as heurísticas de Nielsen, esse é o site com a magnitude de erro mais grave encontrado pelo grupo que atendia às condições necessárias do projeto.
@@ -61,7 +70,7 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 ## Referências
 
-1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+> 1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
 
 ## Histórico de Versão
 
