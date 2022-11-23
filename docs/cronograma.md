@@ -49,10 +49,10 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
 
 |                                  Tarefa                                  | Data Limite |      Autor(es)      | Revisor(es) |
 | :----------------------------------------------------------------------: | :---------: | :-----------------: | :---------: |
-|                 Planejamento da Avaliação do Storyboard                  |    13/12    | Gabriel e Jefferson | Rodrigo e Yago            |
+|                 Planejamento da Avaliação do Storyboard                  |    13/12    | Gabriel e Jefferson | Yago            |
 |     Planejamento do relato dos resultados da avaliação do Storyboard     |    13/12    |  Guilherme e Lucas  | Gabriel e Jefferson            |
-|             Planejamento da Avaliação do Análise de tarefas              |    13/12    |   Rodrigo e Yago    | Guilherme e Lucas            |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    13/12    |                     |             |
+|             Planejamento da Avaliação do Análise de tarefas              |    13/12    |   Rodrigo e Yago    | Guilherme |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    13/12    |                     | Rodrigo e Lucas            |
 
 <figcaption align='center'>
    <h6><b>Tabela 4: Cronograma de tarefas da entrega 4<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
