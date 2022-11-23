@@ -9,7 +9,7 @@ de avaliação empregados incluem a avaliação heurística.
 ### BNB - Biblioteca Nacional de Brasília
 
 <center>
-    ![Logo BNB](_media/bnb.png)
+    ![Logo BNB](images/bnb.png)
 </center>
 
 A Biblioteca Nacional de Brasília tem um grande acervo de livros para que o público possa utilizá-los, ela se encontra na cidade de Brasília, no Distrito Federal, próxima a Rodoviária do Plano Piloto e faz parte do Complexo Cultural da República João Herculino, localizado na Esplanada dos Ministérios.
@@ -19,7 +19,7 @@ Além disso, ela conta com um site para que o público possa consultar o acervo 
 ### PCDF - Polícia Civil do Distrito Federal
 
 <center>
-    ![Logo PC-DF](_media/pcdf.jpg)
+    ![Logo PC-DF](images/pcdf.png)
 </center>
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
@@ -32,7 +32,7 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 ### Cebraspe  
 
 <center>
-    ![Logo Cebraspe](_media/cebraspe.png)
+    ![Logo Cebraspe](images/cebraspe.png)
 </center>
 
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
@@ -45,7 +45,7 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 ### Software Livre Brasil
 
 <center>
-    ![Logo Software Livre Brasil](_media/tvslb.png)
+    ![Logo Software Livre Brasil](images/tvslb.png)
 </center>
 
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune

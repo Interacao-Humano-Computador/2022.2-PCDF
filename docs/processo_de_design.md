@@ -7,7 +7,7 @@ Visando a escolha do processo de design mais apropriado para a realização da a
 Escolher um processo de design adequado à experiência do grupo e que mais acomode o trabalho é uma tarefa de grande importância, visto que será a principal estrutura básica que o grupo deverá utilizar para o desenvolvimento do projeto adequado, sob a perspectiva da matéria de IHC.
 
 ## Processos de Design Escolhido Pelo Grupo
-![alt text](_media/mayhew_proc_des.png)
+![alt text](images/mayhew_proc_des.png)
 
 A Engenharia de Usabilidade de Mayhew é um processo de design compreensivo e detalhado, detalhando três fases do desenvolvimento do projeto, sendo essas a análise de requisitos, a fase de design e a instalação. O motivo da escolha deste processo em particular veio através de aulas onde foi altamente recomendado, considerando a esxperiência do grupo com o desenvolvimento de projetos desse estilo. Um ciclo mais direto ao ponto, como O Ciclo de Vida Simples, acaba por tirar muitos detalhes e considera que o avaliador já está acostumado com todas as atividades, necessitando apenas de uma referência em vez de um guia.
 
