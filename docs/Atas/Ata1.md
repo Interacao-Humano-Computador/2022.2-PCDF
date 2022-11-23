@@ -1,14 +1,5 @@
 # Ata de Reunião 10/11/2022
 
-
-### Histórico de Versão
-
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 19.11.2022 | 0.1 | Criação da ata da reunião 10/11 | Guilherme Oliveira |  |
-| 22.11.2022 | 0.2 | Arrumando erros de caligrafia | Guilherme Oliveira |  |  
-
-
 ## Local
 
 Chamada online no Discord.
@@ -17,7 +8,7 @@ Chamada online no Discord.
 - Guilherme Oliveira
 - Jefferson França 
 - Lucas Lima
-- Rodrigo Andrade
+- Gabriel Marcolino
 - Yago Milagres
 
 ## Início
@@ -49,3 +40,11 @@ Nessa reunião estavam presentes:Guilherme,Jefferson,Lucas,Rodrigo e Yago. Essa 
 
 ## Conclusão
 Os integrantes dão por encerrada a reunião às 20:02 do dia 10/11/2022.
+
+## Histórico de Versão
+
+|    Data    | Versão |            Descrição             |     Autor(es)      | Revisor(es) |
+| :--------: | :----: | :------------------------------: | :----------------: | :---------: |
+| 19/11/2022 |  0.1   | Criação da ata da reunião 10/11  | Guilherme Oliveira |             |
+| 22/11/2022 |  0.2   |  Arrumando erros de caligrafia   | Guilherme Oliveira |             |
+| 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |             |

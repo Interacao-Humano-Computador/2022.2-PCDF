@@ -1,14 +1,5 @@
 # Ata de Reunião 15/11/2022
 
-
-### Histórico de Versão
-
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 20.11.2022 | 0.1 | Criação da ata da reunião 15/11 | Guilherme Oliveira |  | 
-| 22.11.2022 | 0.2 | Arrumando erros de caligrafia | Guilherme Oliveira |  | 
-
-
 ## Local
 
 Chamada online no Discord.
@@ -50,3 +41,11 @@ Depois foi feito a divisão dos trabalhos e discussão de certos aspectos do tra
 
 ## Conclusão
 Os integrantes dão por encerrada a reunião às 17:11 do dia 15/11/2022.
+
+## Histórico de Versão
+
+|    Data    | Versão |            Descrição             |     Autor(es)      | Revisor(es) |
+| :--------: | :----: | :------------------------------: | :----------------: | :---------: |
+| 20/11/2022 |  0.1   | Criação da ata da reunião 15/11  | Guilherme Oliveira |             |
+| 22/11/2022 |  0.2   |  Arrumando erros de caligrafia   | Guilherme Oliveira |             |
+| 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |             |

@@ -1,13 +1,5 @@
 # Ata de Reunião 21/11/2022
 
-
-### Histórico de Versão
-
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 22.11.2022 | 0.1 | Criação da ata da reunião 21/11 | Guilherme Oliveira |  | 
-
-
 ## Local
 
 Chamada online no Discord.
@@ -42,20 +34,23 @@ A reunião foi iniciada às 18:00.
 
 3. Discussão sobre o vídeo
 <p style="text-align: justify;">Foi decidido fazer a gravação do vídeo dia 22/11/2022 às 20:00 foi decidido também qual parte cada um vai falar que ficou separado dessa forma: 
-|           Parte           |                Membro                | 
-| :-----------------------: | :----------------------------------: | 
-|      Atas das reuniões    |              Guilherme               |   
-| Cronograma das atividades | Gabriel Marcolino e Jefferson Franca |   
-|  Ferramentas do projeto   |                Lucas                 |  
-|    Introdução e Equipe    |              Jefferson               |  
-| Lista de sites avaliados  |         Todos os integrantes         |  
-|  Planejamento do projeto  |               Rodrigo                |    
-|    Processo de design     |                 Yago                 | 
-|      Site escolhido       |              Guilherme               |  
-
 </p>
 
 
+|           Parte           |                Membro                |
+| :-----------------------: | :----------------------------------: |
+|     Atas das reuniões     |              Guilherme               |
+| Cronograma das atividades | Gabriel Marcolino e Jefferson Franca |
+|  Ferramentas do projeto   |                Lucas                 |
+|    Introdução e Equipe    |              Jefferson               |
+| Lista de sites avaliados  |         Todos os integrantes         |
+|  Planejamento do projeto  |               Rodrigo                |
+|    Processo de design     |                 Yago                 |
+|      Site escolhido       |              Guilherme               |
+
+<figcaption align='center'>
+   <h6><b>Tabela 1: Divisão do que cada um vai falar na apresentação<br>Fonte : Elaboração de Guilherme Oliveira</br></h6>
+</figcaption>
 
 
 ### Resumo
@@ -69,3 +64,11 @@ Nessa reunião estavam presentes:Guilherme,Jefferson,Lucas,Rodrigo,Gabriel e Yag
 
 ## Conclusão
 Os integrantes dão por encerrada a reunião às 18:58 do dia 21/11/2022.
+
+
+## Histórico de Versão
+
+|    Data    | Versão |            Descrição             |       Autor        | Revisor |
+| :--------: | :----: | :------------------------------: | :----------------: | :-----: |
+| 22.11.2022 |  0.1   | Criação da ata da reunião 21/11  | Guilherme Oliveira |         |
+| 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |         |
