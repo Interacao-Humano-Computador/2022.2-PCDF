@@ -90,7 +90,7 @@ Com base no resultado da planilha, foi de comum acordo entre os membros da equip
 
 
 
-![alt text](_media/timeline/planilha.jpeg)
+![alt text](images/timeline/planilha.jpeg)
 *Figura 1: Horários disponíveis para o grupo se reunir. Fonte: Autoria própria*
 
 ## Referências
