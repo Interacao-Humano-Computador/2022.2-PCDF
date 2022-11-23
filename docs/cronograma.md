@@ -88,11 +88,9 @@ Para poder decidir qual o melhor horário das reuniões semanais que teremos dur
 
 Com base no resultado da planilha, foi de comum acordo entre os membros da equipe que teremos reuniões semanais, as terças-feiras, para podermos discutir o projeto.  
 
-Figura 1: Horários disponíveis para o grupo se reunir
+![alt text](images/timeline/planilha.jpeg)
+*Figura 1: Horários disponíveis para o grupo se reunir. Fonte: Autoria própria*
 
-[![Planilha com os horários livres em comum dq equipe](images/timeline/planilha.jpeg)](images/timeline/planilha.jpeg)
-
-Fonte: Autoria própria
 
 ## Referências
 
