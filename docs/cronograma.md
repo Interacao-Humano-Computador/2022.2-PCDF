@@ -4,9 +4,9 @@ O cronograma de atividades tem como objetivo organizar o planejamento das tarefa
 
 As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data limite para que haja tempo das revisões serem feitas e realizar as correções caso necessário nos artefatos desenvolvidos.
 
-## Entrega 1 - (24/11)
+## Apresentação 1 - (24/11)
 
-|          Tarefa           | Data Limite |              Autor(er)               | Revisor(es) |
+|          Tarefa           | Data Limite |              Autor(es)               | Revisor(es) |
 | :-----------------------: | :---------: | :----------------------------------: | :---------: |
 |     Atas das reuniões     |    23/11    |              Guilherme               |    Yago     |
 | Cronograma das atividades |    23/11    | Gabriel Marcolino e Jefferson Franca |   Rodrigo   |
@@ -21,82 +21,82 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
    <h6><b>Tabela 1: Cronograma de tarefas da entrega 1<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 2 - (07/12)
+## Apresentação 2 - (07/12)
 
-|                     Tarefa                      | Data Limite | Autor(es) | Revisor(es) |
-| :---------------------------------------------: | :---------: | :-------: | :---------: |
-| Aspectos éticos de pesquisas envolvendo pessoas |    06/12    |           |             |
-|                Perfil do usuário                |    06/12    |           |             |
-|          Personas e análise de tarefas          |    06/12    |           |             |
+|                     Tarefa                      | Data Limite |      Autor(es)      |     Revisor(es)     |
+| :---------------------------------------------: | :---------: | :-----------------: | :-----------------: |
+| Aspectos éticos de pesquisas envolvendo pessoas |    06/12    | Rodrigo e Guilherme |  Jefferson e Lucas  |
+|                Perfil do usuário                |    06/12    |   Gabriel e Yago    | Rodrigo e Guilherme |
+|          Personas e análise de tarefas          |    06/12    |  Jefferson e Lucas  |   Gabriel e Yago    |
 
 <figcaption align='center'>
    <h6><b>Tabela 2: Cronograma de tarefas da entrega 2<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 3 - (12/12)
+## Apresentação 3 - (12/12)
 
-|            Tarefa            | Data Limite | Autor(es) | Revisor(es) |
-| :--------------------------: | :---------: | :-------: | :---------: |
-|        Guia de estilo        |    11/12    |           |             |
-|     Metas de usabilidade     |    11/12    |           |             |
-| Princípios Gerais de Projeto |    11/12    |           |             |
+|            Tarefa            | Data Limite |      Autor(es)      |     Revisor(es)     |
+| :--------------------------: | :---------: | :-----------------: | :-----------------: |
+|        Guia de estilo        |    11/12    |   Gabriel e Lucas   |  Guilherme e Yago   |
+|     Metas de usabilidade     |    11/12    | Jefersson e Rodrigo |   Gabriel e Lucas   |
+| Princípios Gerais de Projeto |    11/12    |  Guilherme e Yago   | Jefferson e Rodrigo |
 
 <figcaption align='center'>
    <h6><b>Tabela 3: Cronograma de tarefas da entrega 3<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 4 - (14/12)
+## Apresentação 4 - (14/12)
 
-|                                  Tarefa                                  | Data Limite | Autor(es) | Revisor(es) |
-| :----------------------------------------------------------------------: | :---------: | :-------: | :---------: |
-|                 Planejamento da Avaliação do Storyboard                  |    13/12    |           |             |
-|     Planejamento do relato dos resultados da avaliação do Storyboard     |    13/12    |           |             |
-|             Planejamento da Avaliação do Análise de tarefas              |    13/12    |           |             |
-| planejamento do relato dos resultados da avaliação do Análise de tarefas |    13/12    |           |             |
+|                                  Tarefa                                  | Data Limite |      Autor(es)      | Revisor(es) |
+| :----------------------------------------------------------------------: | :---------: | :-----------------: | :---------: |
+|                 Planejamento da Avaliação do Storyboard                  |    13/12    | Gabriel e Jefferson | Rodrigo e Yago            |
+|     Planejamento do relato dos resultados da avaliação do Storyboard     |    13/12    |  Guilherme e Lucas  | Gabriel e Jefferson            |
+|             Planejamento da Avaliação do Análise de tarefas              |    13/12    |   Rodrigo e Yago    | Guilherme e Lucas            |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    13/12    |                     |             |
 
 <figcaption align='center'>
    <h6><b>Tabela 4: Cronograma de tarefas da entrega 4<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 5 - (02/01)
+## Apresentação 5 - (02/01)
 
-|                     Tarefa                     | Data Limite | Autor(es)  | Revisor(es) |
-| :--------------------------------------------: | :---------: | :--------: | :---------: |
-| Resultados do Story Board e Análise de tarefas |    01/01    | ---------- | ----------  |
-|        Avaliação do protótipo de papel         |    01/01    | ---------- | ----------  |
-| Resultados da avaliação do protótipo de papel  |    01/01    | ---------- | ----------  |
+|                     Tarefa                     | Data Limite |     Autor(es)     |    Revisor(es)    |
+| :--------------------------------------------: | :---------: | :---------------: | :---------------: |
+| Resultados do Story Board e Análise de tarefas |    01/01    | Guilherme e Yago  | Jefferson e Lucas |
+|        Avaliação do protótipo de papel         |    01/01    | Jefferson e Lucas | Gabriel e Rodrigo |
+| Resultados da avaliação do protótipo de papel  |    01/01    | Gabriel e Rodrigo | Guilherme e Yago  |
 
 <figcaption align='center'>
    <h6><b>Tabela 5: Cronograma de tarefas da entrega 5<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 6 - (18/01)
+## Apresentação 6 - (18/01)
 
-|          Tarefa           | Data Limite | Autor(es)  | Revisor(es) |
-| :-----------------------: | :---------: | :--------: | :---------: |
-| Verificação dos artefatos |    17/01    | ---------- | ----------  |
+|          Tarefa           | Data Limite |      Autor(es)       |     Revisor(es)      |
+| :-----------------------: | :---------: | :------------------: | :------------------: |
+| Verificação dos artefatos |    17/01    | Todos os integrantes | Todos os integrantes |
 
 <figcaption align='center'>
    <h6><b>Tabela 6: Cronograma de tarefas da entrega 6<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 7 - (11/01)
+## Apresentação 7 - (11/01)
 
-|                         Tarefa                          | Data Limite | Autor(es)  | Revisor(es) |
-| :-----------------------------------------------------: | :---------: | :--------: | :---------: |
-|            Resultados do protótipo de papel             |    10/01    | ---------- | ----------  |
-|        Avaliação do protótipo de alta fidelidade        |    10/01    | ---------- | ----------  |
-| Resultados da avaliação do protótipo de alta fidelidade |    10/01    | ---------- | ----------  |
+|                         Tarefa                          | Data Limite |      Autor(es)      |     Revisor(es)     |
+| :-----------------------------------------------------: | :---------: | :-----------------: | :-----------------: |
+|            Resultados do protótipo de papel             |    10/01    |  Jefferson e Yago   |   Rodrigo e Lucas   |
+|        Avaliação do protótipo de alta fidelidade        |    10/01    | Gabriel e Guilherme |  Jefferson e Yago   |
+| Resultados da avaliação do protótipo de alta fidelidade |    10/01    |   Rodrigo e Lucas   | Gabriel e Guilherme |
 
 <figcaption align='center'>
    <h6><b>Tabela 7: Cronograma de tarefas da entrega 7<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
 </figcaption>
 
-## Entrega 08 - (25/01)
+## Apresentação 8 - (25/01)
 
-|                        Tarefa                         | Data Limite | Autor(es)  | Revisor(es) |
-| :---------------------------------------------------: | :---------: | :--------: | :---------: |
-| Relato dos resultados do protótipo de alta fidelidade | 24/01/2023  | ---------- | ----------  |
+|                        Tarefa                         | Data Limite |      Autor(es)       |     Revisor(es)      |
+| :---------------------------------------------------: | :---------: | :------------------: | :------------------: |
+| Relato dos resultados do protótipo de alta fidelidade | 24/01/2023  | Todos os integrantes | Todos os integrantes |
 
 <figcaption align='center'>
    <h6><b>Tabela 8: Cronograma de tarefas da entrega 8<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
@@ -104,9 +104,9 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
 
 ## Apresentação final - (01/02)
 
-|    Tarefa     | Data Limite | Autor(es) | Revisor(es) |
-| :-----------: | :---------: | :-------: | :---------: |
-| Projeto final | 31/01/2023  | --------- | ----------- |
+|    Tarefa     | Data Limite |      Autor(es)       |     Revisor(es)      |
+| :-----------: | :---------: | :------------------: | :------------------: |
+| Projeto final | 31/01/2023  | Todos os integrantes | Todos os integrantes |
 
 
 <figcaption align='center'>
@@ -128,7 +128,9 @@ Com base no resultado da planilha, foi de comum acordo entre os membros da equip
 
 ## Referências
 
-1.SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/>. Acesso em: 19 de novembro de 2022
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/>. Acesso em: 19 de novembro de 2022.
+
+[2] 2021.2-PMBA. GitHub. Disponível em: <https://interacao-humano-computador.github.io/2021.2-PMBA>. Acesso em: 23 de novembro de 2022.
 
 ## Histórico de Versão
 
