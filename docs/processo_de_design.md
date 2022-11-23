@@ -20,4 +20,4 @@ A Engenharia de Usabilidade de Mayhew é um processo de design compreensivo e de
 
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :--------:|
-| 21.11.2022 | 0.1 | Abordagem do processo de design do projeto | Yago Passos, Rodrigo de Andrade  |  |
+| 21/11/2022 | 0.1 | Abordagem do processo de design do projeto | Yago Passos, Rodrigo de Andrade  |  |

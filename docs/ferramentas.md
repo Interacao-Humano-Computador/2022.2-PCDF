@@ -1,4 +1,4 @@
-# Ferramentas
+<h1 align="center">Ferramentas</h1>
 
 |                Ferramenta                 | Nome   | Utilidade     |
 | :---------------------------------------: | :----: | :-----------: |
@@ -9,7 +9,7 @@
 | ![Logo Telegram](images/tools/telegram.svg)| Telegram | Telegram, assim como o WhatsApp, é um serviço de mensagens instantâneas. Usado para comunicação com professor e monitores.|
 | ![Logo Windows](images/tools/windows.svg)| Windows 10 | O Windows 10 possui uma ferramenta integrada de gravação de tela. Usado pela equipe para realizar gravações.|       
 
-### Histórico de Versão
+## Histórico de Versão
 
 |    Data    | Versão |       Descrição      |                         Autor                    | Revisor |
 | :--------: | :----: | :------------------: | :----------------------------------------------: | :------:|
