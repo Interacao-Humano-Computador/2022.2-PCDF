@@ -128,9 +128,9 @@ Com base no resultado da planilha, foi de comum acordo entre os membros da equip
 
 ## Referências
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/>. Acesso em: 19 de novembro de 2022.
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/>. Acesso em: 19 de novembro de 2022.
 
-[2] 2021.2-PMBA. GitHub. Disponível em: <https://interacao-humano-computador.github.io/2021.2-PMBA>. Acesso em: 23 de novembro de 2022.
+> [2] 2021.2-PMBA. GitHub. Disponível em: <https://interacao-humano-computador.github.io/2021.2-PMBA>. Acesso em: 23 de novembro de 2022.
 
 ## Histórico de Versão
 

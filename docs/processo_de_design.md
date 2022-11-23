@@ -13,8 +13,9 @@ A Engenharia de Usabilidade de Mayhew é um processo de design compreensivo e de
 
 ## Referências
 
-1. BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 4. Acesso em: 21 de novembro de 2022.
-2.SALES, André Barros. Aula 4. Disponível em: <https://aprender3.unb.br/>. Acesso em: 21 de novembro de 2022.
+> [1] BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 4. Acesso em: 21 de novembro de 2022.
+
+> [2] SALES, André Barros. Aula 4. Disponível em: <https://aprender3.unb.br/>. Acesso em: 21 de novembro de 2022.
 
 ## Histórico de Versão
 
