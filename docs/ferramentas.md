@@ -13,4 +13,4 @@
 
 |    Data    | Versão |       Descrição      |                         Autor                    | Revisor |
 | :--------: | :----: | :------------------: | :----------------------------------------------: | :------:|
-| 22.11.2022 |  0.1   | Criação do documento | [Lucas Spinosa](https://github.com/LucasSpinosa) |         | 
+| 22/11/2022 |  0.1   | Criação do documento | [Lucas Spinosa](https://github.com/LucasSpinosa) |         | 
