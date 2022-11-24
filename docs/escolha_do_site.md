@@ -78,8 +78,8 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 |    Data    | Versão |                          Descrição                          |       Autor        | Revisor |
 | :--------: | :----: | :---------------------------------------------------------: | :----------------: | :-----: |
-| 20/11/2022 |  1.0   |       Acompanhamento do processo de escolha do grupo.       | Rodrigo de Andrade | Rodrigo de Andrade |
-| 22/11/2022 |  1.1   | Adicionando informações sobre a BNB e centralizando imagens | Gabriel Marcolino  | Rodrigo de Andrade |
+| 20/11/2022 |  1.0   |       Acompanhamento do processo de escolha do grupo.       | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 22/11/2022 |  1.1   | Adicionando informações sobre a BNB e centralizando imagens | [Gabriel Marcolino](https://github.com/GabrielMR360)  | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
 
 

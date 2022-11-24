@@ -26,4 +26,4 @@ Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a análi
 
 |    Data    | Versão |      Descrição       |                     Autor                     |                   Revisor                     |
 | :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------------------------------------: |
-| 22/11/2022 |  1.0   | Criação do documento | [Jefferson França](https://github.com/Frans6) | Rodrigo de Andrade                            |
+| 22/11/2022 |  1.0   | Criação do documento | [Jefferson França](https://github.com/Frans6) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |

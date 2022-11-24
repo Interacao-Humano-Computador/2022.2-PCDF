@@ -40,6 +40,7 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 
 |    Data    | Versão |          Descrição               |                      Autor                       | Revisor |
 | :--------: | :----: | :------------------------------: | :----------------------------------------------: | :-----: |
-| 22/11/2022 |  1.0   |    Criação do documento          | [Lucas Spinosa](https://github.com/LucasSpinosa) | Rodrigo de Andrade |
-| 23/11/2022 |  1.1   | Adição de texto introdutóro      | [Jefferson França](https://github.com/Frans6)    | Rodrigo de Andrade |
-| 22/11/2022 |  1.2   | Adição do Figma, VSCode e MkDocs | [Lucas Spinosa](https://github.com/LucasSpinosa) | Rodrigo de Andrade |
+| 22/11/2022 |  1.0   |    Criação do documento          | [Lucas Spinosa](https://github.com/LucasSpinosa) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 22/11/2022 |  1.1   | Adição do Figma, VSCode e MkDocs | [Lucas Spinosa](https://github.com/LucasSpinosa) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 23/11/2022 |  1.2   | Adição de texto introdutóro      | [Jefferson França](https://github.com/Frans6)    | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 24/11/2022 |  1.3   | Adição da bibliografia | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
