@@ -16,6 +16,12 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 |  ![Logo VSCode](images/tools/vscode.svg)  | Visual Studio Code |                        O Visual Studio Code se trata de um editor de texto criado pela Microsoft para desenvolvimento de código. Usado pela equipe para criar documentos. |
 |  ![Logo MkDocs](images/tools/mkdocs.svg)  | MkDocs |                       O MkDocs é um gerador de site usado para documentações de projetos. Usado pela a equipe para documentação. |
 
+## Bibliografia
+
+> [1] 
+
+> [2] 
+
 ## Histórico de Versão
 
 |    Data    | Versão |          Descrição               |                      Autor                       | Revisor |

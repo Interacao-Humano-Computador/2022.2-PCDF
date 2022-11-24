@@ -70,8 +70,9 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 ## Bibliografia
 
-> 1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
-> 2.POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: https://www.pcdf.df.gov.br/servicos/carteira-de-identidade. Acesso em 24 nov. 2022
+> [1] SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+
+> [2] POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: https://www.pcdf.df.gov.br/servicos/carteira-de-identidade. Acesso em 24 de novembro de 2022
 
 ## Histórico de Versão
 
