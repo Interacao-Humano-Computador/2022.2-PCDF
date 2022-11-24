@@ -1,6 +1,6 @@
 <h1 align="center">Início</h1>
 
-## Sobre o Projeto
+## Introdução
 Bem-vindo(a)! Este é o site do repositório 2022.2-PCDF da matéria de Interação Humano-Computador (IHC), lecionada pelo professor André Barros de Sales na Universidade de Brasília (UnB), Campus do Gama (FGA).
 
 Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a análise completa do site da Polícia Civil do Distrito Federal (PCDF) sob a perspectiva da matéria de IHC até o final do semestre. 

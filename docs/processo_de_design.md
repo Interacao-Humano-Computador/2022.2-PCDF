@@ -1,7 +1,6 @@
 <h1 align="center">Processo de Design</h1>
  
 ## Introdução
-
 Visando a escolha do processo de design mais apropriado para a realização da avaliação do site, o grupo ficou entre a escolha de algumas opções apresentadas em *"Processos de Design de IHC"* (Barbosa e Silva, 2010), junto com a aula apresentada sobre este conteúdo pelo professor André Barros de Sales.
 
 Escolher um processo de design adequado à experiência do grupo e que mais acomode o trabalho é uma tarefa de grande importância, visto que será a principal estrutura básica que o grupo deverá utilizar para o desenvolvimento do projeto adequado, sob a perspectiva da matéria de IHC.

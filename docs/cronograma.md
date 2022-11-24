@@ -1,5 +1,6 @@
 <h1 align="center">Cronograma das Atividades</h1>
 
+## Introdução
 O cronograma de atividades tem como objetivo organizar o planejamento das tarefas que vão ser entregues no projeto. Ele foi elaborado com base no plano de ensino do professro André Barros de Sales, onde o mesmo já tem definido as datas das entregas.
 
 As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data limite para que haja tempo das revisões serem feitas e realizar as correções caso necessário nos artefatos desenvolvidos.
