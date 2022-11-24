@@ -16,6 +16,10 @@ Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a análi
 | <img src="images/team/rodrigo.png" width="100">   | Rodrigo de Andrade Lima Orlandi  | [@OrlandiRodrigo](https://github.com/OrlandiRodrigo) |
 | <img src="images/team/yago.png" width="100">      | Yago Milagres Passos             | [@yagomassos](https://github.com/yagompassos)        |
 
+## Bibliografia
+
+> 1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+> 2.POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: https://www.pcdf.df.gov.br/servicos/carteira-de-identidade. Acesso em 24 nov. 2022
 
 ## Histórico de Versão
 

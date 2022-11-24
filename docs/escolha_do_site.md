@@ -68,9 +68,10 @@ O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da
 
 A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para serviços relacionados a carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, e erros mais impactantes a serem corrigidos. Outro importante motivo de escolha foi exatamente por ser um serviço intencionado para diversos tipos de usuários, o que tornará a coleta de dados muito mais frutífera, ajudando no crescimento e desenvolvimento do projeto.
 
-## Referências
+## Bibliografia
 
 > 1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+> 2.POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: https://www.pcdf.df.gov.br/servicos/carteira-de-identidade. Acesso em 24 nov. 2022
 
 ## Histórico de Versão
 
