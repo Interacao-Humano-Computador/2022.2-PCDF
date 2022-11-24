@@ -23,6 +23,6 @@ Aqui serão detalhados os aspectos do projeto em grupo, o qual objetiva a análi
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |                     Autor                     |
-| :--------: | :----: | :------------------: | :-------------------------------------------: |
-| 22/11/2022 |  0.1   | Criação do documento | [Jefferson França](https://github.com/Frans6) |
+|    Data    | Versão |      Descrição       |                     Autor                     |                   Revisor                     |
+| :--------: | :----: | :------------------: | :-------------------------------------------: | :-------------------------------------------: |
+| 22/11/2022 |  1.0   | Criação do documento | [Jefferson França](https://github.com/Frans6) | Rodrigo de Andrade                            |

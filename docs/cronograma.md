@@ -134,7 +134,7 @@ Com base no resultado da planilha, foi de comum acordo entre os membros da equip
 
 ## Histórico de Versão
 
-|    Data    | Versão |                Descrição                |                                               Auto(es)                                               |
-| :--------: | :----: | :-------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| 19/11/2022 |  0.1   |          Criação do documento           | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |
-| 23/11/2022 |  0.2   | Adicionando legenda e fonte das tabelas |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         |
+|    Data    | Versão |                Descrição                |                                               Autor(es)                                              |       Revisor      |
+| :--------: | :----: | :-------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------: |
+| 19/11/2022 |  1.0   |          Criação do documento           | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | Rodrigo de Andrade |
+| 23/11/2022 |  1.1   | Adicionando legenda e fonte das tabelas |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | Rodrigo de Andrade |

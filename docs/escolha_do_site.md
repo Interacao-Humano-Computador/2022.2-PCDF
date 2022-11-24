@@ -77,8 +77,8 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 |    Data    | Versão |                          Descrição                          |       Autor        | Revisor |
 | :--------: | :----: | :---------------------------------------------------------: | :----------------: | :-----: |
-| 20/11/2022 |  0.1   |       Acompanhamento do processo de escolha do grupo.       | Rodrigo de Andrade |         |
-| 22/11/2022 |  0.2   | Adicionando informações sobre a BNB e centralizando imagens | Gabriel Marcolino  |         |
+| 20/11/2022 |  1.0   |       Acompanhamento do processo de escolha do grupo.       | Rodrigo de Andrade | Rodrigo de Andrade |
+| 22/11/2022 |  1.1   | Adicionando informações sobre a BNB e centralizando imagens | Gabriel Marcolino  | Rodrigo de Andrade |
 
 
 
