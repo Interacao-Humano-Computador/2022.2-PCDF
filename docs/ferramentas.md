@@ -17,23 +17,23 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 
 ## Bibliografia
 
-> [1] GITHUB. 2022. Disponível em: https://github.com/. Acesso em 24 de novembro de 2022.
+> [1] GITHUB. 2022. Disponível em: <https://github.com/>. Acesso em 24 de novembro de 2022.
 
-> [2] DISCORD. 2022. Disponível em: https://discord.com/. Acesso em 24 de novembro de 2022.
+> [2] DISCORD. 2022. Disponível em: <https://discord.com/>. Acesso em 24 de novembro de 2022.
 
-> [3] YOUTUBE. 2022. Disponível em: https://youtube.com/. Acesso em 24 de novembro de 2022.
+> [3] YOUTUBE. 2022. Disponível em: <https://youtube.com/>. Acesso em 24 de novembro de 2022.
 
-> [4] WHATSAPP. 2022. Disponível em: https://whatsapp.com/. Acesso em 24 de novembro de 2022.
+> [4] WHATSAPP. 2022. Disponível em: <https://whatsapp.com/>. Acesso em 24 de novembro de 2022.
 
-> [5] TELEGRAM. 2022. Disponível em: https://www.telegram.org. Acesso em 24 de novembro de 2022.
+> [5] TELEGRAM. 2022. Disponível em: <https://www.telegram.org>. Acesso em 24 de novembro de 2022.
 
-> [6] MICROSOFT 2022. Disponível em: https://support.microsoft.com/en-us/windows/record-a-game-clip-on-your-pc-with-xbox-game-bar-2f477001-54d4-1276-9144-b0416a307f3c. Acesso em 24 de novembro de 2022.
+> [6] MICROSOFT 2022. Disponível em: <https://support.microsoft.com/en-us/windows/record-a-game-clip-on-your-pc-with-xbox-game-bar-2f477001-54d4-1276-9144-b0416a307f3c>. Acesso em 24 de novembro de 2022.
 
-> [7] FIGMA. 2022. Disponível em: https://figma.com/. Acesso em 24 de novembro de 2022.
+> [7] FIGMA. 2022. Disponível em: <https://figma.com/>. Acesso em 24 de novembro de 2022.
 
-> [8] VISUAL STUDIO CODE. 2022. Disponível em: https://code.visualstudio.com. Acesso em 24 de novembro de 2022.
+> [8] VISUAL STUDIO CODE. 2022. Disponível em: <https://code.visualstudio.com>. Acesso em 24 de novembro de 2022.
 
-> [9] GITHUB. 2022. Disponível em: https://www.mkdocs.org. Acesso em 24 de novembro de 2022.
+> [9] GITHUB. 2022. Disponível em: <https://www.mkdocs.org>. Acesso em 24 de novembro de 2022.
 
 ## Histórico de Versão
 

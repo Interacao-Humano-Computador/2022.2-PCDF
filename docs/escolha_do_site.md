@@ -58,6 +58,9 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 <center>
     ![Logo Alistamento Militar Online](images/alistamentoMilSiteLogo.png)
 </center>
+<figcaption align='center'>
+   <h6><b>Tabela 9: Data da apresentação final do projeto<br>Fonte : </br></h6>
+</figcaption>
 
 O site do Alistamento Militar Online tem o intuito de auxiliar os jovens brasileiros que completaram 18 anos, a se associar à junta militar. Com certeza foi utilizada pela maior parte dos integrantes da turma de IHC e se mostrou um site interessante a ser avaliado tendo em vista sua importância social. 
 
@@ -72,7 +75,7 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 > [1] SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
 
-> [2] POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: https://www.pcdf.df.gov.br/servicos/carteira-de-identidade. Acesso em 24 de novembro de 2022
+> [2] POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
 
 ## Histórico de Versão
 
