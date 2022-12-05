@@ -1,5 +1,3 @@
-<h1 align="center">Ferramentas</h1>
-
 ## Introdução
 Neste documento se encontra a lista de ferramentas que usaremos para o desenvolvimento do projeto, seja para criação ou auxílio. Novas ferramentas podem ser inseridas se houver necessidade, todas são gratuitas e de fácil acesso.
 
@@ -14,6 +12,7 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 |  ![Logo Figma](images/tools/figma.svg)  | Figma |                              O Figma é uma aplicação web usada para se fazer design de interface. Usada para prototipações de interfaces. |
 |  ![Logo VSCode](images/tools/vscode.svg)  | Visual Studio Code |                        O Visual Studio Code se trata de um editor de texto criado pela Microsoft para desenvolvimento de código. Usado pela equipe para criar documentos. |
 |  ![Logo MkDocs](images/tools/mkdocs.svg)  | MkDocs |                       O MkDocs é um gerador de site usado para documentações de projetos. Usado pela a equipe para documentação. |
+|  ![Logo MSTeams](images/tools/msteams.svg) | Microsoft Teams |            O Microsoft Teams é uma plataforma de comunicação que une bate-papo, videoconferências e armazenamento de arquivos. O grupo decidiu migrar para esse aplicativo após constatar uma maior facilidade em realizar reuniões e gravações, incluindo uso de câmeras. |
 
 ## Bibliografia
 
@@ -33,7 +32,10 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 
 > [8] VISUAL STUDIO CODE. 2022. Disponível em: <https://code.visualstudio.com>. Acesso em 24 de novembro de 2022.
 
-> [9] GITHUB. 2022. Disponível em: <https://www.mkdocs.org>. Acesso em 24 de novembro de 2022.
+> [9] MKDOCS. 2022. Disponível em: <https://www.mkdocs.org>. Acesso em 24 de novembro de 2022.
+
+> [10] MICROSOFT TEAMS. 2022. Disponível em: <https://www.microsoft.com/en/microsoft-teams/group-chat-software>. Acesso em 5 de dezembro de 2022.
+
 
 ## Histórico de Versão
 
@@ -43,3 +45,4 @@ Neste documento se encontra a lista de ferramentas que usaremos para o desenvolv
 | 22/11/2022 |  1.1   | Adição do Figma, VSCode e MkDocs | [Lucas Spinosa](https://github.com/LucasSpinosa) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 23/11/2022 |  1.2   | Adição de texto introdutóro      | [Jefferson França](https://github.com/Frans6)    | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 24/11/2022 |  1.3   | Adição da bibliografia | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 05/12/2022 |  1.4   | Adição do Microsoft Teams        | [Lucas Spinosa](https://github.com/LucasSpinosa) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
