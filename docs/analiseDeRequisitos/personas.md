@@ -2,9 +2,9 @@
 
 ## Introdução
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin,
-2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários fi nais durante discussões de design, mantendo todos focados no mesmo alvo.
+2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo.
 
-Cada persona foi desenvolvida com base no perfil do usuário, sendo assim, ao todo foram 4 personas com perfis diferentes e 1 delas sendo a antipersona. Como o serviço estudado compreende diversos usuários, queríamos representar alguns arquétipos principais pelas personas desenvolvidas, e acabamos ficando com os exemplos citados.
+Cada persona foi desenvolvida com base no perfil do usuário, sendo assim, ao todo foram 4 personas com perfis diferentes e 1 delas sendo a antipersona, mostradas abaixo nas figuras 1 a 5. Como o serviço estudado compreende diversos usuários, queríamos representar alguns arquétipos principais pelas personas desenvolvidas, e acabamos ficando com os exemplos citados.
 
 ## Vera
 
