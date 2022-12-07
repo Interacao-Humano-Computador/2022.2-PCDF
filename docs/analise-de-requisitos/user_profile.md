@@ -106,3 +106,4 @@ A Figura 9 mostra a satisfação dos usuários com o uso do sistema da PCDF.
 | 06/12/2022 |  1.0   |             Criação do documento              | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Yago Passos](https://github.com/yagompassos) | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
 | 07/12/2022 |  1.1   |    Alterando a introdução e a metodologia     |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
 | 07/12/2022 |  1.2   | Adicionando imagens dos dados do questionário |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
+

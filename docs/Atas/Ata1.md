@@ -27,8 +27,19 @@ A reunião foi iniciada às 19:30.
 <p style="text-align: justify;">Cada membro presente comentou sobre o site escolhido e foi decidido que o site seria escolhido no próximo encontro depois de cada membro fazer uma avaliação do seu site.</p>
 
 2. Discussão sobre a divisão de tarefas
-<p style="text-align: justify;">As tarefas forma divididas mas graças a falta de um dos membros foi decidido colocar as divisões no grupo do whatsapp para cada membro escolher.
+<p style="text-align: justify;">As tarefas forma divididas mas graças a falta de um dos membros foi decidido colocar as divisões no grupo do whatsapp para cada membro escolher, foi decidido separar as tarefas dessa forma:
 </p>
+|           Parte           |     
+| :-----------------------: | 
+|      Atas das reuniões    |         
+| Cronograma das atividades | 
+|  Ferramentas do projeto   |      
+|    Introdução e Equipe    |         
+| Lista de sites avaliados  |      
+|  Planejamento do projeto  |           
+|    Processo de design     |      
+|      Site escolhido       |     
+
 
 
 
@@ -48,3 +59,4 @@ Os integrantes dão por encerrada a reunião às 20:02 do dia 10/11/2022.
 | 19/11/2022 |  0.1   | Criação da ata da reunião 10/11  | Guilherme Oliveira |             |
 | 22/11/2022 |  0.2   |  Arrumando erros de caligrafia   | Guilherme Oliveira |             |
 | 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |             |
+| 06/12/2022 |  0.4   |  Aticionando as tarefas na ata   | Guilherme Oliveira |             |
