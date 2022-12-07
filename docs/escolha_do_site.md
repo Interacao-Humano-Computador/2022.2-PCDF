@@ -6,6 +6,19 @@ de avaliação empregados incluem a avaliação heurística.
 
 ## Sites Avaliados Pelos Membros do Grupo
 
+|         Autor         |         Site          |                Planejamento da Avaliação                |                   Execução da Avaliação                    |
+| :-------------------: | :-------------------: | :-----------------------------------------------------: | :--------------------------------------------------------: |
+|   Gabriel Marcolino   |          BNB          |  [Planejamento](planejamento/planejamento-gabriel.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-gabriel.pdf)  |
+|     Lucas de Lima     |         PC-DF         |                                                         |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
+| Guilherme de Oliveira |       Cebraspe        | [Planejamento](planejamento/planejamento-guilherme.pdf) | [Avaliação](planejamento/execucao-avaliacao-guilherme.pdf) |
+|  Rodrigo de Andrade   | Software Livre Brasil |  [Planejamento](planejamento/planejamento-rodrigo.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-rodrigo.pdf)  |
+|      Yago Passos      |      Alistamento      |                                                         |                                                            |
+|   Jefferson Franca    |                       |                                                         |
+
+<figcaption align='center'>
+   <h6><b>Tabela 1: Avaliação individual dos sites<br>Fonte : Elaboração de Gabriel</br></h6>
+</figcaption>
+
 ### BNB - Biblioteca Nacional de Brasília
 
 <center>
@@ -14,7 +27,7 @@ de avaliação empregados incluem a avaliação heurística.
     </figcaption>
     ![Logo BNB](images/bnb.png)
     <figcaption align='center'>
-        <h6>Fonte:
+        <h6>Fonte: Biblioteca Nacional de Brasília
     </figcaption>
 </center>
 
@@ -49,7 +62,7 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
     </figcaption>
     ![Logo Cebraspe](images/cebraspe.png)
     <figcaption align='center'>
-        <h6>Fonte:
+        <h6>Fonte: Cebraspe
     </figcaption>
 </center>
 
@@ -64,11 +77,11 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 
 <center>
     <figcaption align='center'>
-        <h5>Figura 4:</b>  Software Livre Brasil
+        <h5>Figura 4:</b> Logo Software Livre Brasil
     </figcaption>
     ![Logo Software Livre Brasil](images/tvslb.png)
     <figcaption align='center'>
-        <h6>Fonte:
+        <h6>Fonte: Software Livre Brasil
     </figcaption>
 </center>
 
@@ -81,11 +94,11 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 
 <center>
     <figcaption align='center'>
-        <h5>Figura 5:</b>  Alistamento Militar Online
+        <h5>Figura 5:</b> Logo Alistamento Militar Online
     </figcaption>
     ![Logo Alistamento Militar Online](images/alistamentoMilSiteLogo.png)
     <figcaption align='center'>
-        <h6>Fonte:
+        <h6>Fonte: Alistamento Militar
     </figcaption>
 </center>
 
@@ -102,7 +115,15 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 > [1] SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
 
-> [2] POLÍCIA CIVIL DO DISTRITO FEDERAL. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
+> [2] Biblioteca Nacional de Brasília. Disponível em: <http://www.bnb.df.gov.br/>. Acesso em 07 de novembro de 2022
+
+> [3] Polícia Civil do Distrito Federal. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
+
+> [4] Cebraspe. Disponível em: <https://www.cebraspe.org.br/>. Acesso em 07 de novembro de 2022
+
+> [5] Software Livre Brasil. Disponível em: <http://softwarelivre.org/>. Acesso em 07 de novembro de 2022
+
+> [6] Alistamento Militar Online. Disponível em: <https://alistamento.eb.mil.br/>. Acesso em 07 de novembro de 2022
 
 ## Histórico de Versão
 
@@ -110,7 +131,8 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 | :--------: | :----: | :-----------------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | 20/11/2022 |  1.0   |           Acompanhamento do processo de escolha do grupo.           | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 22/11/2022 |  1.1   |     Adicionando informações sobre a BNB e centralizando imagens     |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
-| 04/12/2022 |  1.2   | Adicionando legenda nas figuras e atualizando o logo do alistamento |  [Gabriel Marcolino](https://github.com/GabrielMR360)   |                                                         |
+| 04/12/2022 |  1.2   | Adicionando legenda nas figuras e atualizando o logo do alistamento |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 06/12/2022 |  1.3   |         Adicionando os planejamento e avaliações dos sites          |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
 
 
