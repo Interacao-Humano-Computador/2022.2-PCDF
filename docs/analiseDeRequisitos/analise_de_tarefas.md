@@ -14,14 +14,18 @@ A análise de tarefas é comumente utilizada em IHC para obter um entendimento s
 
 # Aplicação em Análise Hierárquica de Tarefas:
 <div align="center">
-<img src="docs/images/DiagramaHTA/Diagrma-1via.svg" alt="Agendamento da 1ª via">
-    <p><i>Figura 1 - HTA para Agendamento da 1ª via</i></p>
-</div>
 
-<div align="center">
-<img src="docs/images/DiagramaHTA/Diagrma-2via.svg" alt="Agendamento da 2ª via">
-    <p><i>Figura 2 - HTA para Agendamento da 2ª via</i></p>
-</div>
+!["Agendamento da 1ª via"](images/../../images/DiagramaHTA/Diagrma-1via.svg)
+<figcaption align='center'>
+   <h6><b>Figura 1 - HTA para Agendamento da 1ª via<br>Fonte: Autoria própria</br></h6>
+</figcaption>
+
+!["Agendamento da 2ª via"](images/../../images/DiagramaHTA/Diagrma-2via.svg)
+<figcaption align='center'>
+   <h6><b>Figura 1 - HTA para Agendamento da 2ª via<br>Fonte: Autoria própria</br></h6>
+</figcaption>
+
+
 
 
 # Aplicação em GOMS:
