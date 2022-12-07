@@ -4,7 +4,7 @@
 
 A análise de tarefas é comumente utilizada em IHC para obter um entendimento sobre qual é o trabalho dos usuários, entrando em detalhes da realização de tarefas e a motivação por trás delas. Neste trabalho, serão empregados dois métodos de análise de tarefas:
 
-- **Análise Hierárquica de Tarefas** (HTA - *Hierarchical Task Analysis*), no qual **tarefas** são uma parte do trabalho, são decompostas em **objetivos, subobjetivos e operações**, sobrepostos em um **plano** que define a ordem dos subobjetivos alcançados;
+- **Análise Hierárquica de Tarefas** (HTA - *Hierarchical Task Analysis*), no qual **tarefas** são uma parte do trabalho, são decompostas em **objetivos, subobjetivos e operações**, sobrepostos em um **plano** que define a ordem dos subobjetivos alcançados(como pode ser visto nas figuras 1 e 2 abaixo);
 
 
 
@@ -19,6 +19,9 @@ A análise de tarefas é comumente utilizada em IHC para obter um entendimento s
 <figcaption align='center'>
    <h6><b>Figura 1 - HTA para Agendamento da 1ª via<br>Fonte: Autoria própria</br></h6>
 </figcaption>
+
+
+
 
 !["Agendamento da 2ª via"](images/../../images/DiagramaHTA/Diagrma-2via.drawio.svg)
 <figcaption align='center'>
