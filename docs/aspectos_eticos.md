@@ -7,10 +7,10 @@ Considerando a importância da abordagem apropriada de aspectos éticos na pesqu
 ## Termos de Consentimento:
 
 # Termo de Consentimento do Questionário:
-(termos/termo_de_consentimento_questionário.pdf)
+[Termo Questionário](termos/termo_de_consentimento_questionário.pdf)
 
 # Termo de Consentimento de Entrevistas:
-(termos/termo_de_consentimento_pesquisa.pdf)
+[Termo Pesquisa](termos/termo_de_consentimento_pesquisa.pdf)
 
 ## Referências
 
