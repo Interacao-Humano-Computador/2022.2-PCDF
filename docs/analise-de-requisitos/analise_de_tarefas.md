@@ -13,7 +13,7 @@ A análise de tarefas é comumente utilizada em IHC para obter um entendimento s
 
 
 # Aplicação em Análise Hierárquica de Tarefas:
-<div align="center">
+<center>
 
 !["Agendamento da 1ª via"](images/../../images/DiagramaHTA/Diagrma-1via.drawio.svg)
 <figcaption align='center'>
@@ -27,6 +27,7 @@ A análise de tarefas é comumente utilizada em IHC para obter um entendimento s
 <figcaption align='center'>
    <h6><b>Figura 1 - HTA para Agendamento da 2ª via<br>Fonte: Autoria própria</br></h6>
 </figcaption>
+</center>
 
 
 
