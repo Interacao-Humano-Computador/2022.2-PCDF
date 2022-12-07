@@ -36,6 +36,9 @@ nav:
       - Ferramentas: ferramentas.md
   - Análise de Requisitos:
     - Perfil de Usuário: analise-de-requisitos/user_profile.md
+    - Personas: analise-de-requisitos/personas.md
+    - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
+    - Aspectos Éticos: analise-de-requisitos/aspectos_eticos.md
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
