@@ -27,6 +27,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - pymdownx.tasklist
+  - pymdownx.emoji
+
 nav:
   - Início: index.md
   - Planejamento:
