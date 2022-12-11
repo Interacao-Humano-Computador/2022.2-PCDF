@@ -2,13 +2,14 @@
 
 ## Introdução
 
-O **perfil de usuário** é uma descrição detalhada das características dos usuários, muito importante para a análise de requisitos pois ajuda os avaliadores a conduzir o processo de IHC com base nos dados coletados dos usuários, para que a partir disso possamos agregar os valores dos dados coletados em grupos e faixas nas quais os usuários se encaixam, e assim traçar os perfis com características semelhantes e observar a quantidade de usuários que se encaixam em cada perfil.
+"O **perfil de usuário** é uma descrição detalhada das características dos usuários cujos objetivos
+devem ser apoiados pelo sistema sendo projetado" [(BARBOSA, 2021, p. 166)](#referencias), muito importante para a análise de requisitos pois ajuda os avaliadores a conduzir o processo de IHC com base nos dados coletados dos usuários, para que a partir disso possamos agregar os valores dos dados coletados em grupos e faixas nas quais os usuários se encaixam, e assim traçar os perfis com características semelhantes e observar a quantidade de usuários que se encaixam em cada perfil.
 
 ## Metodologia 
 
 Para traçar o perfil dos nossos usuários nós conduzimos um estudo com questionários, pois se trata de um método de coleta de dados relativamente barato, rápido, fácil para analisar os dados e permite coletar informações de muitos usuários. Para isso, criamos um formulário com 8 perguntas visando analisar e agrupar os usuários em relação a [dados demográfico](#dados-demograficos), [experiência com computadores](#experiencia-com-computadores) e [familiaridade com o site e tarefas](#familiaridade-com-o-site-e-tarefas). 
 
-Ao todo 20 pessos responderam ao questionário. Abaixo temos a figura 1 que mostra que todos os usuários que responderam ao questionário concordaram com o termo de consentimento livre e esclarecido.
+Ao todo 20 pessoas responderam ao questionário. Abaixo temos a figura 1 que mostra que todos os usuários que responderam ao questionário concordaram com o termo de consentimento livre e esclarecido.
 
 <center>
    ![Concorda com o termo](images/../../images/dados-questionario/concorda-com-termo.png)
@@ -77,7 +78,7 @@ A Figura 7 mostra a escolha do usuário pela forma de agendar a carteira de iden
     </figcaption>
 </center>
 
-A Figura 8 mostra a quem realizou o agendamento da carteira de identidade, se foi o usuário em si ou um familiar.
+A Figura 8 mostra quem realizou o agendamento da carteira de identidade, se foi o usuário em si ou um familiar.
 
 <center>
    ![Quem realizou o agendamento](images/../../images/dados-questionario/quem-realizou-agendamento.png)
@@ -97,7 +98,7 @@ A Figura 9 mostra a satisfação dos usuários com o uso do sistema da PCDF.
 
 ## Referências
 
-> [1] BARBOSA; SILVA. **Organização do Espaço de Problema**. Capítulo. 8. Acesso em: 07 de dezembro de 2022.
+> [[1]](#introducao) BARBOSA, Simone et al. Organização do Espaço de Problema. _In_: BARBOSA, Simone. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021. p. 165-189
 
 ## Histórico de Versão
 
@@ -106,4 +107,5 @@ A Figura 9 mostra a satisfação dos usuários com o uso do sistema da PCDF.
 | 06/12/2022 |  1.0   |             Criação do documento              | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Yago Passos](https://github.com/yagompassos) | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
 | 07/12/2022 |  1.1   |    Alterando a introdução e a metodologia     |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
 | 07/12/2022 |  1.2   | Adicionando imagens dos dados do questionário |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo](https://github.com/OrlandiRodrigo) e [Guilherme](https://github.com/GG555-13) |
+| 11/12/2022 |  1.3   |  Corrigindo erros ortograficos e referência   |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         |                  [Gabriel Marcolino](https://github.com/GabrielMR360)                   |
 

@@ -35,7 +35,7 @@ nav:
       - Processo de design: processo_de_design.md
       - Ferramentas: ferramentas.md
   - Análise de Requisitos:
-    - Perfil de Usuário: analise-de-requisitos/user_profile.md
+    - Perfil de Usuário: analise-de-requisitos/perfil_usuario.md
     - Personas: analise-de-requisitos/personas.md
     - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
     - Aspectos Éticos: analise-de-requisitos/aspectos_eticos.md
