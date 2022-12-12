@@ -206,6 +206,60 @@ No caso do site da PCDF, a estrutura é seguida normalmente, além do título da
 
 ### 3.4 Cores
 
+As cores têm de ser estritamente seguidas, representando a imagem do Governo Federal a partir de uma identidade única. O Guia de Estilo do Portal Institucional Padrão apresenta as cores principais escolhidas, em forma de disco cromático, em valores RGB e hexadecimal, assim como exemplos de aplicação em degradês, como está ilustrado nas figuras 16 a 19.
+
+<p><br>
+</p>
+
+![cores_1](./images_requisitos/cores_1.png)
+    <figcaption align='center'>
+        <h6>Figura 16:</b> Cores principais escolhidas para representar o Governo Federal. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+É importante notar que, mesmo de acordo com a caixa de texto da figura acima, o site pode ser representado por uma mistura específica (disco cromático) das cores principais, a fim de preservar a identidade individual das instituições do Governo Federal.
+
+<p><br>
+</p>
+
+![cores_2](./images_requisitos/cores_2.png)
+    <figcaption align='center'>
+        <h6>Figura 17:</b> Disco cromático das cores principais. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+
+![cores_3](./images_requisitos/cores_3.png)
+    <figcaption align='center'>
+        <h6>Figura 18:</b> Valores em RGB e hexadecimal das cores principais e cores secundárias. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+
+![cores_4](./images_requisitos/cores_4.png)
+    <figcaption align='center'>
+        <h6>Figura 19:</b> Exemplos de como realizar e como não fazer o degradê das cores principais. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+O site da PCDF foi desenvolvido utilizando as cores representadas no emblema da mesma, buscando representar a identidade visual do Governo Federal enquanto prezando pela da Polícia Civil do Distrito Federal. O disco cromático aplicado é mais customizado quando comparado às variações apresentadas no Guia de Estilo do Portal Institucional Padrão. A figura 20 representa uma paleta mais geral e as cores principais utilizadas no site da PCDF.
+
+![cores_5](./images_requisitos/cores_5.png)
+    <figcaption align='center'>
+        <h6>Figura 20:</b> Extração das cores principais e paletas do site da PCDF por meio do site https://imagecolorpicker.com/. Fonte: [Site do Image Color Picker.](https://imagecolorpicker.com/)
+    </figcaption>
+
+<p><br>
+</p>
+
 ## Referências
 
 > [1] [Guia de Estilo do Portal Institucional Padrão.](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf)
