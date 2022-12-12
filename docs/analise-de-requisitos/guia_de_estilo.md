@@ -1,6 +1,6 @@
 <h1 align="center">Guia de Estilo</h1>
 
-## 1.Introdução
+## 1. Introdução
 O **guia de estilo** de um site ou de uma instituição representa o padrão visual, sendo um registro das principais decisões de design tomadas pela equipe, o qual diversos elementos do site têm de aderir, criando uma identidade visual própria e distinta.
 
 Quando feita cuidadosamente, promove sentimentos positivos na experiência do usuário ao interagir com esses elementos. No entanto, tem de tomar cuidado ao desenvolvê-lo, pois um guia de estilo de baixa qualidade ou a sua falta pode resultar no site se tornando visualmente amador e mal feito aos olhos do usuário. É também importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto (Diniz, Santana, 2010).
@@ -13,11 +13,10 @@ Um guia de estilo bem documentado promove a comunicação entre a equipe, permit
 
 <center>
     <figcaption align='center'>
-        <h5><b>Figura 1:</b)> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew.
     </figcaption>
-    ![Imagem Engenharia de Usabilidade	de Mayhew](images/mayhew_proc_des_fase1.png)
+    ![Imagem Engenharia de Usabilidade de Mayhew](docs/images/mayhew_proc_des_fase1.png)
     <figcaption align='center'>
-        <h6>Fonte: Barbosa, 2021, pág. 110
+        <h6> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew. Fonte: Barbosa, 2021, pág. 110
     </figcaption>
 </center>
 
@@ -33,11 +32,10 @@ Este Guia de Estilo seguirá a estrutura apontada na figura 2, a seguir:
 
 <center>
     <figcaption align='center'>
-        <h5><b>Figura 2:</b> Estrutura de Guia de Estilo sugerida por Marcus e Mayhew.
     </figcaption>
-    ![Imagem Engenharia de Usabilidade	de Mayhew](images/mayhew_proc_des_fase1.png)
+    ![Imagem Engenharia de Usabilidade	de Mayhew](docs/images/estrutura_guia_de_estilo.png)
     <figcaption align='center'>
-        <h6>Fonte: Diniz, Santana: **Interação Humano-Computador**. 2010, cap. 8, pág. 283
+        <h6>Figura 2:</b> Estrutura de Guia de Estilo sugerida por Marcus e Mayhew. Fonte: Diniz, Santana: **Interação Humano-Computador**. 2010, cap. 8, pág. 283
     </figcaption>
 </center>
 
