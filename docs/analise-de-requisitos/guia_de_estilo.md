@@ -272,6 +272,8 @@ O site da PCDF foi desenvolvido utilizando as cores representadas no emblema da 
 
 > [5] [Site da PCDF - Consulta/Agendamento.](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar) Acesso em: 12 de dezembro de 2022.
 
+> [6] [Site do Image Color Picker.](https://imagecolorpicker.com/) Acesso em: 12 de dezembro de 2022.
+
 ## Histórico de Versão
 
 |    Data    | Versão |      Descrição       |                                              Autor(es)                                              |                                    Revisor(es)                                    |
