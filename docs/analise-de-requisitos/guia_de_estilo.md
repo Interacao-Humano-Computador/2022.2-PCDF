@@ -12,11 +12,10 @@ O site da PCDF segue a estrutura do Portal Institucional Padrão, o qual contém
 Um guia de estilo bem documentado promove a comunicação entre a equipe, permitindo o desenvolvimento mais fluido de novas ideias e refinar as partes necessárias, ações que unem a identidade visual do site harmoniosamente. De acordo com o ciclo de vida de Mayhew, e como pode ser visto na figura 1, é um dos elementos principais da fase de análise de requisitos no desenvolvimento de um site. 
 
 <center>
+
+![Imagem Engenharia de Usabilidade de Mayhew](docs/images/mayhew_proc_des_fase1.png)
     <figcaption align='center'>
-        ![Imagem Engenharia de Usabilidade de Mayhew](docs/images/mayhew_proc_des_fase1.png)
-    </figcaption>
-    <figcaption align='center'>
-        <h6> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew. Fonte: Barbosa, 2021, pág. 110
+        <h6> Figura 1:</b> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew. Fonte: Barbosa, 2021, pág. 110
     </figcaption>
 </center>
 
@@ -31,9 +30,8 @@ O Guia de Estilo desenvolvido neste projeto tem como objetivos:
 Este Guia de Estilo seguirá a estrutura apontada na figura 2, a seguir:
 
 <center>
-    <figcaption align='center'>
-        ![Estrutura de Guia de Estilo](docs/images/estrutura_guia_de_estilo.png)
-    </figcaption>
+
+![Estrutura de Guia de Estilo](docs/images/estrutura_guia_de_estilo.png)
     <figcaption align='center'>
         <h6>Figura 2:</b> Estrutura de Guia de Estilo sugerida por Marcus e Mayhew. Fonte: Diniz, Santana: **Interação Humano-Computador**. 2010, cap. 8, pág. 283
     </figcaption>
