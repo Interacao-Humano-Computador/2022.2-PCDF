@@ -13,7 +13,7 @@ Um guia de estilo bem documentado promove a comunicação entre a equipe, permit
 
 <center>
 
-![Imagem Engenharia de Usabilidade de Mayhew](docs/images/mayhew_proc_des_fase1.png)
+![Imagem Engenharia de Usabilidade de Mayhew](./images_requisitos/mayhew_proc_des_fase1.png)
     <figcaption align='center'>
         <h6> Figura 1:</b> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew. Fonte: Barbosa, 2021, pág. 110
     </figcaption>
@@ -31,7 +31,7 @@ Este Guia de Estilo seguirá a estrutura apontada na figura 2, a seguir:
 
 <center>
 
-![Estrutura de Guia de Estilo](docs/images/estrutura_guia_de_estilo.png)
+![Estrutura de Guia de Estilo](./images_requisitos/estrutura_guia_de_estilo.png)
     <figcaption align='center'>
         <h6>Figura 2:</b> Estrutura de Guia de Estilo sugerida por Marcus e Mayhew. Fonte: Diniz, Santana: **Interação Humano-Computador**. 2010, cap. 8, pág. 283
     </figcaption>
