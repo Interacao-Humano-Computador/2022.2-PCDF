@@ -116,7 +116,7 @@ O site da PCDF segue a estrutura descrita fielmente na aba de agendamento, com a
 
 As janelas apresentadas pela seção de agendamento do site da PCDF levam o usuário a uma variedade de serviços relacionados a carteira de identidade, desde o agendamento, reagendamento, consulta do processo e perguntas frequentes, como representados na figura 8, até locais de atendimento e informações adicionais do processo e links atrelados ao Google Maps dos locais de atendimento, como ilustrado na figura 9.
 
-![Grid do site da PCDF](./images_requisitos/janelas_1.png)
+![janelas_1](./images_requisitos/janelas_1.png)
     <figcaption align='center'>
         <h6>Figura 8:</b> Opções de serviço relacionados a carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
@@ -124,7 +124,7 @@ As janelas apresentadas pela seção de agendamento do site da PCDF levam o usu�
 <p><br>
 </p>
 
-![Grid do site da PCDF](./images_requisitos/janelas_2.png)
+![janelas_2](./images_requisitos/janelas_2.png)
     <figcaption align='center'>
         <h6>Figura 9:</b> Locais de atendimento para os serviços de carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
@@ -139,7 +139,7 @@ Notavelmente, o link de acesso muda de https://www.pcdf.df.gov.br para https://a
 <p><br>
 </p>
 
-![Grid do site da PCDF](./images_requisitos/janelas_3.png)
+![janelas_3](./images_requisitos/janelas_3.png)
     <figcaption align='center'>
         <h6>Figura 10:</b> Janela de reimpressão fácil da segunda via da carteira de identidade. Fonte: [Site da PCDF - Segunda Via Fácil - Reimpressão](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade/2-via-facil-reimpressao)
     </figcaption>
@@ -147,13 +147,65 @@ Notavelmente, o link de acesso muda de https://www.pcdf.df.gov.br para https://a
 <p><br>
 </p>
 
-![Grid do site da PCDF](./images_requisitos/janelas_4.png)
+![janelas_4](./images_requisitos/janelas_4.png)
     <figcaption align='center'>
-        <h6>Figura 11:</b> Seção de agendamento para consulta/agendamento de serviços relacionados à carteira de identidade. Fonte: [Site da PCDF - Consulta/Agendamento](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar)
+        <h6>Figura 11:</b> Site destinado para consulta/agendamento de serviços relacionados à carteira de identidade. Fonte: [Site da PCDF - Consulta/Agendamento](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar)
     </figcaption>
 
 <p><br>
 </p>
+
+### 3.3 Tipografia
+
+A tipografia registrada no Guia de Estilo do Portal Institucional Padrão inclui as fontes *Open Sans* e *Arial*, respectivamente ilustradas nas figuras 12 e 13.  
+
+<p><br>
+</p>
+
+![fontes_1](./images_requisitos/fontes_1.png)
+    <figcaption align='center'>
+        <h6>Figura 12:</b> Fonte *Open Sans*. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+![fontes_2](./images_requisitos/fontes_2.png)
+    <figcaption align='center'>
+        <h6>Figura 13:</b> Fonte *Arial*. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+Seus usos são específicos, com a estrutura do site atribuindo tamanhos e padrões diferentes para as fontes dependendo de onde é empregada. Para chamadas, a fonte que deve ser empregada é a *Arial*, enquanto que a *Open Sans* é usualmente utilizada para títulos e nomes, como pode-se ver na figura 14.
+
+<p><br>
+</p>
+
+![fontes_3](./images_requisitos/fontes_3.png)
+    <figcaption align='center'>
+        <h6>Figura 14:</b> Uso destinado das fontes. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+
+<p><br>
+</p>
+
+No caso do site da PCDF, a estrutura é seguida normalmente, além do título da PCDF em si e imagens originais carregadas ao site, os quais não necessariamente precisam aderir à estrutura definida do Portal Institucional Padrão.
+
+<p><br>
+</p>
+
+![fontes_4](./images_requisitos/fontes_4.png)
+    <figcaption align='center'>
+        <h6>Figura 15:</b> Identificação de fontes utilizadas no site da PCDF. Fonte: [Site da PCDF - Seção de Agendamento.](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
+    </figcaption>
+
+<p><br>
+</p>
+
+### 3.4 Cores
+
 ## Referências
 
 > [1] [Guia de Estilo do Portal Institucional Padrão.](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf)
@@ -162,7 +214,9 @@ Notavelmente, o link de acesso muda de https://www.pcdf.df.gov.br para https://a
 
 > [3] DINIZ; SANTANA. **INTERAÇÃO HUMANO-COMPUTADOR**. Rio de Janeiro: Elsevier, 2010. Cap. 8: pág. 282. Acesso em: 11 de dezembro de 2022.
 
-> [4] [Seção de agendamento do site da PCDF.](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
+> [4] [Seção de agendamento do site da PCDF.](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)  Acesso em: 11 de dezembro de 2022.
+
+> [5] [Site da PCDF - Consulta/Agendamento.](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar) Acesso em: 12 de dezembro de 2022.
 
 ## Histórico de Versão
 
