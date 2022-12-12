@@ -60,22 +60,20 @@ Como estabelecido na introdução, a estrutura do site da PCDF pertence à ident
 
 ### 3.1 Disposição Espacial e Grid
 
-A estrutura do grid, com distância medida em pixels, se apresenta nas figuras 3 e 4, a seguir. Na figura 4, o grid está aplicado a um layout padrão de 1024 pixels, que é a largura para janelas de navegadores.
-<center>
+A estrutura do grid, com distância medida em pixels, se apresenta nas figuras 3 e 4, a seguir. Na figura 4, o grid está aplicado a um layout padrão de 1024 pixels, que é a largura padrão para janelas de navegadores.
+
 
 ![Grid sob aplicação genérica](./images_requisitos/grid_1.png)
     <figcaption align='center'>
         <h6>Figura 3:</b> Estrutura do Grid. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
-</center>
 
-<center>
 
 ![Grid aplicado em uma tela de 1024 pixels](./images_requisitos/grid_2.png)
     <figcaption align='center'>
         <h6>Figura 4:</b> Grid aplicado em uma tela de 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
-</center>
+
 
 Além do padrão usual de 1024 pixels de largura, há uma disposição própria para quando se reajusta a tela, separadas em duas categorias:
 <ul>
@@ -84,17 +82,18 @@ Além do padrão usual de 1024 pixels de largura, há uma disposição própria 
 </ul>
 as quais podem ser vistas, respectivamente, nas figuras 5 e 6.
 
+
 ![Grid aplicado em uma tela menor qye 1024 pixels](./images_requisitos/grid_3.png)
     <figcaption align='center'>
         <h6>Figura 5:</b> Grid aplicado em uma tela menor que 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
-</center>
+
 
 ![Grid aplicado em uma tela menor que 768 pixels](./images_requisitos/grid_4.png)
     <figcaption align='center'>
         <h6>Figura 6:</b> Grid aplicado em uma tela menor que 768 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
-</center>
+
 
 
 ## Referências
