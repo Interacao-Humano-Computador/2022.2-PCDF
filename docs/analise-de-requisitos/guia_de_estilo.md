@@ -99,8 +99,61 @@ Além do padrão usual de 1024 pixels de largura, há uma disposição própria 
         <h6>Figura 6:</b> Grid aplicado em uma tela menor que 768 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
 
+<p><br>
+</p>
 
+O site da PCDF segue a estrutura descrita fielmente na aba de agendamento, com a sua própria paleta de cores e elementos gráficos, como representado na figura 7 a seguir.
 
+![Grid do site da PCDF](./images_requisitos/grid_5.png)
+    <figcaption align='center'>
+        <h6>Figura 7:</b> Grid aplicado no site da PCDF. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
+    </figcaption>
+
+<p><br>
+</p>
+
+### 3.2 Janelas
+
+As janelas apresentadas pela seção de agendamento do site da PCDF levam o usuário a uma variedade de serviços relacionados a carteira de identidade, desde o agendamento, reagendamento, consulta do processo e perguntas frequentes, como representados na figura 8, até locais de atendimento e informações adicionais do processo e links atrelados ao Google Maps dos locais de atendimento, como ilustrado na figura 9.
+
+![Grid do site da PCDF](./images_requisitos/janelas_1.png)
+    <figcaption align='center'>
+        <h6>Figura 8:</b> Opções de serviço relacionados a carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
+    </figcaption>
+
+<p><br>
+</p>
+
+![Grid do site da PCDF](./images_requisitos/janelas_2.png)
+    <figcaption align='center'>
+        <h6>Figura 9:</b> Locais de atendimento para os serviços de carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
+    </figcaption>
+
+<p><br>
+</p>
+
+A estrutura apresentada pela maioria das janelas apresentadas segue a mesma definida pelo Guia de Estilo do Portal Institucional Padrão, como visto na figura 10. No entanto, o serviço de agendamento em si possui uma estrutura completamente diferente, ilustrada na figura 11, o que pode causar uma leve sensação de desconforto ao usuário quando acessando o principal serviço do site.
+
+Notavelmente, o link de acesso muda de https://www.pcdf.df.gov.br para https://agendaservico.pcdf.df.gov.br/Agenda/Consultar, o que denota a utilização de outro site e, consequentemente, outra estrutura.
+
+<p><br>
+</p>
+
+![Grid do site da PCDF](./images_requisitos/janelas_3.png)
+    <figcaption align='center'>
+        <h6>Figura 10:</b> Janela de reimpressão fácil da segunda via da carteira de identidade. Fonte: [Site da PCDF - Segunda Via Fácil - Reimpressão](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade/2-via-facil-reimpressao)
+    </figcaption>
+
+<p><br>
+</p>
+
+![Grid do site da PCDF](./images_requisitos/janelas_4.png)
+    <figcaption align='center'>
+        <h6>Figura 11:</b> Seção de agendamento para consulta/agendamento de serviços relacionados à carteira de identidade. Fonte: [Site da PCDF - Consulta/Agendamento](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar)
+    </figcaption>
+
+<p><br>
+</p>
 ## Referências
 
 > [1] [Guia de Estilo do Portal Institucional Padrão.](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf)
@@ -108,6 +161,8 @@ Além do padrão usual de 1024 pixels de largura, há uma disposição própria 
 > [2] BARBOSA; SILVA. **Processos de Design de IHC**. 2021. Cap. 4: pág. 110. Acesso em: 11 de dezembro de 2022.
 
 > [3] DINIZ; SANTANA. **INTERAÇÃO HUMANO-COMPUTADOR**. Rio de Janeiro: Elsevier, 2010. Cap. 8: pág. 282. Acesso em: 11 de dezembro de 2022.
+
+> [4] [Seção de agendamento do site da PCDF.](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
 
 ## Histórico de Versão
 
