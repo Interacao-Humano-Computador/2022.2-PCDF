@@ -260,6 +260,17 @@ O site da PCDF foi desenvolvido utilizando as cores representadas no emblema da 
 <p><br>
 </p>
 
+## 6. Vocabulário e Padrões 
+
+### 6.1 Terminologia
+Nenhuma terminologia específica foi encontrada no site da PCDF. Considerando o amplo público alvo do serviço, uma terminologia específica seria relativamente detrimental ao serviço de agendamento de carteiras de identidade.
+
+### 6.2 Tipos de Tela
+Os tipos de tela do site da PCDF em relação ao serviço de agendamento incluem o site que segue a estrutura do Guia de Estilo do Portal Institucional Padrão e a estrutura adotada com o serviço de agendamento/consulta, este sendo outro site. Esses tipos foram demonstrados nas [figuras 10](#32-janelas) e [11](#32-janelas).
+
+### 6.3 Sequências de Diálogos
+Nenhuma sequência de diálogo específica foi encontrada, além da inserção de dados no login e seleção da hora/unidade da polícia na consulta/agendamento dos serviços da carteira de identidade.
+
 ## Referências
 
 > [1] [Guia de Estilo do Portal Institucional Padrão.](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf)
