@@ -5,7 +5,7 @@ O **guia de estilo** de um site ou de uma instituição representa o padrão vis
 
 Quando feita cuidadosamente, promove sentimentos positivos na experiência do usuário ao interagir com esses elementos. No entanto, tem de tomar cuidado ao desenvolvê-lo, pois um guia de estilo de baixa qualidade ou a sua falta pode resultar no site se tornando visualmente amador e mal feito aos olhos do usuário. É também importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto (Diniz, Santana, 2010).
 
-O site da PCDF segue a estrutura do Portal Institucional Padrão, o qual contém o seu próprio Guia de Estilo que será constantemente referenciado e demonstrado ao longo deste artefato.
+O site da PCDF segue a estrutura do [Portal Institucional Padrão](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf), o qual contém o seu próprio Guia de Estilo que será constantemente referenciado e demonstrado ao longo deste artefato.
 
 ### 1.1 Objetivo do Guia de Estilo
 
