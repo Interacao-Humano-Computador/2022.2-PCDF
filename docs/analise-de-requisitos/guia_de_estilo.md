@@ -19,6 +19,7 @@ Um guia de estilo bem documentado promove a comunicação entre a equipe, permit
     </figcaption>
 </center>
 
+
 O Guia de Estilo desenvolvido neste projeto tem como objetivos:
 <ul>
   <li>ser desenvolvido com base nos elementos visuais apresentados no site da PCDF, fornecendo sua identidade visual de design bem documentada; </li>
@@ -52,6 +53,48 @@ Durante a manutenção, este Guia deve seguir as normas de manutenção e polít
 Considerando a importância durante o projeto inteiro, este Guia deve ser mantido e atualizado durante a fase de Design, Avaliação e Desenvolvimento, considerando o Ciclo de Vida de Mayhew, sendo esse o abordado durante este projeto. Ele deve conter uma boa estrutura para usar como um processo reflexivo que guie a equipe ao longo das fases 1 e 2 do Ciclo de Vida de Mayhew.
 
 ## 2. Resultados de Análise
+
+## 3. Elementos de Interface
+
+Como estabelecido na introdução, a estrutura do site da PCDF pertence à identidade visual do [Guia de Estilo do Portal Institucional Padrão](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf), e os elementos apresentados serão baseadas no arquivo. 
+
+### 3.1 Disposição Espacial e Grid
+
+A estrutura do grid, com distância medida em pixels, se apresenta nas figuras 3 e 4, a seguir. Na figura 4, o grid está aplicado a um layout padrão de 1024 pixels, que é a largura para janelas de navegadores.
+<center>
+
+![Grid sob aplicação genérica](./images_requisitos/grid_1.png)
+    <figcaption align='center'>
+        <h6>Figura 3:</b> Estrutura do Grid. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+</center>
+
+<center>
+
+![Grid aplicado em uma tela de 1024 pixels](./images_requisitos/grid_2.png)
+    <figcaption align='center'>
+        <h6>Figura 4:</b> Grid aplicado em uma tela de 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+</center>
+
+Além do padrão usual de 1024 pixels de largura, há uma disposição própria para quando se reajusta a tela, separadas em duas categorias:
+<ul>
+  <li>telas menores que 1024 pixels de largura; </li>
+  <li>telas menores que 768 pixels de largura,</li>
+</ul>
+as quais podem ser vistas, respectivamente, nas figuras 5 e 6.
+
+![Grid aplicado em uma tela menor qye 1024 pixels](./images_requisitos/grid_3.png)
+    <figcaption align='center'>
+        <h6>Figura 5:</b> Grid aplicado em uma tela menor que 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+</center>
+
+![Grid aplicado em uma tela menor que 768 pixels](./images_requisitos/grid_4.png)
+    <figcaption align='center'>
+        <h6>Figura 6:</b> Grid aplicado em uma tela menor que 768 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
+    </figcaption>
+</center>
 
 
 ## Referências
