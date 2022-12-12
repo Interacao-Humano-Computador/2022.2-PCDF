@@ -67,7 +67,8 @@ A estrutura do grid, com distância medida em pixels, se apresenta nas figuras 3
     <figcaption align='center'>
         <h6>Figura 3:</b> Estrutura do Grid. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
-
+<p><br>
+</p>
 
 ![Grid aplicado em uma tela de 1024 pixels](./images_requisitos/grid_2.png)
     <figcaption align='center'>
@@ -80,14 +81,16 @@ Além do padrão usual de 1024 pixels de largura, há uma disposição própria 
   <li>telas menores que 1024 pixels de largura; </li>
   <li>telas menores que 768 pixels de largura,</li>
 </ul>
-as quais podem ser vistas, respectivamente, nas figuras 5 e 6.
-
+<p>as quais podem ser vistas, respectivamente, nas figuras 5 e 6.<br>
+</p>
 
 ![Grid aplicado em uma tela menor qye 1024 pixels](./images_requisitos/grid_3.png)
     <figcaption align='center'>
         <h6>Figura 5:</b> Grid aplicado em uma tela menor que 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
 
+<p><br>
+</p>
 
 ![Grid aplicado em uma tela menor que 768 pixels](./images_requisitos/grid_4.png)
     <figcaption align='center'>
