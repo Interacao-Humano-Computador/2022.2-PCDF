@@ -12,8 +12,7 @@ O site da PCDF segue a estrutura do [Portal Institucional Padrão](docs/../guia_
 Um guia de estilo bem documentado promove a comunicação entre a equipe, permitindo o desenvolvimento mais fluido de novas ideias e refinar as partes necessárias, ações que unem a identidade visual do site harmoniosamente. De acordo com o ciclo de vida de Mayhew, e como pode ser visto na figura 1, é um dos elementos principais da fase de análise de requisitos no desenvolvimento de um site. 
 
 <center>
-
-![Imagem Engenharia de Usabilidade de Mayhew](./images_requisitos/mayhew_proc_des_fase1.png)
+    ![Imagem Engenharia de Usabilidade de Mayhew](./images_requisitos/mayhew_proc_des_fase1.png)
     <figcaption align='center'>
         <h6> Figura 1:</b> Fase de Análise de Requisitos do Ciclo de Vida de Mayhew. Fonte: Barbosa, 2021, pág. 110
     </figcaption>
@@ -31,8 +30,7 @@ O Guia de Estilo desenvolvido neste projeto tem como objetivos:
 Este Guia de Estilo seguirá a estrutura apontada na figura 2, a seguir:
 
 <center>
-
-![Estrutura de Guia de Estilo](./images_requisitos/estrutura_guia_de_estilo.png)
+    ![Estrutura de Guia de Estilo](./images_requisitos/estrutura_guia_de_estilo.png)
     <figcaption align='center'>
         <h6>Figura 2:</b> Estrutura de Guia de Estilo sugerida por Marcus e Mayhew. Fonte: Diniz, Santana: **Interação Humano-Computador**. 2010, cap. 8, pág. 283
     </figcaption>
@@ -54,6 +52,10 @@ Considerando a importância durante o projeto inteiro, este Guia deve ser mantid
 
 ## 2. Resultados de Análise
 
+### 2.1. Descrição do ambiente de trabalho do usuário
+
+O [site](#referencias) da Polícia Civil do Distrito Federal pode ser acessado tanto no computador quanto no celular, através de um navegador(browser). Ele é voltado principalmente para notícias, informações e serviços para a população. Quando os usuários entram no site se deparam com a página inicial que contém uma barra de navegação com 6 abas que é por onde eles interagem para acessar as informações, notícias e serviços da PC-DF. Ao longo da página inicial é possível ver as últimas notícias, o acesso as informações e os serviços.
+
 ## 3. Elementos de Interface
 
 Como estabelecido na introdução, a estrutura do site da PCDF pertence à identidade visual do [Guia de Estilo do Portal Institucional Padrão](docs/../guia_de_estilo_identidade_padrao_comunicacao.pdf), e os elementos apresentados serão baseadas no arquivo. 
@@ -63,17 +65,22 @@ Como estabelecido na introdução, a estrutura do site da PCDF pertence à ident
 A estrutura do grid, com distância medida em pixels, se apresenta nas figuras 3 e 4, a seguir. Na figura 4, o grid está aplicado a um layout padrão de 1024 pixels, que é a largura padrão para janelas de navegadores.
 
 
-![Grid sob aplicação genérica](./images_requisitos/grid_1.png)
+<center>
+    ![Grid sob aplicação genérica](./images_requisitos/grid_1.png)
     <figcaption align='center'>
         <h6>Figura 3:</b> Estrutura do Grid. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
+
 <p><br>  
 </p>
 
-![Grid aplicado em uma tela de 1024 pixels](./images_requisitos/grid_2.png)
+<center>
+    ![Grid aplicado em uma tela de 1024 pixels](./images_requisitos/grid_2.png)
     <figcaption align='center'>
         <h6>Figura 4:</b> Grid aplicado em uma tela de 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -86,28 +93,34 @@ Além do padrão usual de 1024 pixels de largura, há uma disposição própria 
 <p>as quais podem ser vistas, respectivamente, nas figuras 5 e 6.<br>
 </p>
 
-![Grid aplicado em uma tela menor qye 1024 pixels](./images_requisitos/grid_3.png)
+<center>
+    ![Grid aplicado em uma tela menor qye 1024 pixels](./images_requisitos/grid_3.png)
     <figcaption align='center'>
         <h6>Figura 5:</b> Grid aplicado em uma tela menor que 1024 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
-![Grid aplicado em uma tela menor que 768 pixels](./images_requisitos/grid_4.png)
+<center>
+    ![Grid aplicado em uma tela menor que 768 pixels](./images_requisitos/grid_4.png)
     <figcaption align='center'>
         <h6>Figura 6:</b> Grid aplicado em uma tela menor que 768 pixels. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
 O site da PCDF segue a estrutura descrita fielmente na aba de agendamento, com a sua própria paleta de cores e elementos gráficos, como representado na figura 7 a seguir.
 
-![Grid do site da PCDF](./images_requisitos/grid_5.png)
+<center>
+    ![Grid do site da PCDF](./images_requisitos/grid_5.png)
     <figcaption align='center'>
         <h6>Figura 7:</b> Grid aplicado no site da PCDF. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -116,18 +129,22 @@ O site da PCDF segue a estrutura descrita fielmente na aba de agendamento, com a
 
 As janelas apresentadas pela seção de agendamento do site da PCDF levam o usuário a uma variedade de serviços relacionados a carteira de identidade, desde o agendamento, reagendamento, consulta do processo e perguntas frequentes, como representados na figura 8, até locais de atendimento e informações adicionais do processo e links atrelados ao Google Maps dos locais de atendimento, como ilustrado na figura 9.
 
-![janelas_1](./images_requisitos/janelas_1.png)
+<center>
+    ![janelas_1](./images_requisitos/janelas_1.png)
     <figcaption align='center'>
         <h6>Figura 8:</b> Opções de serviço relacionados a carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
-![janelas_2](./images_requisitos/janelas_2.png)
+<center>
+    ![janelas_2](./images_requisitos/janelas_2.png)
     <figcaption align='center'>
         <h6>Figura 9:</b> Locais de atendimento para os serviços de carteira de identidade. Fonte: [Site da PCDF - Seção de Agendamento](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -139,18 +156,22 @@ Notavelmente, o link de acesso muda de https://www.pcdf.df.gov.br para https://a
 <p><br>
 </p>
 
-![janelas_3](./images_requisitos/janelas_3.png)
+<center>
+    ![janelas_3](./images_requisitos/janelas_3.png)
     <figcaption align='center'>
         <h6>Figura 10:</b> Janela de reimpressão fácil da segunda via da carteira de identidade. Fonte: [Site da PCDF - Segunda Via Fácil - Reimpressão](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade/2-via-facil-reimpressao)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
-![janelas_4](./images_requisitos/janelas_4.png)
+<center>
+    ![janelas_4](./images_requisitos/janelas_4.png)
     <figcaption align='center'>
         <h6>Figura 11:</b> Site destinado para consulta/agendamento de serviços relacionados à carteira de identidade. Fonte: [Site da PCDF - Consulta/Agendamento](https://agendaservico.pcdf.df.gov.br/Agenda/Consultar)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -162,18 +183,22 @@ A tipografia registrada no Guia de Estilo do Portal Institucional Padrão inclui
 <p><br>
 </p>
 
-![fontes_1](./images_requisitos/fontes_1.png)
+<center>
+    ![fontes_1](./images_requisitos/fontes_1.png)
     <figcaption align='center'>
         <h6>Figura 12:</b> Fonte *Open Sans*. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
-![fontes_2](./images_requisitos/fontes_2.png)
+<center>
+    ![fontes_2](./images_requisitos/fontes_2.png)
     <figcaption align='center'>
         <h6>Figura 13:</b> Fonte *Arial*. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -183,10 +208,12 @@ Seus usos são específicos, com a estrutura do site atribuindo tamanhos e padr�
 <p><br>
 </p>
 
-![fontes_3](./images_requisitos/fontes_3.png)
+<center>
+    ![fontes_3](./images_requisitos/fontes_3.png)
     <figcaption align='center'>
         <h6>Figura 14:</b> Uso destinado das fontes. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -196,10 +223,12 @@ No caso do site da PCDF, a estrutura é seguida normalmente, além do título da
 <p><br>
 </p>
 
-![fontes_4](./images_requisitos/fontes_4.png)
+<center>
+    ![fontes_4](./images_requisitos/fontes_4.png)
     <figcaption align='center'>
         <h6>Figura 15:</b> Identificação de fontes utilizadas no site da PCDF. Fonte: [Site da PCDF - Seção de Agendamento.](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade#agendar)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -211,10 +240,12 @@ As cores têm de ser estritamente seguidas, representando a imagem do Governo Fe
 <p><br>
 </p>
 
-![cores_1](./images_requisitos/cores_1.png)
+<center>
+    ![cores_1](./images_requisitos/cores_1.png)
     <figcaption align='center'>
         <h6>Figura 16:</b> Cores principais escolhidas para representar o Governo Federal. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
@@ -224,41 +255,83 @@ As cores têm de ser estritamente seguidas, representando a imagem do Governo Fe
 <p><br>
 </p>
 
-![cores_2](./images_requisitos/cores_2.png)
+<center>
+    ![cores_2](./images_requisitos/cores_2.png)
     <figcaption align='center'>
         <h6>Figura 17:</b> Disco cromático das cores principais. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
 
-![cores_3](./images_requisitos/cores_3.png)
+<center>
+    ![cores_3](./images_requisitos/cores_3.png)
     <figcaption align='center'>
         <h6>Figura 18:</b> Valores em RGB e hexadecimal das cores principais e cores secundárias. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
-
-![cores_4](./images_requisitos/cores_4.png)
+<center>
+    ![cores_4](./images_requisitos/cores_4.png)
     <figcaption align='center'>
         <h6>Figura 19:</b> Exemplos de como realizar e como não fazer o degradê das cores principais. Fonte: Guia de Estilo Padrão Comunicação (Portal Institucional Padrão)
     </figcaption>
+</center>
 
 <p><br>
 </p>
 
 O site da PCDF foi desenvolvido utilizando as cores representadas no emblema da mesma, buscando representar a identidade visual do Governo Federal enquanto prezando pela da Polícia Civil do Distrito Federal. O disco cromático aplicado é mais customizado quando comparado às variações apresentadas no Guia de Estilo do Portal Institucional Padrão. A figura 20 representa uma paleta mais geral e as cores principais utilizadas no site da PCDF.
 
-![cores_5](./images_requisitos/cores_5.png)
+<center>
+    ![cores_5](./images_requisitos/cores_5.png)
     <figcaption align='center'>
         <h6>Figura 20:</b> Extração das cores principais e paletas do site da PCDF por meio do site https://imagecolorpicker.com/. Fonte: [Site do Image Color Picker.](https://imagecolorpicker.com/)
     </figcaption>
-
+</center>
 <p><br>
 </p>
+
+## 4. Elementos de interação
+
+### 4.1. Estilos de interação
+
+Para o estilo de interação o site utiliza WIMP(windows, icons, menus, pointers), dentre estes o menu é o principal meio de interação onde é possível navegar entre as janelas do site. Também é utilizado preenchimento de formulários em alguns serviços disponíveis como denúncia online, antecedentes criminais, ouvidoria e bloqueio de aparelhos celulares, e links que direcionam o usuário para alguma página fora do site.
+
+### 4.2. Seleção de um estilo
+
+A navegação por menu é predominante no site da PC-DF. O usuário escolhe o que ele deseja visualizar na barra de navegação e então é direcionado para a página selecionada.
+
+### 4.3. Aceleradores(teclas de atalho)
+
+Não foi identificado nenhum acelerador(teclas de atalho) no site durante a utilização.
+
+## 5. Elementos de ação
+
+### 5.1. Preenchimento de campos
+
+O preenchimento de campos ocorre principalmente nas páginas de serviço, onde estão presentes formulários para que o usuário preencha e também a barra de pesquisa, como por exemplo o de denúncia online que é visto na imagem 21 logo abaixo:
+
+<center>
+    ![Imagem do formulário de denúncia](./images_requisitos/formulario_denuncia.png)
+    <figcaption align='center'>
+        <h6><b>Figura 21:</b> Imagem do formulário de denúncia. Fonte: [Site da PC-DF](#referencias)
+    </figcaption>
+</center>
+
+
+### 5.2. Seleção
+
+O usuário seleciona o serviço que deseja para então fazer o agendamento da carteira de identidade.
+
+### 5.3. Ativação
+
+Quando o usuário clica em algum campo do formulário ou em algum botão, então ocorre a sua ativação.
 
 ## 6. Vocabulário e Padrões 
 
@@ -287,7 +360,8 @@ Nenhuma sequência de diálogo específica foi encontrada, além da inserção d
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |                                              Autor(es)                                              |                                    Revisor(es)                                    |
-| :--------: | :----: | :------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| 11/12/2022 |  1.0   | Criação do documento | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) | [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) | 
-| 11/12/2022 |  1.1   | Adição do Tópico 1 | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) | [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) |
+|    Data    | Versão |                         Descrição                         |                                              Autor(es)                                              |                                    Revisor(es)                                    |
+| :--------: | :----: | :-------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| 11/12/2022 |  1.0   |                   Criação do documento                    | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) | [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) |
+| 11/12/2022 |  1.1   |                    Adição do Tópico 1                     | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) | [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) |
+| 12/12/2022 |  1.2   | Adicionando os tópicos 2, 4, 5 e centralizando as imagens | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) | [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) |
