@@ -27,8 +27,19 @@ A reunião foi iniciada às 16:00.
 <p style="text-align: justify;">Cada membro presente comentou sobre a avaliação do seu site escolhido mostrando para o resto do grupo para decidir qual seria escolhido .</p>
 
 2. Decidir a divisão de tarefas 
-<p style="text-align: justify;">Foi decidido rever as tarefas e o que cada membro vai fazer.
+<p style="text-align: justify;">Foi decidido rever as tarefas e o que cada membro vai fazer da seguinte forma:
 </p>
+|          Tarefa           |              Autor(es)               | Revisor(es) |
+| :-----------------------: | :----------------------------------: | :---------: |
+|     Atas das reuniões     |              Guilherme               |    Yago     |
+| Cronograma das atividades | Gabriel Marcolino e Jefferson Franca |   Rodrigo   |
+|  Ferramentas do projeto   |           Gabriel e Lucas            |  Jefferson  |
+|    Introdução e Equipe    |              Jefferson               |  Guilherme  |
+| Lista de sites avaliados  |               Rodrigo                |   Gabriel   |
+|  Planejamento do projeto  |         Todos os integrantes         |    Todos    |
+|    Processo de design     |                 Yago                 |    Lucas    |
+|      Site escolhido       |         Todos os integrantes         |    Todos    |
+
 
 
 
@@ -49,3 +60,4 @@ Os integrantes dão por encerrada a reunião às 17:11 do dia 15/11/2022.
 | 20/11/2022 |  0.1   | Criação da ata da reunião 15/11  | Guilherme Oliveira |             |
 | 22/11/2022 |  0.2   |  Arrumando erros de caligrafia   | Guilherme Oliveira |             |
 | 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |             |
+| 06/12/2022 |  0.4   |  Aticionando as tarefas na ata   | Guilherme Oliveira |             |

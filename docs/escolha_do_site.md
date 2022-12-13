@@ -6,10 +6,29 @@ de avaliação empregados incluem a avaliação heurística.
 
 ## Sites Avaliados Pelos Membros do Grupo
 
+|         Autor         |         Site          |                Planejamento da Avaliação                |                   Execução da Avaliação                    |
+| :-------------------: | :-------------------: | :-----------------------------------------------------: | :--------------------------------------------------------: |
+|   Gabriel Marcolino   |          BNB          |  [Planejamento](planejamento/planejamento-gabriel.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-gabriel.pdf)  |
+|     Lucas de Lima     |         PC-DF         |                                                         |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
+| Guilherme de Oliveira |       Cebraspe        | [Planejamento](planejamento/planejamento-guilherme.pdf) | [Avaliação](planejamento/execucao-avaliacao-guilherme.pdf) |
+|  Rodrigo de Andrade   | Software Livre Brasil |  [Planejamento](planejamento/planejamento-rodrigo.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-rodrigo.pdf)  |
+|      Yago Passos      |      Alistamento      |                                                         |                                                            |
+|   Jefferson Franca    |                       |                                                         |
+
+<figcaption align='center'>
+   <h6><b>Tabela 1: Avaliação individual dos sites<br>Fonte : Elaboração de Gabriel</br></h6>
+</figcaption>
+
 ### BNB - Biblioteca Nacional de Brasília
 
 <center>
+    <figcaption align='center'>
+        <h5><b>Figura 1:</b> Logo Biblioteca Nacional de Brasília</h5>
+    </figcaption>
     ![Logo BNB](images/bnb.png)
+    <figcaption align='center'>
+        <h6>Fonte: Biblioteca Nacional de Brasília
+    </figcaption>
 </center>
 
 A Biblioteca Nacional de Brasília tem um grande acervo de livros para que o público possa utilizá-los, ela se encontra na cidade de Brasília, no Distrito Federal, próxima a Rodoviária do Plano Piloto e faz parte do Complexo Cultural da República João Herculino, localizado na Esplanada dos Ministérios.
@@ -19,7 +38,13 @@ Além disso, ela conta com um site para que o público possa consultar o acervo 
 ### PCDF - Polícia Civil do Distrito Federal
 
 <center>
+    <figcaption align='center'>
+        <h5><b>Figura 2:</b>  Logo Polícia Civil do Distrito Federal
+    </figcaption>
     ![Logo PC-DF](images/pcdf.png)
+    <figcaption align='center'>
+        <h6>Fonte: PC-DF - Polícia Civil do Distrito Federal
+    </figcaption>
 </center>
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
@@ -32,7 +57,13 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 ### Cebraspe  
 
 <center>
+    <figcaption align='center'>
+        <h5>Figura 3:</b>  Logo Cebraspe
+    </figcaption>
     ![Logo Cebraspe](images/cebraspe.png)
+    <figcaption align='center'>
+        <h6>Fonte: Cebraspe
+    </figcaption>
 </center>
 
 A Cebraspe é uma instituição especializada na realização de concursos públicos, avaliações, seleções, certificações e pesquisas.
@@ -45,7 +76,13 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 ### Software Livre Brasil
 
 <center>
+    <figcaption align='center'>
+        <h5>Figura 4:</b> Logo Software Livre Brasil
+    </figcaption>
     ![Logo Software Livre Brasil](images/tvslb.png)
+    <figcaption align='center'>
+        <h6>Fonte: Software Livre Brasil
+    </figcaption>
 </center>
 
 O site Software Livre Brasil é uma plataforma criada para incentivar a formação e crescimento de uma comunidade brasileira de software livre. É uma plataforma onlune
@@ -56,7 +93,13 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 ### Alistamento Militar Online
 
 <center>
+    <figcaption align='center'>
+        <h5>Figura 5:</b> Logo Alistamento Militar Online
+    </figcaption>
     ![Logo Alistamento Militar Online](images/alistamentoMilSiteLogo.png)
+    <figcaption align='center'>
+        <h6>Fonte: Alistamento Militar
+    </figcaption>
 </center>
 
 O site do Alistamento Militar Online tem o intuito de auxiliar os jovens brasileiros que completaram 18 anos, a se associar à junta militar. Com certeza foi utilizada pela maior parte dos integrantes da turma de IHC e se mostrou um site interessante a ser avaliado tendo em vista sua importância social. 
@@ -68,16 +111,28 @@ O site escolhido pelo grupo, e o objetivo da abordagem do projeto, foi o site da
 
 A abordagem de seus defeitos, considerando um serviço tão crucial como o agendamento para serviços relacionados a carteira de identidade, pode trazer perspectivas de interesse a serem estudadas, e erros mais impactantes a serem corrigidos. Outro importante motivo de escolha foi exatamente por ser um serviço intencionado para diversos tipos de usuários, o que tornará a coleta de dados muito mais frutífera, ajudando no crescimento e desenvolvimento do projeto.
 
-## Referências
+## Bibliografia
 
-> 1.SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+> [1] SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
+
+> [2] Biblioteca Nacional de Brasília. Disponível em: <http://www.bnb.df.gov.br/>. Acesso em 07 de novembro de 2022
+
+> [3] Polícia Civil do Distrito Federal. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
+
+> [4] Cebraspe. Disponível em: <https://www.cebraspe.org.br/>. Acesso em 07 de novembro de 2022
+
+> [5] Software Livre Brasil. Disponível em: <http://softwarelivre.org/>. Acesso em 07 de novembro de 2022
+
+> [6] Alistamento Militar Online. Disponível em: <https://alistamento.eb.mil.br/>. Acesso em 07 de novembro de 2022
 
 ## Histórico de Versão
 
-|    Data    | Versão |                          Descrição                          |       Autor        | Revisor |
-| :--------: | :----: | :---------------------------------------------------------: | :----------------: | :-----: |
-| 20/11/2022 |  0.1   |       Acompanhamento do processo de escolha do grupo.       | Rodrigo de Andrade |         |
-| 22/11/2022 |  0.2   | Adicionando informações sobre a BNB e centralizando imagens | Gabriel Marcolino  |         |
+|    Data    | Versão |                              Descrição                              |                          Autor                          |                         Revisor                         |
+| :--------: | :----: | :-----------------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| 20/11/2022 |  1.0   |           Acompanhamento do processo de escolha do grupo.           | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 22/11/2022 |  1.1   |     Adicionando informações sobre a BNB e centralizando imagens     |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 04/12/2022 |  1.2   | Adicionando legenda nas figuras e atualizando o logo do alistamento |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 06/12/2022 |  1.3   |         Adicionando os planejamento e avaliações dos sites          |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
 
 

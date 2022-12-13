@@ -34,9 +34,17 @@ nav:
       - Cronograma: cronograma.md
       - Processo de design: processo_de_design.md
       - Ferramentas: ferramentas.md
+  - Análise de Requisitos:
+    - Perfil de Usuário: analise-de-requisitos/user_profile.md
+    - Personas: analise-de-requisitos/personas.md
+    - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
+    - Aspectos Éticos: analise-de-requisitos/aspectos_eticos.md
+    - Guia de Estilo: analise-de-requisitos/guia_de_estilo.md
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
     - Reunião03: Atas/Ata3.md
+    - Reunião04: Atas/Ata4.md
   - Apresentações:
     - Apresentação-1: apresentacoes/apresentacao-01.md 
+    - Apresentação-2: apresentacoes/apresentacao-02.md 

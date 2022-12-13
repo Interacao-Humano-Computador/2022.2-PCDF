@@ -1,6 +1,7 @@
 <h1 align="center">Personas</h1>
 
 ## Introdução
+
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin. É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo.
 
 Cada persona foi desenvolvida com base no perfil do usuário, sendo assim, ao todo foram 4 personas com perfis diferentes e 1 delas sendo a antipersona, mostradas abaixo nas figuras 1 a 5. Como o serviço estudado compreende diversos usuários, queríamos representar alguns arquétipos principais pelas personas desenvolvidas, e acabamos ficando com os exemplos citados.
@@ -66,3 +67,4 @@ Tem como objetivo, atualizar o documento de identidade.
 | 07/12/2022 |  1.1   |               Corrigindo caminho das imagens                |                       [Gabriel Marcolino](https://github.com/GabrielMR360)                       |   [Jefferson Franca](https://github.com/Frans6) e [Lucas Spinosa](https://github.com/LucasSpinosa)   |
 | 07/12/2022 |  1.2   | Adicionando referências e complementando texto introdutório | [Jefferson Franca](https://github.com/Frans6) e [Lucas Spinosa](https://github.com/LucasSpinosa) | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Yago Passos](https://github.com/yagompassos) |
 | 11/12/2022 |  1.3   |         Adicionando referências e alterando persona         | [Jefferson Franca](https://github.com/Frans6) e [Lucas Spinosa](https://github.com/LucasSpinosa) | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Yago Passos](https://github.com/yagompassos) |
+
