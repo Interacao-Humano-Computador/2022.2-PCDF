@@ -47,7 +47,8 @@ nav:
     - Metas de usabilidade: analise-de-requisitos/metas_de_usabilidade.md
     - Guia de Estilo: analise-de-requisitos/guia_de_estilo.md
     - Características da Plataforma do Projeto: analise-de-requisitos/carac_plat_proj.md
-
+  - Desing, Avaliação e Planejamento: 
+    - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
