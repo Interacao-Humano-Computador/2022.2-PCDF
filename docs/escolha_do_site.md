@@ -9,25 +9,22 @@ de avaliação empregados incluem a avaliação heurística.
 |         Autor         |         Site          |                Planejamento da Avaliação                |                   Execução da Avaliação                    |
 | :-------------------: | :-------------------: | :-----------------------------------------------------: | :--------------------------------------------------------: |
 |   Gabriel Marcolino   |          BNB          |  [Planejamento](planejamento/planejamento-gabriel.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-gabriel.pdf)  |
-|     Lucas de Lima     |         PC-DF         |                                                         |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
+|     Lucas de Lima     |         PC-DF         |                           :x:                           |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
 | Guilherme de Oliveira |       Cebraspe        | [Planejamento](planejamento/planejamento-guilherme.pdf) | [Avaliação](planejamento/execucao-avaliacao-guilherme.pdf) |
 |  Rodrigo de Andrade   | Software Livre Brasil |  [Planejamento](planejamento/planejamento-rodrigo.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-rodrigo.pdf)  |
-|      Yago Passos      |      Alistamento      |                                                         |                                                            |
-|   Jefferson Franca    |                       |                                                         |
+|      Yago Passos      |      Alistamento      |                           :x:                           |                            :x:                             |
+|   Jefferson Franca    |          :x:          |                           :x:                           |                            :x:                             |
 
 <figcaption align='center'>
-   <h6><b>Tabela 1: Avaliação individual dos sites<br>Fonte : Elaboração de Gabriel</br></h6>
+   <h6><b>Tabela 1:</b> Avaliação individual dos sites. Fonte : Elaboração de Gabriel</h6>
 </figcaption>
 
 ### BNB - Biblioteca Nacional de Brasília
 
 <center>
-    <figcaption align='center'>
-        <h5><b>Figura 1:</b> Logo Biblioteca Nacional de Brasília</h5>
-    </figcaption>
     ![Logo BNB](images/bnb.png)
     <figcaption align='center'>
-        <h6>Fonte: Biblioteca Nacional de Brasília
+        <h6><b>Figura 1:</b> Logo Biblioteca Nacional de Brasília. Fonte: [Biblioteca Nacional de Brasília](#bibliografia)
     </figcaption>
 </center>
 
@@ -38,18 +35,15 @@ Além disso, ela conta com um site para que o público possa consultar o acervo 
 ### PCDF - Polícia Civil do Distrito Federal
 
 <center>
-    <figcaption align='center'>
-        <h5><b>Figura 2:</b>  Logo Polícia Civil do Distrito Federal
-    </figcaption>
     ![Logo PC-DF](images/pcdf.png)
     <figcaption align='center'>
-        <h6>Fonte: PC-DF - Polícia Civil do Distrito Federal
+        <h6><b>Figura 2:</b>  Logo Polícia Civil do Distrito Federal. Fonte: [PC-DF - Polícia Civil do Distrito Federal](#bibliografia)
     </figcaption>
 </center>
 
 O site da Policia Civil do Distrito Federal é um portal feito com a finalidade de prover diversas informações a respeito de assuntos relacionados à esse poder público, como unidades policiais, serviços, leis, meios de contato, entre outros. Foi empregada a avaliação heurística para sua análise.
 
-O escopo da avaliação feita foi a área de Carteira de Identidade (https://www.pcdf.df.gov.br/servicos/carteira-de-identidade), que provém informações sobre o agendamento da mesma e possui a funcionalidade de realizar o agendamento em si.
+O escopo da avaliação feita foi a área de Carteira de Identidade [(https://www.pcdf.df.gov.br/servicos/carteira-de-identidade)](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade), que provém informações sobre o agendamento da mesma e possui a funcionalidade de realizar o agendamento em si.
 
 A avaliação visou detectar problemas na interação e interface que poderiam atrapalhar os usuários. O resultado foi a constatação de erros de severidade grave no design e na interface, que dificultam muito o que deveria ser algo simples.
 
@@ -57,12 +51,9 @@ A avaliação visou detectar problemas na interação e interface que poderiam a
 ### Cebraspe  
 
 <center>
-    <figcaption align='center'>
-        <h5>Figura 3:</b>  Logo Cebraspe
-    </figcaption>
     ![Logo Cebraspe](images/cebraspe.png)
     <figcaption align='center'>
-        <h6>Fonte: Cebraspe
+        <h6><b>Figura 3:</b>  Logo Cebraspe. Fonte: [Cebraspe](#bibliografia)
     </figcaption>
 </center>
 
@@ -76,12 +67,9 @@ Nesse caso os dois maiores erros são na parte de selecionar o Pas já que esse 
 ### Software Livre Brasil
 
 <center>
-    <figcaption align='center'>
-        <h5>Figura 4:</b> Logo Software Livre Brasil
-    </figcaption>
     ![Logo Software Livre Brasil](images/tvslb.png)
     <figcaption align='center'>
-        <h6>Fonte: Software Livre Brasil
+        <h6><b>Figura 4:</b> Logo Software Livre Brasil. Fonte: [Software Livre Brasil](#bibliografia)
     </figcaption>
 </center>
 
@@ -93,12 +81,9 @@ Neste caso, o método de avaliação utilizado foi, novamente, a avaliação heu
 ### Alistamento Militar Online
 
 <center>
-    <figcaption align='center'>
-        <h5>Figura 5:</b> Logo Alistamento Militar Online
-    </figcaption>
     ![Logo Alistamento Militar Online](images/alistamentoMilSiteLogo.png)
     <figcaption align='center'>
-        <h6>Fonte: Alistamento Militar
+        <h6><b>Figura 5:</b> Logo Alistamento Militar Online. Fonte: [Alistamento Militar](#bibliografia)
     </figcaption>
 </center>
 
@@ -115,15 +100,15 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 
 > [1] SALES, André Barros. Vídeo de recomendação de escolha do site. Disponível em: <https://aprender3.unb.br/>. Acesso em: 20 de novembro de 2022.
 
-> [2] Biblioteca Nacional de Brasília. Disponível em: <http://www.bnb.df.gov.br/>. Acesso em 07 de novembro de 2022
+> [[2]](#bnb-biblioteca-nacional-de-brasilia) Biblioteca Nacional de Brasília. Disponível em: <http://www.bnb.df.gov.br/>. Acesso em 07 de novembro de 2022
 
-> [3] Polícia Civil do Distrito Federal. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
+> [[3]](#pcdf-policia-civil-do-distrito-federal) Polícia Civil do Distrito Federal. 2022. Disponível em: <https://www.pcdf.df.gov.br/servicos/carteira-de-identidade>. Acesso em 24 de novembro de 2022
 
-> [4] Cebraspe. Disponível em: <https://www.cebraspe.org.br/>. Acesso em 07 de novembro de 2022
+> [[4]](#cebraspe) Cebraspe. Disponível em: <https://www.cebraspe.org.br/>. Acesso em 07 de novembro de 2022
 
-> [5] Software Livre Brasil. Disponível em: <http://softwarelivre.org/>. Acesso em 07 de novembro de 2022
+> [[5]](#software-livre-brasil) Software Livre Brasil. Disponível em: <http://softwarelivre.org/>. Acesso em 07 de novembro de 2022
 
-> [6] Alistamento Militar Online. Disponível em: <https://alistamento.eb.mil.br/>. Acesso em 07 de novembro de 2022
+> [[6]](#alistamento-militar-online) Alistamento Militar Online. Disponível em: <https://alistamento.eb.mil.br/>. Acesso em 07 de novembro de 2022
 
 ## Histórico de Versão
 
@@ -133,6 +118,7 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 | 22/11/2022 |  1.1   |     Adicionando informações sobre a BNB e centralizando imagens     |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 04/12/2022 |  1.2   | Adicionando legenda nas figuras e atualizando o logo do alistamento |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 06/12/2022 |  1.3   |         Adicionando os planejamento e avaliações dos sites          |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 11/12/2022 |  1.4   |        Padronizando as legendas das imagens e a bibliografia        |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
 
 

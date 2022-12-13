@@ -27,6 +27,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - pymdownx.tasklist
+  - pymdownx.emoji
+
 nav:
   - Início: index.md
   - Planejamento:
@@ -35,11 +39,15 @@ nav:
       - Processo de design: processo_de_design.md
       - Ferramentas: ferramentas.md
   - Análise de Requisitos:
-    - Perfil de Usuário: analise-de-requisitos/user_profile.md
+    - Perfil de Usuário: analise-de-requisitos/perfil_usuario.md
     - Personas: analise-de-requisitos/personas.md
     - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
     - Aspectos Éticos: analise-de-requisitos/aspectos_eticos.md
+    - Princípios Gerais do Projeto: analise-de-requisitos/principios_e_diretrizes.md
+    - Metas de usabilidade: analise-de-requisitos/metas_de_usabilidade.md
     - Guia de Estilo: analise-de-requisitos/guia_de_estilo.md
+    - Características da Plataforma do Projeto: analise-de-requisitos/carac_plat_proj.md
+
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
