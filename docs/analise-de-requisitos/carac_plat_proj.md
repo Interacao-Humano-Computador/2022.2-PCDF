@@ -6,7 +6,7 @@ No final deste projeto será apresentado um protótipo de alta fidelidade com o 
 O protótipo de alta fidelidade será um site funcional, hosteado no Squarespace.
 
 ## O que é Squarespace?
-   [Imagem do Squarespace](./images_requisitos/plataforma_1.png)
+   ![Imagem do Squarespace](./images_requisitos/plataforma_1.png)
    Figura 1: Página inicial do site da Squarespace. Fonte: [Site da Squarespace](https://www.squarespace.com/)
    
    <p><br>
