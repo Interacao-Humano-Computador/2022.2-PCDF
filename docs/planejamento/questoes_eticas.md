@@ -8,7 +8,7 @@ A entrevista feita pelo Grupo 6 é obrigada a seguir os pontos de eticidade da p
 
 !["Aspectos éticos da pesquisa envolvendo seres humanos"](./images_planejamento/etc_1.png)
 <figcaption align='center'>
-   <h6><b>Figura 1: Critérios para a eticidade de uma pesquisa. Fonte: Resolução no. 196/96 do Conselho Nacional de Saúde.</h6>
+   <h6><b>Figura 1: Critérios para a eticidade de uma pesquisa. Fonte: Resolução no. 196/96 do Conselho Nacional de Saúde.</b></h6>
 </figcaption>
 </center>
 
