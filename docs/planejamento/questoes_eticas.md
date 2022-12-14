@@ -1,4 +1,4 @@
-<h1 align="center">Análise de Tarefas</h1>
+<h1 align="center">Questões Éticas</h1>
  
 ## Introdução
 Durante a avaliação, considerando a presença de usuários, as questões éticas serão de alta relevância à entrevista, com o objetivo de seguir ao máximo os [Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução no. 196/96 do Conselho Nacional de Saúde](https://bvsms.saude.gov.br/bvs/saudelegis/cns/1996/res0196_10_10_1996.html). É de suma importância que a parte entrevistada entenda e concorde com os princípios éticos abordados durante essa entrevista, após ler o Termo de Consentimento presente em Termos, na aba Análise de Tarefas.
