@@ -47,7 +47,12 @@ nav:
     - Metas de usabilidade: analise-de-requisitos/metas_de_usabilidade.md
     - Guia de Estilo: analise-de-requisitos/guia_de_estilo.md
     - Características da Plataforma do Projeto: analise-de-requisitos/carac_plat_proj.md
-
+  - Design, Avaliação e Planejamento: 
+    - Framework DECIDE: design-avaliacao-desenvolvimento/framework_decide.md
+    - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/planejamento-avaliacao-storyboard.md
+    - Questões Práticas: design-avaliacao-desenvolvimento/questoes_praticas.md
+    - Questões Éticas: design-avaliacao-desenvolvimento/questoes_eticas.md
+    - Planejamento da Análise de Tarefas: design-avaliacao-desenvolvimento/Planejamento_Analise_Tarefas.md
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
