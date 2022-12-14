@@ -3,7 +3,7 @@
 ## Introdução
 Durante a avaliação, considerando a presença de usuários, as questões éticas serão de alta relevância à entrevista, com o objetivo de seguir ao máximo os [Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução no. 196/96 do Conselho Nacional de Saúde](https://bvsms.saude.gov.br/bvs/saudelegis/cns/1996/res0196_10_10_1996.html). É de suma importância que a parte entrevistada entenda e concorde com os princípios éticos abordados durante essa entrevista, após ler o Termo de Consentimento presente em Termos, na aba Análise de Tarefas.
 
-## Quanto a Pesquisa:
+## Quanto à Pesquisa:
 A entrevista feita pelo Grupo 6 é obrigada a seguir os pontos de eticidade da pesquisa apresentados no tópico III (três) da Resolução no. 196/96 do Conselho Nacional de Saúde, sendo estes apresentados pela figura 1, a seguir:
 
 !["Aspectos éticos da pesquisa envolvendo seres humanos"](./images_planejamento/etc_1.png)
