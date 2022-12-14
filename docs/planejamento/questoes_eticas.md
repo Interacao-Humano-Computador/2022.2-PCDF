@@ -8,7 +8,7 @@ A entrevista feita pelo Grupo 6 é obrigada a seguir os pontos de eticidade da p
 
 !["Aspectos éticos da pesquisa envolvendo seres humanos"](./images_planejamento/etc_1.png)
 <figcaption align='center'>
-   <h6><b>Figura 1: A eticidade de uma pesquisa.<br>Fonte: Resolução no. 196/96 do Conselho Nacional de Saúde.</br></h6>
+   <h6><b>Figura 1: Critérios para a eticidade de uma pesquisa. Fonte: Resolução no. 196/96 do Conselho Nacional de Saúde.</h6>
 </figcaption>
 </center>
 
@@ -33,7 +33,7 @@ Antes da entrevista, os participantes podem/devem:
 
 Durante a entrevista, os participantes podem/devem:
 <ul>
-  <li>**desistir a qualquer momento da entrevista, seja qual for o motivo**; </li>
+  <li><b>desistir a qualquer momento da entrevista, seja qual for o motivo </b)>; </li>
   <li>responder às perguntas de forma coesa;
   <li>levar o tempo necessário para se expressar.</li>
 </ul>
