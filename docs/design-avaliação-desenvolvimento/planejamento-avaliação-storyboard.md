@@ -74,11 +74,11 @@ O teste piloto será realizado antes da entrevista, seu objetivo é avaliar o pr
 
 Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o teste piloto, a entrevista e a documentação dos resultados.
 
-|    Data    | Hora  |          Atividade          |      Autor(es)      |
-| :--------: | :---: | :-------------------------: | :-----------------: |
-| 20/12/2022 | 10:20 |        Teste Piloto         |       Rodrigo       |
-| 20/12/2022 | 16:20 |         Entrevista          |       Rodrigo       |
-| 21/12/2022 | 19:00 | Documentação dos resultados | Jefferson e Gabriel |
+|    Data    | Hora  |          Atividade          |      Autor(es)      |          Local          |     Revisor(es)     |
+| :--------: | :---: | :-------------------------: | :-----------------: | :---------------------: | :-----------------: |
+| 20/12/2022 | 10:20 |        Teste Piloto         | Rodrigo e Jefferson | FGA (Faculdade do Gama) | Gabriel e Jefferson |
+| 20/12/2022 | 16:20 |         Entrevista          |       Rodrigo       | FGA (Faculdade do Gama) | Gabriel e Jefferson |
+| 21/12/2022 | 19:00 | Documentação dos resultados | Gabriel e Jefferson |    Casa dos autores     |       Rodrigo       |
 
 <figcaption align='center'>
    <h6><b>Tabela 2:</b> Cronogranama. Fonte : Elaboração de Jefferson</h6>
