@@ -48,7 +48,7 @@ Como as entrevistas serão gravadas, será necessário utilização de alguns eq
 |  Papelaria (alternativa de impressora)   |   R$0,20 - R$10   |
 
 
-## Referências
+## Bibliografia
 
 > BARBOSA; SILVA. **Planejamento de Avaliação de IHC**. Cap. 11. Acesso em: 14 de dezembro de 2022
 
