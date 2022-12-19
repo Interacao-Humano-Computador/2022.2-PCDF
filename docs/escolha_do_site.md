@@ -12,7 +12,7 @@ de avaliação empregados incluem a avaliação heurística.
 |     Lucas de Lima     |         PC-DF         |                           :x:                           |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
 | Guilherme de Oliveira |       Cebraspe        | [Planejamento](planejamento/planejamento-guilherme.pdf) | [Avaliação](planejamento/execucao-avaliacao-guilherme.pdf) |
 |  Rodrigo de Andrade   | Software Livre Brasil |  [Planejamento](planejamento/planejamento-rodrigo.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-rodrigo.pdf)  |
-|      Yago Passos      |      Alistamento      |                           :x:                           |                            :x:                             |
+|      Yago Passos      |      Alistamento      |  [Planejamento](planejamento/planejamento-yago.pdf) |                            :x:                             |
 |   Jefferson Franca    |          :x:          |                           :x:                           |                            :x:                             |
 
 <figcaption align='center'>
