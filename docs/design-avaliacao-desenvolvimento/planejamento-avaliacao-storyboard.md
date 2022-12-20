@@ -77,7 +77,7 @@ Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o
 |    Data    | Hora  |          Atividade          |      Autor(es)      |          Local          |     Revisor(es)     |
 | :--------: | :---: | :-------------------------: | :-----------------: | :---------------------: | :-----------------: |
 | 20/12/2022 | 10:20 |        Teste Piloto         | Rodrigo e Jefferson | FGA (Faculdade do Gama) | Gabriel e Jefferson |
-| 20/12/2022 | 16:20 |         Entrevista          |       Rodrigo       | FGA (Faculdade do Gama) | Gabriel e Jefferson |
+| 20/12/2022 | 16:20 |        Questionário         | Gabriel e Jefferson | FGA (Faculdade do Gama) |       Rodrigo       |
 | 21/12/2022 | 19:00 | Documentação dos resultados | Gabriel e Jefferson |    Casa dos autores     |       Rodrigo       |
 
 <figcaption align='center'>
@@ -89,9 +89,20 @@ Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o
 
 Após realização da entrevista, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme apresentado na tabela 2, por meio de relato dos resultados.
 
+## Storyboard
+
+Como mostrado na figura 1, no storyboard, temos o processo de agendamento da carteira de identidade. Num primeiro momento a tentativa de agendamento não obteve sucesso, pois o personagem principal não se atentou aos horários que o site da PCDF disponibiliza para efetivar o agendamento, logo após, ele acessa o site no horário recomendado e consegue concluir a tarefa com sucesso.
+
+![Storyboard](../images/storyboard/storyboard.jpg)
+<figcaption align='center'>
+   <h6><b>Figura 1: Storyboard do agendamento da carteira. Fonte: Jefferson e Gabriel</br></h6>
+</figcaption>
+
 ## Referências
 
 > [[1]](#introducao) BARBOSA, Simone et al. Planejamento da Avaliação de IHC. _In_: BARBOSA, Simone. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021. p. 261-280
+>
+> [2] Pixton. Acesso em: 17 de dezembro de 2022. Disponível em: https://www.pixton.com/
 
 ## Histórico de Versão
 
@@ -99,3 +110,4 @@ Após realização da entrevista, o levantamento dos resultados da entrevista se
 | :--------: | :----: | :---------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
 | 13/12/2022 |  1.0   |           Criação do documento            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
 | 14/12/2022 |  1.1   | Adicionando as questões práticas e éticas | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| 20/12/2022 |  1.2   |          Adicionando storyboard           | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
