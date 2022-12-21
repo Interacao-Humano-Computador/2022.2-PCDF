@@ -23,9 +23,9 @@ Como o método de investigação escolhido para coleta dos dados foi o de entrev
 
 Como as entrevistas serão gravadas, será necessário utilização de alguns equipamentos são eles:
 
-- **Câmera:** Os celulares já possuem uma tecnlogia avançada o bastante para fornecer aos integrantes da equipe uma alternativa barata e simples de gravar das reuniões. Outras câmeras profissionais ou voltadas para o único intuito poderão ser levadas em conta caso haja a oportunidade.
-- **Microfone:** Caso seja utilizado um celular para a gravação de vídeo, será necessário outro para a recordação do áudio, visto que a distância do primeiro pode afetar a qualidade do áudio capturado. Outra alternativa é utilizar o microfone de um fone de ouvido, conectado a um segundo celular. Outras oportunidades de equipamento também não serão descartadas.
-- **Computador:** Peça fundamental na transmissão de arquivos entre a equipe, bem como a edição de vídeo e áudio das entrevistas realizadas.
+- **Câmera:** Os celulares já possuem uma tecnlogia avançada o bastante para fornecer aos integrantes da equipe uma alternativa barata e simples de gravar das reuniões. Outras câmeras profissionais ou voltadas para o único intuito poderão ser levadas em conta caso haja a oportunidade. <br>
+- **Microfone:** Caso seja utilizado um celular para a gravação de vídeo, será necessário outro para a recordação do áudio, visto que a distância do primeiro pode afetar a qualidade do áudio capturado. Outra alternativa é utilizar o microfone de um fone de ouvido, conectado a um segundo celular. Outras oportunidades de equipamento também não serão descartadas.<br>
+- **Computador:** Peça fundamental na transmissão de arquivos entre a equipe, bem como a edição de vídeo e áudio das entrevistas realizadas.<br>
 - **Impressora:** Impressão do termo de consentimento. Impressão de possíveis papeis e ideias com perguntas para roteiro de entrevista, caso não seja utilizado o celular.
 
 ## Prazos
