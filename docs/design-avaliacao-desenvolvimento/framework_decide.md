@@ -16,7 +16,7 @@ O framework DECIDE é nomeado desse modo por causa dos 6 (seis) aspectos princip
 A maioria do grupo já havia trabalhado com esse Framework no [planejamento da avaliação](.//../escolha_do_site.md), habituando com a maneira de trabalhar dentro desse contexto.
 
 ## Aplicação do Framework DECIDE no contexto deste projeto:
-Dentro do projeto de análise do serviço de agendamento do site da PCDF, o Framework DECIDE foi empregado ao longo das tarefas envolvendo a quarta entrega, vistos na seção Design, Avaliação e Desenvolvimento, artefatos que seguem a implementação deste. 
+Dentro do projeto de análise do serviço de agendamento do site da PCDF, o Framework DECIDE foi empregado ao longo das tarefas envolvendo a quarta entrega e a quinta, vistos na seção Design, Avaliação e Desenvolvimento, artefatos que seguem a implementação deste. Mais especificamente, o Framework DECIDE será aplicado na <b>Avaliação da Análise de Tarefas</b>, assim como a <b>Avaliação do Storyboard</b>, com o objetivo de criar ambos artefatos a partir de uma estrutura sólida.
 
 ## Referências
 
