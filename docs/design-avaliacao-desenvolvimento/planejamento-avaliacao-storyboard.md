@@ -89,7 +89,7 @@ Como ilustrado na tabela 2 abaixo, observam-se as datas e os responsáveis por r
 
 ## Avaliação e relato dos dados
 
-Após a realização do questionário e documentação dos dados obtidos, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme representado na tabela 2, por meio de um relato de resultados.
+Após a realização do questionário e documentação dos dados obtidos, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme representado na tabela 2, por meio de um relato de resultados, o qual será apresentado na seção seguinte deste site, correspondente à Entrega 5.
 
 ## Storyboard
 
