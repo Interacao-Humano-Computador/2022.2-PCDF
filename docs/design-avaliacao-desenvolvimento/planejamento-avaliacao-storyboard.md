@@ -70,11 +70,11 @@ As [questões práticas]() incluem a alocação do pessoal, recursos e equipamen
 
 ### Teste piloto
 
-O teste piloto será realizado antes da entrevista, seu objetivo é avaliar o próprio planejamento, e analisar se a avaliação produz os dados necessários para responder a as questões e objetivos de estudo. O teste piloto será feito com outro participante do grupo. A data para realização do teste piloto pode ser vista no cronograma na tabela 2.
+O teste piloto será realizado antes da entrevista. Seu objetivo é realizar uma versão primitiva da futura entrevista com os usuários, analisando se a avaliação produz os dados necessários para responder a as questões e objetivos de estudo. O teste piloto será feito com outro participante do grupo, e a data para sua realização pode ser vista no cronograma a seguir, representado pela tabela 2.
 
 ### Cronograma
 
-Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o teste piloto, a entrevista e a documentação dos resultados.
+Como ilustrado na tabela 2 abaixo, observam-se as datas e os responsáveis por realizar o teste piloto, a entrevista e a documentação dos resultados.
 
 |    Data    | Hora  |          Atividade          |      Autor(es)      |          Local          |     Revisor(es)     |
 | :--------: | :---: | :-------------------------: | :-----------------: | :---------------------: | :-----------------: |
@@ -89,7 +89,7 @@ Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o
 
 ## Avaliação e relato dos dados
 
-Após realização da entrevista, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme apresentado na tabela 2, por meio de relato dos resultados.
+Após a realização do questionário e documentação dos dados obtidos, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme representado na tabela 2, por meio de um relato de resultados.
 
 ## Storyboard
 
@@ -113,3 +113,4 @@ Como mostrado na figura 1, no storyboard, temos o processo de agendamento da car
 | 13/12/2022 |  1.0   |           Criação do documento            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
 | 14/12/2022 |  1.1   | Adicionando as questões práticas e éticas | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
 | 20/12/2022 |  1.2   |          Adicionando storyboard           | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+| 21/12/2022 |  1.3   |          Corrigindo implementação de entrevista para questionário (av. do Storyboard)          | [Rodrigo Orlandi](https://github.com/OrlandiRodrigo) | [Jefferson Franca](https://github.com/Frans6) |
