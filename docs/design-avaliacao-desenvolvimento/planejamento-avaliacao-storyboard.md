@@ -56,7 +56,7 @@ Na tabela 1 podemos ver as perguntas elaboradas para que o(s) participante(s) re
 
 O método de avaliação escolhido foi o de questionário. Este método é flexível, permitindo perguntas pouco abertas ou fechadas, além da opção de requerir resposta discursiva, e potencialmente pode ser apresentado e respondido por uma base de usuários mais ampla, proporcionando aos pesquisadores uma visão generalizada do público alvo ao qual foi disponibilizado o questionário.
 
-O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado.
+O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento altamente estrito, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado.
 
 ## Questões éticas
 
