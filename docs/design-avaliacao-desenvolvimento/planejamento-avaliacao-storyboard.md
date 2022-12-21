@@ -54,7 +54,9 @@ Na tabela 1 podemos ver as perguntas elaboradas para que o(s) participante(s) re
 
 ## Método de avaliação
 
-O método de avaliação escolhido de entrevista. Este método permite que o avaliador colete muitas informações dos usuários individualmente e acaba sendo mais flexível, permitindo perguntas mais abertas ou fechadas e se aprofundar mais do que o questionário  ou grupos de foco, além de proporcionar ao avaliador investigar alternativas de design, problemas que os usuários enfrentam e como eles se apropriam da tecnologia existente.
+O método de avaliação escolhido foi o de questionário. Este método é flexível, permitindo perguntas mais abertas ou fechadas e uma base de usuários mais ampla, além de proporcionar aos pesquisadores uma visão generalizada do público alvo ao qual foi disponibilizado o questionário.
+
+O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado.
 
 ## Questões éticas
 
