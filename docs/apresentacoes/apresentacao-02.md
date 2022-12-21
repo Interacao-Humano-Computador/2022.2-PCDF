@@ -8,9 +8,12 @@ Para segunda entrega do projeto começou a ser feita a análise de requisitos, c
 
 <iframe width="1000vw" height="400vh" src="https://youtube.com/embed/z8O2xSzMeLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Edição e tratamento de vídeo: [Rodrigo de Andrade](https://github.com/OrlandiRodrigo)
+
 ## Histórico de Versão
 
 |    Data    | Versão |                         Descrição                         |                        Autor(es)                         |                       Revisor(es)                       |
 | :--------: | :----: | :-------------------------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------: |
 | 07/12/2022 |  1.0   |            Vídeo de apresentação da entrega 2             | [Gabriel Marcolino](https://github.com/GabrielMR360) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 20/12/2022 |  1.1   | Padronizando histórico de versão e adicionando introdução | [Gabriel Marcolino](https://github.com/GabrielMR360) | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 20/12/2022 |  1.2   | Correções e Adição de crédito | [Yago Passos](https://github.com/yagompassos) | [Jefferson França](https://github.com/Frans6) |
