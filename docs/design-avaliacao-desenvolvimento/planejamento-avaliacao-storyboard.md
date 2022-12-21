@@ -30,7 +30,7 @@ aspectos da avaliação realizada antes de tirar conclusões e divulgar resultad
 
 ## Objetivo da avaliação
 
-O objetivo da avaliação é avaliar o storyboard, tendo como principais objetivos:
+O objetivo da avaliação é visualizar e avaliar o problema levantado pelo storyboard, tendo em mente os principais objetivos de:
 
 - Averiguar se o storyboard condiz com a realidade;
 - Averiguar se o storyboard necessita de alguma melhoria;
