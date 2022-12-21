@@ -6,7 +6,7 @@ Com o objetivo de tornar a avaliação sob o contexto da matéria de IHC mais ef
 ## Aspectos da Framework DECIDE:
 A framework DECIDE é nomeada desse modo por causa dos 6 (seis) aspectos principais que a compõem, como podem ser vistos na figura 1, a seguir:
 
-!["Elementos da Framework DECIDE"](./images_planejamento/decide_1.png)
+!["Elementos da Framework DECIDE"](../images_planejamento/decide_1.png)
 <figcaption align='center'>
    <h6><b>Figura 1: Significado da Framework DECIDE. Fonte: Processos de Design de IHC. Pág. 313.</b></h6>
 </figcaption>

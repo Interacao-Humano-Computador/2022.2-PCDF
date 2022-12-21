@@ -65,12 +65,11 @@ As entregas dos artefatos serão realizadas com 1 dia de antecedencia da data li
 
 ## Apresentação 5 - (02/01)
 
-|                     Tarefa                     | Data Limite (Tarefa) |      Autor(es)       |    Revisor(es)    | Data Limite (Revisão) |
-| :--------------------------------------------: | :------------------: | :------------------: | :---------------: | :-------------------: |
-|        Avaliação do protótipo de papel         |        01/01         |  Jefferson e Lucas   | Gabriel e Rodrigo |         02/01         |
-|            Gravação da apresentação            |        02/01         | Todos os integrantes |       Todos       |         02/01         |
-| Resultados do Story Board e Análise de tarefas |        01/01         |   Guilherme e Yago   | Jefferson e Lucas |         02/01         |
-| Resultados da avaliação do protótipo de papel  |        01/01         |  Gabriel e Rodrigo   | Guilherme e Yago  |         02/01         |
+|                                  Tarefa                                   | Data Limite (Tarefa) |      Autor(es)       |     Revisor(es)     | Data Limite (Revisão) |
+| :-----------------------------------------------------------------------: | :------------------: | :------------------: | :-----------------: | :-------------------: |
+|                  Planejamento sobre o protótipo de papel                  |        01/01         |  Lucas e Guilherme   | Gabriel e Jefferson |         02/01         |
+|                         Gravação da apresentação                          |        02/01         | Todos os integrantes |        Todos        |         02/01         |
+| Planejamento do relato dos resultados do Story Board e Análise de tarefas |        01/01         | Gabriel e Jefferson  |       Rodrigo       |         02/01         |
 
 <figcaption align='center'>
    <h6><b>Tabela 5: Cronograma de tarefas da entrega 5<br>Fonte : Elaboração de Jefferson e Gabriel</br></h6>
