@@ -70,5 +70,5 @@ Os integrantes dão por encerrada a reunião às 18:58 do dia 21/11/2022.
 
 |    Data    | Versão |            Descrição             |       Autor        | Revisor |
 | :--------: | :----: | :------------------------------: | :----------------: | :-----: |
-| 22.11.2022 |  0.1   | Criação da ata da reunião 21/11  | Guilherme Oliveira |         |
-| 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |         |
+| 22.11.2022 |  1.0   | Criação da ata da reunião 21/11  | [Guilherme Oliveira](https://github.com/GG555-13) |         |
+| 21/12/2022 |  1.2   | Padronizando histórico de versão | [Yago Passos](https://github.com/yagompassos) | [Guilherme Oliveira](https://github.com/GG555-13)           |
