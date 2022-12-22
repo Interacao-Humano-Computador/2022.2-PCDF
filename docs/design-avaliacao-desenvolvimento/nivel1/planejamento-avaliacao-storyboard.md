@@ -54,7 +54,7 @@ Na tabela 1 podemos ver as perguntas elaboradas para que o(s) participante(s) re
 
 ## Método de avaliação
 
-O método de avaliação escolhido de entrevista. Este método permite que o avaliador colete muitas informações dos usuários individualmente e acaba sendo mais flexível, permitindo perguntas mais abertas ou fechadas e se aprofundar mais do que o questionário  ou grupos de foco, além de proporcionar ao avaliador investigar alternativas de design, problemas que os usuários enfrentam e como eles se apropriam da tecnologia existente.
+O método de avaliação escolhido foi por meio de um questionário. Este método permite um maior alcance de pessoas de uma maneira mais rápida, prática e também se pode acompanhar os dados dos resultados conforme as repostas são enviadas.
 
 ## Questões éticas
 
