@@ -12,7 +12,7 @@ de avaliação empregados incluem a avaliação heurística.
 |     Lucas de Lima     |         PC-DF         |                           :x:                           |   [Avaliação](planejamento/execucao-avaliacao-lucas.pdf)   |
 | Guilherme de Oliveira |       Cebraspe        | [Planejamento](planejamento/planejamento-guilherme.pdf) | [Avaliação](planejamento/execucao-avaliacao-guilherme.pdf) |
 |  Rodrigo de Andrade   | Software Livre Brasil |  [Planejamento](planejamento/planejamento-rodrigo.pdf)  |  [Avaliação](planejamento/execucao-avaliacao-rodrigo.pdf)  |
-|      Yago Passos      |      Alistamento      |                           :x:                           |                            :x:                             |
+|      Yago Passos      |      Alistamento      |  [Planejamento](planejamento/planejamento-yago.pdf) |                            :x:                             |
 |   Jefferson Franca    |          :x:          |                           :x:                           |                            :x:                             |
 
 <figcaption align='center'>
@@ -118,7 +118,8 @@ A abordagem de seus defeitos, considerando um serviço tão crucial como o agend
 | 22/11/2022 |  1.1   |     Adicionando informações sobre a BNB e centralizando imagens     |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 04/12/2022 |  1.2   | Adicionando legenda nas figuras e atualizando o logo do alistamento |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 | 06/12/2022 |  1.3   |         Adicionando os planejamento e avaliações dos sites          |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
-| 11/12/2022 |  1.4   |        Padronizando as legendas das imagens e a bibliografia        |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 07/12/2022 |  1.4   |        Adicionando planejamento e avaliações restantes        |  [Yago Passos](https://github.com/yagompassos)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 11/12/2022 |  1.5   |        Padronizando as legendas das imagens e a bibliografia        |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
 
 
