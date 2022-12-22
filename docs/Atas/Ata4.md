@@ -34,6 +34,10 @@ A reunião foi iniciada às 19:20.
 | Adicionar legendas e referências nas imagens  |              Rodrigo                 |   
 |  Atualizar ferramentas                        |              Lucas                   |  
 
+<figcaption align='center'>
+   <h6><b>Tabela 1: Divisão de correções<br>Fonte : Elaboração de Guilherme Oliveira</br></h6>
+</figcaption>
+
 2. Decidir sobre as personas e começar a desenvolver as  e divisão de tarefas
 <p style="text-align: justify;">Foi discutido sobre os tipos de persona de ser criada com e foi dividido o resto das tarefas para serem feitas para essa entrega.</p>
 
@@ -42,6 +46,10 @@ A reunião foi iniciada às 19:20.
 | Aspectos éticos de pesquisas envolvendo pessoas | Rodrigo e Guilherme |  Jefferson e Lucas  |
 |                Perfil do usuário                |   Gabriel e Yago    | Rodrigo e Guilherme |
 |          Personas e análise de tarefas          |  Jefferson e Lucas  |   Gabriel e Yago    |
+
+<figcaption align='center'>
+   <h6><b>Tabela 2: Divisão de tarefas<br>Fonte : Elaboração de Guilherme Oliveira</br></h6>
+</figcaption>
 
 3. Decidir as técnicas de coleta de dados
 <p style="text-align: justify;">Foi decidido fazer que  será utilizado um questionário para a coleta de dados.
@@ -67,4 +75,7 @@ Os integrantes dão por encerrada a reunião às 20:09 do dia 01/12/2022.
 
 |    Data    | Versão |            Descrição             |     Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------------------: | :----------------: | :---------: |
-| 05/12/2022 |  0.1   | Criação da ata da reunião 01/12  | Guilherme Oliveira |             |
+| 05/12/2022 |  1.0   | Criação da ata da reunião 01/12  | [Guilherme Oliveira](https://github.com/GG555-13) |             |
+| 05/12/2022 |  1.1   | Padronizando histórico de versão e adicionando fontes  | [Yago Passos](https://github.com/yagompassos) |             |
+
+

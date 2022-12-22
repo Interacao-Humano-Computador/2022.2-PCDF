@@ -64,11 +64,12 @@ GOAL 0: Agendamento da carteira de identidade
 
 ## Referências
 
-> [1] BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 6. Acesso em: 6 de dezembro de 2022.
+> [1] BARBOSA, Simone et al. Organização do Espaço de Problema. In: BARBOSA, Simone. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021.
 
 ## Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 7/12/2022 | 1.0 | Implementação do arquivo| Rodrigo de Andrade  | Guilherme de Oliveira |
-| 7/12/2022 | 1.1 | Adicionando a aplicação de GOMS e HTA e fazendo correções| Guilherme de Oliveira  | Rodrigo de Andrade |
+|    Data    | Versão |                         Descrição                         |                          Autor(es)                          |                       Revisor(es)                       |
+| :--------: | :----: | :-------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| 07/12/2022 |  1.0   |                 Implementação do arquivo                  | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |  [Guilherme de Oliveira](https://github.com/GG555-13)   |
+| 07/12/2022 |  1.1   | Adicionando a aplicação de GOMS e HTA e fazendo correções |  [Guilherme de Oliveira](https://github.com/GG555-13)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 20/12/2022 |  1.2   |     Padronizando o histórico de versão e a referência     |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |

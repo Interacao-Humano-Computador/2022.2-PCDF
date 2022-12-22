@@ -41,6 +41,7 @@ nav:
   - Análise de Requisitos:
     - Perfil de Usuário: analise-de-requisitos/perfil_usuario.md
     - Personas: analise-de-requisitos/personas.md
+    - Cenários: analise-de-requisitos/cenarios.md
     - Análise de Tarefas: analise-de-requisitos/analise_de_tarefas.md
     - Aspectos Éticos: analise-de-requisitos/aspectos_eticos.md
     - Princípios Gerais do Projeto: analise-de-requisitos/principios_e_diretrizes.md

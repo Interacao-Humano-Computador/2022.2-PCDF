@@ -57,7 +57,8 @@ Os integrantes dão por encerrada a reunião às 17:11 do dia 15/11/2022.
 
 |    Data    | Versão |            Descrição             |     Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------------------: | :----------------: | :---------: |
-| 20/11/2022 |  0.1   | Criação da ata da reunião 15/11  | Guilherme Oliveira |             |
-| 22/11/2022 |  0.2   |  Arrumando erros de caligrafia   | Guilherme Oliveira |             |
-| 22/11/2022 |  0.3   | Padronizando histórico de versão | Gabriel Marcolino  |             |
-| 06/12/2022 |  0.4   |  Aticionando as tarefas na ata   | Guilherme Oliveira |             |
+| 20/11/2022 |  1.0   | Criação da ata da reunião 15/11  | [Guilherme Oliveira](https://github.com/GG555-13) |             |
+| 22/11/2022 |  1.1   |  Arrumando erros de caligrafia   | [Guilherme Oliveira](https://github.com/GG555-13) |             |
+| 22/11/2022 |  1.2   | Padronizando histórico de versão | [Gabriel Marcolino](https://github.com/GabrielMR360)  |             |
+| 06/12/2022 |  1.3   |  Aticionando as tarefas na ata   | [Guilherme Oliveira](https://github.com/GG555-13) |             |
+| 21/12/2022 |  1.4   | Padronizando histórico de versão | [Yago Passos](https://github.com/yagompassos) | [Guilherme Oliveira](https://github.com/GG555-13)           |

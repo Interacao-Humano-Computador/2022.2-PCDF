@@ -14,12 +14,13 @@ Considerando a importância da abordagem apropriada de aspectos éticos na pesqu
 
 ## Referências
 
-> [1] BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 5. Acesso em: 4 de dezembro de 2022.
+> [1] BARBOSA, Simone; SILVA, Bruno. Identiﬁcação de Necessidades dos Usuários e Requisitos de IHC. In: BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Elsevier Editora Ltda, 2010.
 
 > [2] Base do termo de consentimento utilizado. **Programa Universidade UNICAMP**. 2022. Disponível em: <https://www.programa-universidade.unicamp.br/assets/docs/universidade/modelo_de_termo_de_consentimento_.doc>. Acesso em 4 de dezembro de 2022.
 
 ## Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 6/12/2022 | 1.0 | Implementação do arquivo| Rodrigo de Andrade  | Rodrigo de Andrade |
+|    Data    | Versão |                   Descrição                    |                          Autor                          |                                             Revisor                                              |
+| :--------: | :----: | :--------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| 06/12/2022 |  1.0   |            Implementação do arquivo            | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) | [Jefferson Franca](https://github.com/Frans6) e [Lucas Spinosa](https://github.com/LucasSpinosa) |
+| 20/12/2022 |  1.1   | Padronizando histórico e corrigindo referência |  [Gabriel Marcolino](https://github.com/GabrielMR360)   |                     [Rodrigo de Andrade](https://github.com/OrlandiRodrigo)                      |

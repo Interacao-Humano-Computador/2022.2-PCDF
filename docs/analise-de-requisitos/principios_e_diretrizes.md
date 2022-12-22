@@ -78,11 +78,13 @@ Os exemplos escolhidos pela equipe defendem e seguem uma linha a beneficiar os u
 
 ## Referências
 
-> [1] BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 10. Acesso em: 11 de dezembro de 2022.
+> [1] BARBOSA, Simone et al. Princípios e Diretrizes para o Design de
+IHC. _In_: BARBOSA, Simone. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021.
 
 ## Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 11/12/2022 | 1.0 | Implementação do arquivo| Guilherme de Oliveira e Yago  |  |
-| 11/12/2022 | 1.1 | Adicionando conclusão| Yago e Guilherme de Oliveira  |  |
+|    Data    | Versão |             Descrição             |                                                Autor                                                 |                                                 Revisor                                                  |
+| :--------: | :----: | :-------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| 11/12/2022 |  1.0   |     Implementação do arquivo      | [Guilherme de Oliveira](https://github.com/GG555-13) e [Yago Passos](https://github.com/yagompassos) | [Jefferson Franca](https://github.com/Frans6) e  [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 11/12/2022 |  1.1   |       Adicionando conclusão       | [Yago Passos](https://github.com/yagompassos) e [Guilherme de Oliveira](https://github.com/GG555-13) | [Jefferson Franca](https://github.com/Frans6) e  [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
+| 20/12/2022 |  1.2   | Adicionando revisores do artefato e corrigindo referência |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         |                           [Gabriel Marcolino](https://github.com/GabrielMR360)                           |

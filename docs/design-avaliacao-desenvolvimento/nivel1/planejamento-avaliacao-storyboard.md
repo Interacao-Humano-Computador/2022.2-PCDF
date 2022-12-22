@@ -30,7 +30,7 @@ aspectos da avaliação realizada antes de tirar conclusões e divulgar resultad
 
 ## Objetivo da avaliação
 
-O objetivo da avaliação é avaliar o storyboard, tendo como principais objetivos:
+O objetivo da avaliação é visualizar e avaliar o problema levantado pelo storyboard, tendo em mente os principais objetivos de:
 
 - Averiguar se o storyboard condiz com a realidade;
 - Averiguar se o storyboard necessita de alguma melhoria;
@@ -54,7 +54,9 @@ Na tabela 1 podemos ver as perguntas elaboradas para que o(s) participante(s) re
 
 ## Método de avaliação
 
-O método de avaliação escolhido foi por meio de um questionário. Este método permite um maior alcance de pessoas de uma maneira mais rápida, prática e também se pode acompanhar os dados dos resultados conforme as repostas são enviadas.
+O método de avaliação escolhido foi o de questionário. Este método é flexível, permitindo perguntas pouco abertas ou fechadas, além da opção de requerir resposta discursiva, e potencialmente pode ser apresentado e respondido por uma base de usuários mais ampla, proporcionando aos pesquisadores uma visão generalizada do público alvo ao qual foi disponibilizado o questionário.
+
+O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento altamente estrito, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado. Ele vai ser divulgado em grupos do Telegram e Whatsapp pois é por onde conseguimos encontrar e obter respostas de mais pessoas para responderem o formulário de forma mais rápida.
 
 ## Questões éticas
 
@@ -68,16 +70,16 @@ As [questões práticas]() incluem a alocação do pessoal, recursos e equipamen
 
 ### Teste piloto
 
-O teste piloto será realizado antes da entrevista, seu objetivo é avaliar o próprio planejamento, e analisar se a avaliação produz os dados necessários para responder a as questões e objetivos de estudo. O teste piloto será feito com outro participante do grupo. A data para realização do teste piloto pode ser vista no cronograma na tabela 2.
+O teste piloto será realizado antes da entrevista. Seu objetivo é realizar uma versão primitiva da futura entrevista com os usuários, analisando se a avaliação produz os dados necessários para responder a as questões e objetivos de estudo. O teste piloto será feito com outro participante do grupo, e a data para sua realização pode ser vista no cronograma a seguir, representado pela tabela 2.
 
 ### Cronograma
 
-Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o teste piloto, a entrevista e a documentação dos resultados.
+Como ilustrado na tabela 2 abaixo, observam-se as datas e os responsáveis por realizar o teste piloto, a entrevista e a documentação dos resultados.
 
 |    Data    | Hora  |          Atividade          |      Autor(es)      |          Local          |     Revisor(es)     |
 | :--------: | :---: | :-------------------------: | :-----------------: | :---------------------: | :-----------------: |
 | 20/12/2022 | 10:20 |        Teste Piloto         | Rodrigo e Jefferson | FGA (Faculdade do Gama) | Gabriel e Jefferson |
-| 20/12/2022 | 16:20 |         Entrevista          |       Rodrigo       | FGA (Faculdade do Gama) | Gabriel e Jefferson |
+| 20/12/2022 | 16:20 |        Questionário         | Gabriel e Jefferson | FGA (Faculdade do Gama) |       Rodrigo       |
 | 21/12/2022 | 19:00 | Documentação dos resultados | Gabriel e Jefferson |    Casa dos autores     |       Rodrigo       |
 
 <figcaption align='center'>
@@ -87,15 +89,29 @@ Como mostrado na tabela 2 podemos ver as datas e os responsáveis por realizar o
 
 ## Avaliação e relato dos dados
 
-Após realização da entrevista, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme apresentado na tabela 2, por meio de relato dos resultados.
+Após a realização do questionário e documentação dos dados obtidos, o levantamento dos resultados da entrevista será desenvolvido no dia 21/12/2022, conforme representado na tabela 2, por meio de um relato de resultados, o qual será apresentado na seção seguinte deste site, correspondente à Entrega 5.
+
+## Storyboard
+
+Como mostrado na figura 1, no storyboard, temos o processo de agendamento da carteira de identidade. Num primeiro momento a tentativa de agendamento não obteve sucesso, pois o personagem principal não se atentou aos horários que o site da PCDF disponibiliza para efetivar o agendamento, logo após, ele acessa o site no horário recomendado e consegue concluir a tarefa com sucesso.
+
+![Storyboard](../images/storyboard/storyboard.jpg)
+<figcaption align='center'>
+   <h6><b>Figura 1: Storyboard do agendamento da carteira. Fonte: Jefferson e Gabriel</br></h6>
+</figcaption>
 
 ## Referências
 
 > [[1]](#introducao) BARBOSA, Simone et al. Planejamento da Avaliação de IHC. _In_: BARBOSA, Simone. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021. p. 261-280
+>
+> [2] Pixton. Acesso em: 17 de dezembro de 2022. Disponível em: https://www.pixton.com/
 
 ## Histórico de Versão
 
-|    Data    | Versão |                 Descrição                 |                                              Autor(es)                                               |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 13/12/2022 |  1.0   |           Criação do documento            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
-| 14/12/2022 |  1.1   | Adicionando as questões práticas e éticas | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
+|    Data    | Versão |                                  Descrição                                   |                                              Autor(es)                                               |                     Revisor(es)                      |
+| :--------: | :----: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+| 13/12/2022 |  1.0   |                             Criação do documento                             | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 14/12/2022 |  1.1   |                  Adicionando as questões práticas e éticas                   | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 20/12/2022 |  1.2   |                            Adicionando storyboard                            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 21/12/2022 |  1.3   | Corrigindo implementação de entrevista para questionário (av. do Storyboard) |                         [Rodrigo Orlandi](https://github.com/OrlandiRodrigo)                         |    [Jefferson Franca](https://github.com/Frans6)     |
+| 21/12/2022 |  1.4   |                Adicionando onde foi divulgado o questionário                 |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo Orlandi](https://github.com/OrlandiRodrigo) |

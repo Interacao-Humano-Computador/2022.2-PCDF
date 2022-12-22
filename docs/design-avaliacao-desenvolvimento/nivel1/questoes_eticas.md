@@ -45,11 +45,12 @@ Durante a entrevista, os participantes podem/devem:
 
 > [1] Critérios de Ética, Resolução no. 196/96 do Conselho Nacional de Saúde. Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/cns/1996/res0196_10_10_1996.html. Acesso em 14 de dezembro de 2022.
 
-> [2] BARBOSA; SILVA. **Processos de Design de IHC**. Cap. 6. Acesso em: 6 de dezembro de 2022.
+> [2] BARBOSA, Simone et al. Processos de Design de IHC. _In_: BARBOSA, Simone. **Interação Humano-Computador e Experiência do Usuário**. Autopublicação, 2021.
 
 ## Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | :--------:|
-| 14/12/2022 | 1.0 | Implementação do arquivo| Rodrigo de Andrade  | Yago Passos |
+|    Data    | Versão |                   Descrição                   |                          Autor                          |                         Revisor                         |
+| :--------: | :----: | :-------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| 14/12/2022 |  1.0   |           Implementação do arquivo            | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |      [Yago Passos](https://github.com/yagompassos)      |
+| 18/12/2022 |  1.1   | Padronizando referência e histórico de versão |  [Gabriel Marcolino](https://github.com/GabrielMR360)   | [Rodrigo de Andrade](https://github.com/OrlandiRodrigo) |
 
