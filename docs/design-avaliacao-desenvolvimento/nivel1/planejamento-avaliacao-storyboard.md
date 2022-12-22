@@ -56,7 +56,7 @@ Na tabela 1 podemos ver as perguntas elaboradas para que o(s) participante(s) re
 
 O método de avaliação escolhido foi o de questionário. Este método é flexível, permitindo perguntas pouco abertas ou fechadas, além da opção de requerir resposta discursiva, e potencialmente pode ser apresentado e respondido por uma base de usuários mais ampla, proporcionando aos pesquisadores uma visão generalizada do público alvo ao qual foi disponibilizado o questionário.
 
-O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento altamente estrito, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado.
+O questionário será feito por meio do Google Forms, e visa apresentar um dos maiores defeitos do site da PCDF, que é o período de agendamento altamente estrito, em um caso aplicável à população da pesquisa, a qual são estudantes universitários de 18 (dezoito) a 25 (vinte e cinco) anos, de acordo com o Perfil de Usuário traçado. Ele vai ser divulgado em grupos do Telegram e Whatsapp pois é por onde conseguimos encontrar e obter respostas de mais pessoas para responderem o formulário de forma mais rápida.
 
 ## Questões éticas
 
@@ -108,9 +108,10 @@ Como mostrado na figura 1, no storyboard, temos o processo de agendamento da car
 
 ## Histórico de Versão
 
-|    Data    | Versão |                 Descrição                 |                                              Autor(es)                                               |                  Revisor(es)                  |
-| :--------: | :----: | :---------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
-| 13/12/2022 |  1.0   |           Criação do documento            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
-| 14/12/2022 |  1.1   | Adicionando as questões práticas e éticas | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
-| 20/12/2022 |  1.2   |          Adicionando storyboard           | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) | [Yago Passos](https://github.com/yagompassos) |
-| 21/12/2022 |  1.3   |          Corrigindo implementação de entrevista para questionário (av. do Storyboard)          | [Rodrigo Orlandi](https://github.com/OrlandiRodrigo) | [Jefferson Franca](https://github.com/Frans6) |
+|    Data    | Versão |                                  Descrição                                   |                                              Autor(es)                                               |                     Revisor(es)                      |
+| :--------: | :----: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+| 13/12/2022 |  1.0   |                             Criação do documento                             | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 14/12/2022 |  1.1   |                  Adicionando as questões práticas e éticas                   | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 20/12/2022 |  1.2   |                            Adicionando storyboard                            | [Gabriel Marcolino](https://github.com/GabrielMR360) e [Jefferson Franca](https://github.com/Frans6) |    [Yago Passos](https://github.com/yagompassos)     |
+| 21/12/2022 |  1.3   | Corrigindo implementação de entrevista para questionário (av. do Storyboard) |                         [Rodrigo Orlandi](https://github.com/OrlandiRodrigo)                         |    [Jefferson Franca](https://github.com/Frans6)     |
+| 21/12/2022 |  1.4   |                Adicionando onde foi divulgado o questionário                 |                         [Gabriel Marcolino](https://github.com/GabrielMR360)                         | [Rodrigo Orlandi](https://github.com/OrlandiRodrigo) |
