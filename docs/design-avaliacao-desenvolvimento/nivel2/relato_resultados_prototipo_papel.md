@@ -14,7 +14,7 @@ De acordo com a framework DECIDE, a prototipação em papel foi escolhida e apli
 * Seu desenvolvimento, como método de avaliação, envolve a <b>exploração</b> da tarefa a ser realizada pelo usuário, como pode ser visto na figura 1 a seguir. O usuário seguirá a realização da tarefa definida, fornecendo os dados necessários pela avaliação; <br>
 
 <center>
-    ![Tabela de Dados da Prototipação em Papel](/imagens_nvl2/relato_protpapel1.png))
+    ![Tabela de Dados da Prototipação em Papel](/imagens_nvl2/relato_protpapel1.png)
     <figcaption align='center'>
         <h6><b>Figura 1:</b> Etapas detalhadas do método de avaliação de prototipação em papel. Fonte: Interação Humano-Computador; Página 359</h6>
     </figcaption>
@@ -40,7 +40,7 @@ Primeiramente, foi elaborada uma tabela de planejamento para a realização das 
 |    10/01/2023, às 16h     |       Realização da Avaliação do Protótipo de Papel     | Guilherme, Rodrigo                   |
 
 <figcaption align='center'>
-   <h6><b>Tabela 1: Cronograma de atividades relacionadas à avaliação do protótipo de papel.<br>Fonte : Elaboração de Rodrigo</br></h6>
+   <h6><b>Tabela 1:</b> Cronograma de atividades relacionadas à avaliação do protótipo de papel.<br>Fonte : Elaboração de Rodrigo</br></h6>
 </figcaption>
 
 #### Definição de Tarefas
@@ -70,7 +70,7 @@ O vídeo a seguir apresenta a execução do teste piloto do projeto no dia 10/01
 
 <iframe width="1000vw" height="400vh" src="https://drive.google.com/file/d/16Tp-U4k0i0vK_HEG7wRi4aAVzt_J1bwS/view?usp=share_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<br>
+
 Como observado, o teste correu bem duranto todo seu prolongamento. Não há correções a serem feitas, e julgamos que o teste não necessita de melhorias imediatas, visto que ele tem natureza de baixa fidelidade. O que deve ser levado em consideração é que os participantes do teste já sabiam como o processo deveria ocorrer e quais seus passos, logo, o resultado do teste com usuário tende a diferenciar-se.
 
 ## Coleta de Dados e Interpretação de Dados
