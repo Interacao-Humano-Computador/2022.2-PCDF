@@ -13,12 +13,10 @@ De acordo com a framework DECIDE, a prototipação em papel foi escolhida e apli
 
 * Seu desenvolvimento, como método de avaliação, envolve a <b>exploração</b> da tarefa a ser realizada pelo usuário, como pode ser visto na figura 1 a seguir. O usuário seguirá a realização da tarefa definida, fornecendo os dados necessários pela avaliação; <br>
 
-<center>
-    ![Tabela de Dados da Prototipação em Papel](/imagens_nvl2/relato_protpapel1.png)
+    ![Tabela de Dados da Prototipação em Papel](./imagens_nvl2/relato_protpapel1.png)
     <figcaption align='center'>
         <h6><b>Figura 1:</b> Etapas detalhadas do método de avaliação de prototipação em papel. Fonte: Interação Humano-Computador; Página 359</h6>
     </figcaption>
-</center>
 <br>
 
 * As <b>questões práticas</b>, envolvendo o perfil de usuário, o ambiente do teste e a organização da mão-de-obra disponível, assim como as <b>questões éticas</b>, dentre as quais permitirão a avaliação apenas com a leitura e assinatura do termo de consentimento entregue ao usuário, serão facilmente definidas e aplicáveis na prototipação em papel;
@@ -56,12 +54,10 @@ O protótipo de papel criado para a avaliação por prototipação de papel est�
 
 * O protótipo foi desenvolvido para ser facilmente entendível por qualquer usuário, e intuitivo o suficiente para a realização simples da tarefa. A equipe se baseou nas metas de usabilidade, especialmente as de eficácia, eficiência, fácil aprendizagem, e de segurança para o desenvolvimento do protótipo.
 
-<center>
-![Protótipo de Papel Utilizado](/imagens_nvl2/relato_protpapel2.jpg)
+![Protótipo de Papel Utilizado](./imagens_nvl2/relato_protpapel2.jpg)
     <figcaption align='center'>
         <h6><b>Figura 2:</b> Protótipo de papel utilizado na avaliação. Fonte: Elaboração de Guilherme e Yago</h6>
     </figcaption>
-</center>
 <br>
 
 #### Execução e Resultados do Teste Piloto
@@ -71,12 +67,12 @@ O vídeo a seguir apresenta a execução do teste piloto do projeto no dia 10/01
 <iframe width="1000vw" height="400vh" src="https://drive.google.com/file/d/16Tp-U4k0i0vK_HEG7wRi4aAVzt_J1bwS/view?usp=share_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-Como observado, o teste correu bem duranto todo seu prolongamento. Não há correções a serem feitas, e julgamos que o teste não necessita de melhorias imediatas, visto que ele tem natureza de baixa fidelidade. O que deve ser levado em consideração é que os participantes do teste já sabiam como o processo deveria ocorrer e quais seus passos, logo, o resultado do teste com usuário tende a diferenciar-se.
+Como observado, o teste correu bem duranto todo seu prolongamento. Não há correções a serem feitas, e julgamos que o teste não necessita de melhorias imediatas, visto que ele tem natureza de baixa fidelidade. O que deve ser levado em consideração é que os participantes do teste já sabiam como o processo deveria ocorrer e quais seus passos, logo, o resultado do teste com usuário tende a diferenciar-se. <br>
 
 ## Coleta de Dados e Interpretação de Dados
 O objetivo dessa atividade de avaliação por interrogação é de registrar as experiências vivenciadas pelos usuários participantes. A cordialidade do avaliador Rodrigo foi essencial para deixar a usuária à vontade para relatar o processo de prototipação aplicado pela equipe.
-Após as etapas iniciais de recepção do participante, apresentação e assinatura do termo de consentimento, é iniciado a sessão de observação. Os dois avaliadores responsáveis da dinâmica atentaram-se aos passos tomados pela usuária e o processo inteiro foi gravado para a interpretação futura dos dados.
-[COLOCAR O LINK DA AVALIAÇÃO EDITADA AQUI] 
+Após as etapas iniciais de recepção do participante, apresentação e assinatura do termo de consentimento, é iniciado a sessão de observação. Os dois avaliadores responsáveis da dinâmica atentaram-se aos passos tomados pela usuária e o processo inteiro foi gravado para a interpretação futura dos dados. <br>
+[COLOCAR O LINK DA AVALIAÇÃO EDITADA AQUI] <br> 
 Com o vídeo em mãos, bastou editá-lo para que ficasse apresnetável. Então, os avaliadores o reassistiram prestando atenção em detalhes como possíveis hesitações por parte da usuária na hora de prosseguir as etapas da tarefa. Tendo em vista todos esses pequenos aspectos, tão como o relato da participante convidada, julgou-se um protótipo intuitivo, eficiente e realista, que consegue guiar a usuária pela tarefa sem causar estranhamentos ou confusões. Melhorias e correções serão, pois, suspensas por enquanto.
 
 
