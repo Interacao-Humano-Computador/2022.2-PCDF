@@ -52,7 +52,7 @@ As questões éticas serão de alta relevância para realizar o teste de usabili
 
 Caso o participante aceite o termo de consentimento ele pode começar o teste de usabilidade.
 
-### 6. Teste Piloto
+## 6. Teste Piloto
 
 O objetivo do teste piloto é realizar uma versão primitiva do futuro teste de usbilidade com os usuários, analisando se a avaliação produz os dados necessários. Ele será feito antes da entrevista com os próprios integrantes do grupo para averiguar se tudo sairá conforme esperado no momento do teste de usabilidade. Na tabela 2 é apresentada a data e o local para a realização do teste piloto.
 
