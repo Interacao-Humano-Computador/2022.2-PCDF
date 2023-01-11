@@ -57,7 +57,7 @@ O protótipo de papel criado para a avaliação por prototipação de papel est�
 * O protótipo foi desenvolvido para ser facilmente entendível por qualquer usuário, e intuitivo o suficiente para a realização simples da tarefa. A equipe se baseou nas metas de usabilidade, especialmente as de eficácia, eficiência, fácil aprendizagem, e de segurança para o desenvolvimento do protótipo.
 
 <center>
-    ![Protótipo de Papel Utilizado](imagens_nvl2/relato_protpapel2.jpeg)
+![Protótipo de Papel Utilizado](.../imagens_nvl2/relato_protpapel2.jpg)
     <figcaption align='center'>
         <h6><b>Figura 2:</b> Protótipo de papel utilizado na avaliação. Fonte: Elaboração de Guilherme e Yago</h6>
     </figcaption>
@@ -69,15 +69,20 @@ O protótipo de papel criado para a avaliação por prototipação de papel est�
 O vídeo a seguir apresenta a execução do teste piloto do projeto no dia 10/01.
 
 <iframe width="1000vw" height="400vh" src="https://drive.google.com/file/d/16Tp-U4k0i0vK_HEG7wRi4aAVzt_J1bwS/view?usp=share_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[ESCREVER RESULTADO DO TESTE AQUI, O QUE CONSEGUIRAM PERCEBER, SE HOUVE ALGUM ERRO OU ALGO QUE POSSA SER IMEDIATAMENTE MELHORADO]
+<br>
+<br>
+Como observado, o teste correu bem duranto todo seu prolongamento. Não há correções a serem feitas, e julgamos que o teste não necessita de melhorias imediatas, visto que ele tem natureza de baixa fidelidade. O que deve ser levado em consideração é que os participantes do teste já sabiam como o processo deveria ocorrer e quais seus passos, logo, o resultado do teste com usuário tende a diferenciar-se.
 
 ## Coleta de Dados e Interpretação de Dados
-[PEQUENA INTRODUÇÃO]
-[COLOCAR O LINK DA AVALIAÇÃO EDITADA AQUI]
+O objetivo dessa atividade de avaliação por interrogação é de registrar as experiências vivenciadas pelos usuários participantes. A cordialidade do avaliador Rodrigo foi essencial para deixar a usuária à vontade para relatar o processo de prototipação aplicado pela equipe.
+Após as etapas iniciais de recepção do participante, apresentação e assinatura do termo de consentimento, é iniciado a sessão de observação. Os dois avaliadores responsáveis da dinâmica atentaram-se aos passos tomados pela usuária e o processo inteiro foi gravado para a interpretação futura dos dados.
+[COLOCAR O LINK DA AVALIAÇÃO EDITADA AQUI] 
+[interpretação aqui]
+
+
 
 ## Resultados da Avaliação
-[SE QUISER, PODE DEIXAR QUE EU ESCREVO, MAS A IDEIA É VER O VÍDEO DA AVALIAÇÃO E NORAR SE HÁ ALGUM PROBLEMA A SER RELATADO, ALGUMA SUGESTÃO DE CORREÇÃO, SE FICOU ENTENDÍVEL, E SE O USUÁRIO TRAVOU EM ALGUM PONTO]
+[A IDEIA É VER O VÍDEO DA AVALIAÇÃO E NORAR SE HÁ ALGUM PROBLEMA A SER RELATADO, ALGUMA SUGESTÃO DE CORREÇÃO, SE FICOU ENTENDÍVEL, E SE O USUÁRIO TRAVOU EM ALGUM PONTO]
 
 
 ## Refêrencias
@@ -88,4 +93,7 @@ O vídeo a seguir apresenta a execução do teste piloto do projeto no dia 10/01
 
 |    Data    | Versão |      Descrição       |                                              Autor(es)                                               |                 Revisor(es)                  |
 | :--------: | :----: | :------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------: |
-| 21/12/2022 |  1.0   | Criação do artefato. | [Rodrigo](https://github.com/OrlandiRodrigo), [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) | Gabriel e [Rodrigo](https://github.com/OrlandiRodrigo) |
+| 21/12/2022 |  1.0   | Criação do artefato. | [Rodrigo](https://github.com/OrlandiRodrigo), [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) | [Gabriel](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) |
+| 21/12/2022 |  1.1  | Execução e resultados do teste piloto. | [Yago](https://github.com/yagompassos) | [Gabriel](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) |
+| 21/12/2022 |  1.2  | Coleta de dados e Interpretação de dados | [Yago](https://github.com/yagompassos) | [Gabriel](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) |
+| 21/12/2022 |  1.3   | Resultados da avaliação | [Rodrigo](https://github.com/OrlandiRodrigo), [Yago](https://github.com/yagompassos) e [Guilherme](https://github.com/GG555-13) | [Gabriel](https://github.com/GabrielMR360) e [Rodrigo](https://github.com/OrlandiRodrigo) |
