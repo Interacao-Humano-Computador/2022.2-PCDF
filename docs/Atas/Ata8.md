@@ -53,4 +53,4 @@ Os integrantes dão por encerrada a reunião às 20:50 do dia 05/01/2023.
 
 |    Data    | Versão |            Descrição             |     Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------------------: | :----------------: | :---------: |
-| 05/01/2023 |  1.0   | Criação da ata da reunião 05/01  | [Guilherme Oliveira](https://github.com/GG555-13) |   [Rodrigo de Andrade](https://github.com/OrlandiRodrigo)           |
+| 10/01/2023 |  1.0   | Criação da ata da reunião 05/01  | [Guilherme Oliveira](https://github.com/GG555-13) |   [Rodrigo de Andrade](https://github.com/OrlandiRodrigo)           |
