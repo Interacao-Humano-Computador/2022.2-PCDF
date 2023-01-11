@@ -64,7 +64,7 @@ O protótipo de papel criado para a avaliação por prototipação de papel est�
 
 O vídeo a seguir apresenta a execução do teste piloto do projeto no dia 10/01.
 
-<iframe width="1000vw" height="400vh" src="https://youtu.be/iFMzRF4-SsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://youtube.com/embed/iFMzRF4-SsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 Como observado, o teste correu bem duranto todo seu prolongamento. Não há correções a serem feitas, e julgamos que o teste não necessita de melhorias imediatas, visto que ele tem natureza de baixa fidelidade. O que deve ser levado em consideração é que os participantes do teste já sabiam como o processo deveria ocorrer e quais seus passos, logo, o resultado do teste com usuário tende a diferenciar-se. <br>
@@ -73,7 +73,7 @@ Como observado, o teste correu bem duranto todo seu prolongamento. Não há corr
 O objetivo dessa atividade de avaliação por interrogação é de registrar as experiências vivenciadas pelos usuários participantes. A cordialidade do avaliador Rodrigo foi essencial para deixar a usuária à vontade para relatar o processo de prototipação aplicado pela equipe.
 Após as etapas iniciais de recepção do participante, apresentação e assinatura do termo de consentimento, é iniciado a sessão de observação. Os dois avaliadores responsáveis da dinâmica atentaram-se aos passos tomados pela usuária e o processo inteiro foi gravado para a interpretação futura dos dados. <br>
 
-<iframe width="1000vw" height="400vh" src="https://youtu.be/iFMzRF4-SsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://youtube.com/embed/iFMzRF4-SsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 Com o vídeo em mãos, bastou editá-lo para que ficasse apresnetável. Então, os avaliadores o reassistiram prestando atenção em detalhes como possíveis hesitações por parte da usuária na hora de prosseguir as etapas da tarefa. Tendo em vista todos esses pequenos aspectos, tão como o relato da participante convidada, julgou-se um protótipo intuitivo, eficiente e realista, que consegue guiar a usuária pela tarefa sem causar estranhamentos ou confusões. Melhorias e correções serão, pois, suspensas por enquanto.
 
