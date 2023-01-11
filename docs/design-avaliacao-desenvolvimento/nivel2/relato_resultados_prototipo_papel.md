@@ -77,12 +77,12 @@ Como observado, o teste correu bem duranto todo seu prolongamento. Não há corr
 O objetivo dessa atividade de avaliação por interrogação é de registrar as experiências vivenciadas pelos usuários participantes. A cordialidade do avaliador Rodrigo foi essencial para deixar a usuária à vontade para relatar o processo de prototipação aplicado pela equipe.
 Após as etapas iniciais de recepção do participante, apresentação e assinatura do termo de consentimento, é iniciado a sessão de observação. Os dois avaliadores responsáveis da dinâmica atentaram-se aos passos tomados pela usuária e o processo inteiro foi gravado para a interpretação futura dos dados.
 [COLOCAR O LINK DA AVALIAÇÃO EDITADA AQUI] 
-[interpretação aqui]
+Com o vídeo em mãos, bastou editá-lo para que ficasse apresnetável. Então, os avaliadores o reassistiram prestando atenção em detalhes como possíveis hesitações por parte da usuária na hora de prosseguir as etapas da tarefa. Tendo em vista todos esses pequenos aspectos, tão como o relato da participante convidada, julgou-se um protótipo intuitivo, eficiente e realista, que consegue guiar a usuária pela tarefa sem causar estranhamentos ou confusões. Melhorias e correções serão, pois, suspensas por enquanto.
 
 
 
 ## Resultados da Avaliação
-[A IDEIA É VER O VÍDEO DA AVALIAÇÃO E NORAR SE HÁ ALGUM PROBLEMA A SER RELATADO, ALGUMA SUGESTÃO DE CORREÇÃO, SE FICOU ENTENDÍVEL, E SE O USUÁRIO TRAVOU EM ALGUM PONTO]
+A avaliação no que tange o protótipo de papel verificou-se um sucesso. Os processo do método investigativo ocorreu de acordo com o que foi previamente planejado pela equipe e os resultados foram satisfatórios. A usuária entrevistada julgou o protótipo de papel como "completo" e "exatamento como necessário", portanto não tendo dificuldades para executar o que lhe foi atribuída. 
 
 
 ## Refêrencias
