@@ -14,7 +14,7 @@ De acordo com a framework DECIDE, a prototipação em papel foi escolhida e apli
 * Seu desenvolvimento, como método de avaliação, envolve a <b>exploração</b> da tarefa a ser realizada pelo usuário, como pode ser visto na figura 1 a seguir. O usuário seguirá a realização da tarefa definida, fornecendo os dados necessários pela avaliação; <br>
 
 <center>
-    ![Tabela de Dados da Prototipação em Papel](imagens_nvl2/relato_protpapel1.png)
+    ![Tabela de Dados da Prototipação em Papel](/imagens_nvl2/relato_protpapel1.png))
     <figcaption align='center'>
         <h6><b>Figura 1:</b> Etapas detalhadas do método de avaliação de prototipação em papel. Fonte: Interação Humano-Computador; Página 359</h6>
     </figcaption>
@@ -57,7 +57,7 @@ O protótipo de papel criado para a avaliação por prototipação de papel est�
 * O protótipo foi desenvolvido para ser facilmente entendível por qualquer usuário, e intuitivo o suficiente para a realização simples da tarefa. A equipe se baseou nas metas de usabilidade, especialmente as de eficácia, eficiência, fácil aprendizagem, e de segurança para o desenvolvimento do protótipo.
 
 <center>
-![Protótipo de Papel Utilizado](.../imagens_nvl2/relato_protpapel2.jpg)
+![Protótipo de Papel Utilizado](/imagens_nvl2/relato_protpapel2.jpg)
     <figcaption align='center'>
         <h6><b>Figura 2:</b> Protótipo de papel utilizado na avaliação. Fonte: Elaboração de Guilherme e Yago</h6>
     </figcaption>
