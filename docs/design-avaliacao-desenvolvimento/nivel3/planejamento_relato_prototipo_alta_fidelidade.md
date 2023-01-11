@@ -83,6 +83,7 @@ Para assegurar uma maior qualidade na produção do artefato, os seguintes parâ
 ## Referências
 
 > [2] BARBOSA, Simone; SILVA, Bruno. Métodos de Avaliação de IHC. In: BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Elsevier Editora Ltda. pág. 208
+>
 > [2.4] BARBOSA, Simone; SILVA, Bruno. Métodos de Avaliação de IHC. In: BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. Elsevier Editora Ltda. pág. 155-156
 
 ## Histórico de Versão
