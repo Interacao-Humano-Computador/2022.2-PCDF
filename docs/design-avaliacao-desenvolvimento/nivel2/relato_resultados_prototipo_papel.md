@@ -3,7 +3,7 @@
 ## Introdução
 O protótipo de baixa fidelidade empregado no projeto, como demonstrado anteriormente, foi o protótipo de papel. Para poder verificar a sua efetividade, ele foi analisado por meio do método de avaliação de <b>prototipação em papel</b>, cujo principal objetivo é avaliar a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários (Simone, Santana, 2021). Após escolhido o método de avaliação de IHC, e aplicado com base na framework DECIDE, foram feitos o teste piloto e a avaliação em si do protótipo de papel.<br>
 
-## Utilizando o Percurso Cognitivo
+## Utilizando a Prototipação em Papel
 De acordo com o planejamento pela framework DECIDE e com a ajuda do professor André Barros, foi determinado que a prototipação em papel seria o modo ideal de avaliar o protótipo de baixa fidelidade, por ser um modo rápido e barato de identificar problemas de usabilidade (Simone, Barbosa, 2021), apropriado para a fase conceitual de desenvolvimento do projeto, de acordo com o processo de design Ciclo de Vida para Engenharia de Usabilidade de Mayhew. A equipe encontrou como de ideal implementação na fase conceitual, parte do Processo de Design de Mayhew da qual a abordagem do protótipo de papel pode ser melhor incluída.<br>
 
 ### Motivo de Escolha e Aplicação
