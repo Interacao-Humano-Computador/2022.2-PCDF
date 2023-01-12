@@ -1,4 +1,4 @@
-<center>Relato dos Resultados do Protótipo de Baixa Fidelidade</center>
+# <b>Relato dos Resultados do Protótipo de Baixa Fidelidade</b>
 
 ## Introdução
 O protótipo de baixa fidelidade empregado no projeto, como demonstrado anteriormente, foi o protótipo de papel. Para poder verificar a sua efetividade, ele foi analisado por meio do método de avaliação de <b>prototipação em papel</b>, cujo principal objetivo é avaliar a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários (Simone, Santana, 2021). Após escolhido o método de avaliação de IHC, e aplicado com base na framework DECIDE, foram feitos o teste piloto e a avaliação em si do protótipo de papel.<br>

@@ -1,4 +1,4 @@
-<center>Planejamento do Protótipo de Alta Fidelidade</center>
+# <b>Planejamento do Protótipo de Alta Fidelidade</b>
 
 ## 1. Introdução
 
