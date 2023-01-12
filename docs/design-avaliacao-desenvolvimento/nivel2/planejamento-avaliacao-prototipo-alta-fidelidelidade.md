@@ -1,3 +1,4 @@
+<center>Planejamento do Protótipo de Alta Fidelidade</center>
 
 ## 1. Introdução
 
@@ -70,7 +71,7 @@ Na tabela abaixo, temos as datas das atividades, quem vai realizar e o local
 </figcaption>
 <br>
 
-## 6. Relato dos Resultados
+## 8. Relato dos Resultados
 
 O relato dos resultados do teste de usabilidade deve descrever:
 - os objetivos e escopo da avaliação;

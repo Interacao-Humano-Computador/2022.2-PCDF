@@ -1,4 +1,4 @@
-<h1 align="center">Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade</h1>
+<center>Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade</center>
 
 # 1. Introdução
 
