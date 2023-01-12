@@ -1,4 +1,3 @@
-<h1 align="center">Planejamento da Avaliação do Protótipo de Alta Fidelidade</h1>
 
 ## 1. Introdução
 
