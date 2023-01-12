@@ -49,15 +49,20 @@ nav:
     - Guia de Estilo: analise-de-requisitos/guia_de_estilo.md
     - Características da Plataforma do Projeto: analise-de-requisitos/carac_plat_proj.md
   - Design, Avaliação e Planejamento: 
+    - Questões Práticas: design-avaliacao-desenvolvimento/questoes_praticas.md
+    - Questões Éticas: design-avaliacao-desenvolvimento/questoes_eticas.md
     - Nível 1:
       - Framework DECIDE: design-avaliacao-desenvolvimento/nivel1/framework_decide.md
       - Planejamento da Avaliação do Storyboard: design-avaliacao-desenvolvimento/nivel1/planejamento-avaliacao-storyboard.md
-      - Questões Práticas: design-avaliacao-desenvolvimento/nivel1/questoes_praticas.md
-      - Questões Éticas: design-avaliacao-desenvolvimento/nivel1/questoes_eticas.md
       - Planejamento da Análise de Tarefas: design-avaliacao-desenvolvimento/nivel1/Planejamento_Analise_Tarefas.md
+      - Relato dos Resultados do Storyboard: design-avaliacao-desenvolvimento/nivel1/avaliacao_do_storyboard.md
+      - Planejamento e Relato do Planejamento do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel1/planejamento-avaliacao-prototipo.md
     - Nível 2:
-      - Relato dos Resultados do Storyboard: design-avaliacao-desenvolvimento/nivel2/avaliacao_do_storyboard.md
-      - Planejamento e Relato do Planejamento do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel2/planejamento-avaliacao-prototipo.md
+      - Resultados do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel2/relato_resultados_prototipo_papel.md
+      - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design-avaliacao-desenvolvimento/nivel2/planejamento-avaliacao-prototipo-alta-fidelidelidade.md
+      - Planejamento dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design-avaliacao-desenvolvimento/nivel2/planejamento_relato_prototipo_alta_fidelidade.md
+    - Nível 3:
+ 
   - Reuniões:
     - Reunião01: Atas/Ata1.md
     - Reunião02: Atas/Ata2.md
